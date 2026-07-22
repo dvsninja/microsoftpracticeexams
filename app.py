@@ -145,7 +145,12 @@ def render_progress(results: bool = False) -> None:
         if results:
             status = "unanswered" if index not in st.session_state.answers else ("correct" if is_correct(index) else "incorrect")
         else:
-            status = "current" if index == st.session_state.question_index else ("answered" if index in st.session_state.answers else "pending")
+            if index in st.session_state.reviewed:
+                status = "correct" if is_correct(index) else "incorrect"
+            elif index == st.session_state.question_index:
+                status = "current"
+            else:
+                status = "answered" if index in st.session_state.answers else "pending"
         mode = "results" if results else "exam"
         boxes.append(f"<a class='progress-box {status}' href='?jump={index}&amp;mode={mode}' target='_self'>{index + 1}</a>")
     st.markdown(f"<div class='progress-grid'>{''.join(boxes)}</div>", unsafe_allow_html=True)
