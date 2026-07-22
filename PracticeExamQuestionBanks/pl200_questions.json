@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of dataverse. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Dataverse data model and security. Use tables, relationships, columns, and appropriate privileges is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in dataverse?",
+    "options": [
+      "A. store all relational data in one text field",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use tables, relationships, columns, and appropriate privileges supports the primary objective to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for dataverse.",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Dataverse data model and security and to use tables, relationships, columns, and appropriate privileges. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to configure a Dataverse data model and security when addressing dataverse.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the dataverse concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Dataverse data model and security",
+      "use tables, relationships, columns, and appropriate privileges",
+      "store all relational data in one text field"
+    ],
+    "answer": {
+      "Primary objective": "configure a Dataverse data model and security",
+      "Supporting practice": "use tables, relationships, columns, and appropriate privileges",
+      "Unsafe approach": "store all relational data in one text field"
+    },
+    "explanation": "The primary objective is to configure a Dataverse data model and security; the complementary practice is to use tables, relationships, columns, and appropriate privileges. Store all relational data in one text field is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a dataverse initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to store all relational data in one text field. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Dataverse data model and security. Store all relational data in one text field does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good dataverse practice?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. use tables, relationships, columns, and appropriate privileges",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Dataverse data model and security with the supporting practice to use tables, relationships, columns, and appropriate privileges.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of power apps. Which approach best meets the requirement?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement. Configure forms, views, controls, and user experience is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in power apps?",
+    "options": [
+      "A. build directly in production without testing",
+      "B. configure forms, views, controls, and user experience",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Configure forms, views, controls, and user experience supports the primary objective to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for power apps.",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a model-driven or canvas app for the business requirement and to configure forms, views, controls, and user experience. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to create a model-driven or canvas app for the business requirement when addressing power apps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the power apps concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a model-driven or canvas app for the business requirement",
+      "configure forms, views, controls, and user experience",
+      "build directly in production without testing"
+    ],
+    "answer": {
+      "Primary objective": "create a model-driven or canvas app for the business requirement",
+      "Supporting practice": "configure forms, views, controls, and user experience",
+      "Unsafe approach": "build directly in production without testing"
+    },
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement; the complementary practice is to configure forms, views, controls, and user experience. Build directly in production without testing is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a power apps initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to build directly in production without testing. What should the project team recommend instead?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a model-driven or canvas app for the business requirement. Build directly in production without testing does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good power apps practice?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. configure forms, views, controls, and user experience",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a model-driven or canvas app for the business requirement with the supporting practice to configure forms, views, controls, and user experience.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of process automation. Which approach best meets the requirement?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate. Use triggers, conditions, approvals, and error handling is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in process automation?",
+    "options": [
+      "A. replace every workflow with manual email",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use triggers, conditions, approvals, and error handling supports the primary objective to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for process automation.",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create logic and process automation by using Power Automate and to use triggers, conditions, approvals, and error handling. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to create logic and process automation by using Power Automate when addressing process automation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the process automation concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create logic and process automation by using Power Automate",
+      "use triggers, conditions, approvals, and error handling",
+      "replace every workflow with manual email"
+    ],
+    "answer": {
+      "Primary objective": "create logic and process automation by using Power Automate",
+      "Supporting practice": "use triggers, conditions, approvals, and error handling",
+      "Unsafe approach": "replace every workflow with manual email"
+    },
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate; the complementary practice is to use triggers, conditions, approvals, and error handling. Replace every workflow with manual email is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a process automation initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to replace every workflow with manual email. What should the project team recommend instead?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create logic and process automation by using Power Automate. Replace every workflow with manual email does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good process automation practice?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use triggers, conditions, approvals, and error handling",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create logic and process automation by using Power Automate with the supporting practice to use triggers, conditions, approvals, and error handling.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of power pages. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Power Pages site for external users. Apply web roles, table permissions, and authentication is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in power pages?",
+    "options": [
+      "A. expose all Dataverse records publicly",
+      "B. apply web roles, table permissions, and authentication",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply web roles, table permissions, and authentication supports the primary objective to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for power pages.",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Power Pages site for external users and to apply web roles, table permissions, and authentication. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to configure a Power Pages site for external users when addressing power pages.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the power pages concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Power Pages site for external users",
+      "apply web roles, table permissions, and authentication",
+      "expose all Dataverse records publicly"
+    ],
+    "answer": {
+      "Primary objective": "configure a Power Pages site for external users",
+      "Supporting practice": "apply web roles, table permissions, and authentication",
+      "Unsafe approach": "expose all Dataverse records publicly"
+    },
+    "explanation": "The primary objective is to configure a Power Pages site for external users; the complementary practice is to apply web roles, table permissions, and authentication. Expose all dataverse records publicly is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a power pages initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to expose all Dataverse records publicly. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Power Pages site for external users. Expose all dataverse records publicly does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good power pages practice?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. apply web roles, table permissions, and authentication",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Power Pages site for external users with the supporting practice to apply web roles, table permissions, and authentication.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of environments and alm. Which approach best meets the requirement?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle. Develop, test, and deploy with controlled solutions is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in environments and alm?",
+    "options": [
+      "A. share a production maker account",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Develop, test, and deploy with controlled solutions supports the primary objective to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for environments and alm.",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage environments and solutions through the lifecycle and to develop, test, and deploy with controlled solutions. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to manage environments and solutions through the lifecycle when addressing environments and alm.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the environments and alm concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage environments and solutions through the lifecycle",
+      "develop, test, and deploy with controlled solutions",
+      "share a production maker account"
+    ],
+    "answer": {
+      "Primary objective": "manage environments and solutions through the lifecycle",
+      "Supporting practice": "develop, test, and deploy with controlled solutions",
+      "Unsafe approach": "share a production maker account"
+    },
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle; the complementary practice is to develop, test, and deploy with controlled solutions. Share a production maker account is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a environments and alm initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to share a production maker account. What should the project team recommend instead?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage environments and solutions through the lifecycle. Share a production maker account does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good environments and alm practice?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. develop, test, and deploy with controlled solutions",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage environments and solutions through the lifecycle with the supporting practice to develop, test, and deploy with controlled solutions.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of dataverse. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Dataverse data model and security. Use tables, relationships, columns, and appropriate privileges is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in dataverse?",
+    "options": [
+      "A. store all relational data in one text field",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use tables, relationships, columns, and appropriate privileges supports the primary objective to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for dataverse.",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Dataverse data model and security and to use tables, relationships, columns, and appropriate privileges. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to configure a Dataverse data model and security when addressing dataverse.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the dataverse concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Dataverse data model and security",
+      "use tables, relationships, columns, and appropriate privileges",
+      "store all relational data in one text field"
+    ],
+    "answer": {
+      "Primary objective": "configure a Dataverse data model and security",
+      "Supporting practice": "use tables, relationships, columns, and appropriate privileges",
+      "Unsafe approach": "store all relational data in one text field"
+    },
+    "explanation": "The primary objective is to configure a Dataverse data model and security; the complementary practice is to use tables, relationships, columns, and appropriate privileges. Store all relational data in one text field is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a dataverse initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to store all relational data in one text field. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Dataverse data model and security. Store all relational data in one text field does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good dataverse practice?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. use tables, relationships, columns, and appropriate privileges",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Dataverse data model and security with the supporting practice to use tables, relationships, columns, and appropriate privileges.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of power apps. Which approach best meets the requirement?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement. Configure forms, views, controls, and user experience is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in power apps?",
+    "options": [
+      "A. build directly in production without testing",
+      "B. configure forms, views, controls, and user experience",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Configure forms, views, controls, and user experience supports the primary objective to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for power apps.",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a model-driven or canvas app for the business requirement and to configure forms, views, controls, and user experience. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to create a model-driven or canvas app for the business requirement when addressing power apps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the power apps concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a model-driven or canvas app for the business requirement",
+      "configure forms, views, controls, and user experience",
+      "build directly in production without testing"
+    ],
+    "answer": {
+      "Primary objective": "create a model-driven or canvas app for the business requirement",
+      "Supporting practice": "configure forms, views, controls, and user experience",
+      "Unsafe approach": "build directly in production without testing"
+    },
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement; the complementary practice is to configure forms, views, controls, and user experience. Build directly in production without testing is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a power apps initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to build directly in production without testing. What should the project team recommend instead?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a model-driven or canvas app for the business requirement. Build directly in production without testing does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good power apps practice?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. configure forms, views, controls, and user experience",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a model-driven or canvas app for the business requirement with the supporting practice to configure forms, views, controls, and user experience.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of process automation. Which approach best meets the requirement?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate. Use triggers, conditions, approvals, and error handling is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in process automation?",
+    "options": [
+      "A. replace every workflow with manual email",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use triggers, conditions, approvals, and error handling supports the primary objective to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for process automation.",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create logic and process automation by using Power Automate and to use triggers, conditions, approvals, and error handling. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to create logic and process automation by using Power Automate when addressing process automation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the process automation concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create logic and process automation by using Power Automate",
+      "use triggers, conditions, approvals, and error handling",
+      "replace every workflow with manual email"
+    ],
+    "answer": {
+      "Primary objective": "create logic and process automation by using Power Automate",
+      "Supporting practice": "use triggers, conditions, approvals, and error handling",
+      "Unsafe approach": "replace every workflow with manual email"
+    },
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate; the complementary practice is to use triggers, conditions, approvals, and error handling. Replace every workflow with manual email is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a process automation initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to replace every workflow with manual email. What should the project team recommend instead?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create logic and process automation by using Power Automate. Replace every workflow with manual email does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good process automation practice?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use triggers, conditions, approvals, and error handling",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create logic and process automation by using Power Automate with the supporting practice to use triggers, conditions, approvals, and error handling.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of power pages. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Power Pages site for external users. Apply web roles, table permissions, and authentication is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in power pages?",
+    "options": [
+      "A. expose all Dataverse records publicly",
+      "B. apply web roles, table permissions, and authentication",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply web roles, table permissions, and authentication supports the primary objective to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for power pages.",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Power Pages site for external users and to apply web roles, table permissions, and authentication. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to configure a Power Pages site for external users when addressing power pages.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the power pages concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Power Pages site for external users",
+      "apply web roles, table permissions, and authentication",
+      "expose all Dataverse records publicly"
+    ],
+    "answer": {
+      "Primary objective": "configure a Power Pages site for external users",
+      "Supporting practice": "apply web roles, table permissions, and authentication",
+      "Unsafe approach": "expose all Dataverse records publicly"
+    },
+    "explanation": "The primary objective is to configure a Power Pages site for external users; the complementary practice is to apply web roles, table permissions, and authentication. Expose all dataverse records publicly is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a power pages initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to expose all Dataverse records publicly. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Power Pages site for external users. Expose all dataverse records publicly does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good power pages practice?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. apply web roles, table permissions, and authentication",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Power Pages site for external users with the supporting practice to apply web roles, table permissions, and authentication.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of environments and alm. Which approach best meets the requirement?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle. Develop, test, and deploy with controlled solutions is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in environments and alm?",
+    "options": [
+      "A. share a production maker account",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Develop, test, and deploy with controlled solutions supports the primary objective to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for environments and alm.",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage environments and solutions through the lifecycle and to develop, test, and deploy with controlled solutions. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to manage environments and solutions through the lifecycle when addressing environments and alm.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the environments and alm concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage environments and solutions through the lifecycle",
+      "develop, test, and deploy with controlled solutions",
+      "share a production maker account"
+    ],
+    "answer": {
+      "Primary objective": "manage environments and solutions through the lifecycle",
+      "Supporting practice": "develop, test, and deploy with controlled solutions",
+      "Unsafe approach": "share a production maker account"
+    },
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle; the complementary practice is to develop, test, and deploy with controlled solutions. Share a production maker account is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a environments and alm initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to share a production maker account. What should the project team recommend instead?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage environments and solutions through the lifecycle. Share a production maker account does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good environments and alm practice?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. develop, test, and deploy with controlled solutions",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage environments and solutions through the lifecycle with the supporting practice to develop, test, and deploy with controlled solutions.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of dataverse. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Dataverse data model and security. Use tables, relationships, columns, and appropriate privileges is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in dataverse?",
+    "options": [
+      "A. store all relational data in one text field",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use tables, relationships, columns, and appropriate privileges supports the primary objective to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for dataverse.",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. use tables, relationships, columns, and appropriate privileges",
+      "C. store all relational data in one text field",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Dataverse data model and security and to use tables, relationships, columns, and appropriate privileges. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to configure a Dataverse data model and security when addressing dataverse.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Dataverse data model and security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the dataverse concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Dataverse data model and security",
+      "use tables, relationships, columns, and appropriate privileges",
+      "store all relational data in one text field"
+    ],
+    "answer": {
+      "Primary objective": "configure a Dataverse data model and security",
+      "Supporting practice": "use tables, relationships, columns, and appropriate privileges",
+      "Unsafe approach": "store all relational data in one text field"
+    },
+    "explanation": "The primary objective is to configure a Dataverse data model and security; the complementary practice is to use tables, relationships, columns, and appropriate privileges. Store all relational data in one text field is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a dataverse initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a dataverse data model and security",
+      "Use tables, relationships, columns, and appropriate privileges",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to store all relational data in one text field. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. grant every user full access",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Dataverse data model and security. Store all relational data in one text field does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Dataverse",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good dataverse practice?",
+    "options": [
+      "A. configure a Dataverse data model and security",
+      "B. store all relational data in one text field",
+      "C. use tables, relationships, columns, and appropriate privileges",
+      "D. grant every user full access"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Dataverse data model and security with the supporting practice to use tables, relationships, columns, and appropriate privileges.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of power apps. Which approach best meets the requirement?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement. Configure forms, views, controls, and user experience is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in power apps?",
+    "options": [
+      "A. build directly in production without testing",
+      "B. configure forms, views, controls, and user experience",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Configure forms, views, controls, and user experience supports the primary objective to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for power apps.",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. configure forms, views, controls, and user experience",
+      "C. build directly in production without testing",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a model-driven or canvas app for the business requirement and to configure forms, views, controls, and user experience. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to create a model-driven or canvas app for the business requirement when addressing power apps.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a model-driven or canvas app for the business requirement.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the power apps concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a model-driven or canvas app for the business requirement",
+      "configure forms, views, controls, and user experience",
+      "build directly in production without testing"
+    ],
+    "answer": {
+      "Primary objective": "create a model-driven or canvas app for the business requirement",
+      "Supporting practice": "configure forms, views, controls, and user experience",
+      "Unsafe approach": "build directly in production without testing"
+    },
+    "explanation": "The primary objective is to create a model-driven or canvas app for the business requirement; the complementary practice is to configure forms, views, controls, and user experience. Build directly in production without testing is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a power apps initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a model-driven or canvas app for the business requirement",
+      "Configure forms, views, controls, and user experience",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to build directly in production without testing. What should the project team recommend instead?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. ignore data-source permissions",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a model-driven or canvas app for the business requirement. Build directly in production without testing does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Apps",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good power apps practice?",
+    "options": [
+      "A. create a model-driven or canvas app for the business requirement",
+      "B. build directly in production without testing",
+      "C. configure forms, views, controls, and user experience",
+      "D. ignore data-source permissions"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a model-driven or canvas app for the business requirement with the supporting practice to configure forms, views, controls, and user experience.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of process automation. Which approach best meets the requirement?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate. Use triggers, conditions, approvals, and error handling is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in process automation?",
+    "options": [
+      "A. replace every workflow with manual email",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use triggers, conditions, approvals, and error handling supports the primary objective to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for process automation.",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. use triggers, conditions, approvals, and error handling",
+      "C. replace every workflow with manual email",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create logic and process automation by using Power Automate and to use triggers, conditions, approvals, and error handling. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to create logic and process automation by using Power Automate when addressing process automation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create logic and process automation by using Power Automate.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the process automation concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create logic and process automation by using Power Automate",
+      "use triggers, conditions, approvals, and error handling",
+      "replace every workflow with manual email"
+    ],
+    "answer": {
+      "Primary objective": "create logic and process automation by using Power Automate",
+      "Supporting practice": "use triggers, conditions, approvals, and error handling",
+      "Unsafe approach": "replace every workflow with manual email"
+    },
+    "explanation": "The primary objective is to create logic and process automation by using Power Automate; the complementary practice is to use triggers, conditions, approvals, and error handling. Replace every workflow with manual email is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a process automation initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create logic and process automation by using power automate",
+      "Use triggers, conditions, approvals, and error handling",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to replace every workflow with manual email. What should the project team recommend instead?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use a dashboard as a trigger",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create logic and process automation by using Power Automate. Replace every workflow with manual email does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Process automation",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good process automation practice?",
+    "options": [
+      "A. create logic and process automation by using Power Automate",
+      "B. replace every workflow with manual email",
+      "C. use triggers, conditions, approvals, and error handling",
+      "D. use a dashboard as a trigger"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create logic and process automation by using Power Automate with the supporting practice to use triggers, conditions, approvals, and error handling.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of power pages. Which approach best meets the requirement?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure a Power Pages site for external users. Apply web roles, table permissions, and authentication is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in power pages?",
+    "options": [
+      "A. expose all Dataverse records publicly",
+      "B. apply web roles, table permissions, and authentication",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply web roles, table permissions, and authentication supports the primary objective to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for power pages.",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. apply web roles, table permissions, and authentication",
+      "C. expose all Dataverse records publicly",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure a Power Pages site for external users and to apply web roles, table permissions, and authentication. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to configure a Power Pages site for external users when addressing power pages.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure a Power Pages site for external users.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the power pages concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure a Power Pages site for external users",
+      "apply web roles, table permissions, and authentication",
+      "expose all Dataverse records publicly"
+    ],
+    "answer": {
+      "Primary objective": "configure a Power Pages site for external users",
+      "Supporting practice": "apply web roles, table permissions, and authentication",
+      "Unsafe approach": "expose all Dataverse records publicly"
+    },
+    "explanation": "The primary objective is to configure a Power Pages site for external users; the complementary practice is to apply web roles, table permissions, and authentication. Expose all dataverse records publicly is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a power pages initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure a power pages site for external users",
+      "Apply web roles, table permissions, and authentication",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to expose all Dataverse records publicly. What should the project team recommend instead?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. rely on hidden links for security",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure a Power Pages site for external users. Expose all dataverse records publicly does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Power Pages",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good power pages practice?",
+    "options": [
+      "A. configure a Power Pages site for external users",
+      "B. expose all Dataverse records publicly",
+      "C. apply web roles, table permissions, and authentication",
+      "D. rely on hidden links for security"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure a Power Pages site for external users with the supporting practice to apply web roles, table permissions, and authentication.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of environments and alm. Which approach best meets the requirement?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle. Develop, test, and deploy with controlled solutions is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in environments and alm?",
+    "options": [
+      "A. share a production maker account",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Develop, test, and deploy with controlled solutions supports the primary objective to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for environments and alm.",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. develop, test, and deploy with controlled solutions",
+      "C. share a production maker account",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage environments and solutions through the lifecycle and to develop, test, and deploy with controlled solutions. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to manage environments and solutions through the lifecycle when addressing environments and alm.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage environments and solutions through the lifecycle.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the environments and alm concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage environments and solutions through the lifecycle",
+      "develop, test, and deploy with controlled solutions",
+      "share a production maker account"
+    ],
+    "answer": {
+      "Primary objective": "manage environments and solutions through the lifecycle",
+      "Supporting practice": "develop, test, and deploy with controlled solutions",
+      "Unsafe approach": "share a production maker account"
+    },
+    "explanation": "The primary objective is to manage environments and solutions through the lifecycle; the complementary practice is to develop, test, and deploy with controlled solutions. Share a production maker account is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a environments and alm initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage environments and solutions through the lifecycle",
+      "Develop, test, and deploy with controlled solutions",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to share a production maker account. What should the project team recommend instead?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. skip solution management",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage environments and solutions through the lifecycle. Share a production maker account does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-200",
+    "pillar": "Environments and ALM",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good environments and alm practice?",
+    "options": [
+      "A. manage environments and solutions through the lifecycle",
+      "B. share a production maker account",
+      "C. develop, test, and deploy with controlled solutions",
+      "D. skip solution management"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage environments and solutions through the lifecycle with the supporting practice to develop, test, and deploy with controlled solutions.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

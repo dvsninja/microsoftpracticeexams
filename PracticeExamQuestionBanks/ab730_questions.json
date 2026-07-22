@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of generative ai fundamentals. Which approach best meets the requirement?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use generative AI to create and transform business content. Evaluate outputs for accuracy and appropriateness is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in generative ai fundamentals?",
+    "options": [
+      "A. disable all human review",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Evaluate outputs for accuracy and appropriateness supports the primary objective to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for generative ai fundamentals.",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use generative AI to create and transform business content and to evaluate outputs for accuracy and appropriateness. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to use generative AI to create and transform business content when addressing generative ai fundamentals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the generative ai fundamentals concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use generative AI to create and transform business content",
+      "evaluate outputs for accuracy and appropriateness",
+      "disable all human review"
+    ],
+    "answer": {
+      "Primary objective": "use generative AI to create and transform business content",
+      "Supporting practice": "evaluate outputs for accuracy and appropriateness",
+      "Unsafe approach": "disable all human review"
+    },
+    "explanation": "The primary objective is to use generative AI to create and transform business content; the complementary practice is to evaluate outputs for accuracy and appropriateness. Disable all human review is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a generative ai fundamentals initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to disable all human review. What should the project team recommend instead?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use generative AI to create and transform business content. Disable all human review does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good generative ai fundamentals practice?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. evaluate outputs for accuracy and appropriateness",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use generative AI to create and transform business content with the supporting practice to evaluate outputs for accuracy and appropriateness.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of prompts and conversations. Which approach best meets the requirement?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output. Refine a prompt iteratively based on the response is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in prompts and conversations?",
+    "options": [
+      "A. share confidential data without authorization",
+      "B. refine a prompt iteratively based on the response",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Refine a prompt iteratively based on the response supports the primary objective to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for prompts and conversations.",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to provide clear context, goals, constraints, and desired output and to refine a prompt iteratively based on the response. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to provide clear context, goals, constraints, and desired output when addressing prompts and conversations.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the prompts and conversations concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "provide clear context, goals, constraints, and desired output",
+      "refine a prompt iteratively based on the response",
+      "share confidential data without authorization"
+    ],
+    "answer": {
+      "Primary objective": "provide clear context, goals, constraints, and desired output",
+      "Supporting practice": "refine a prompt iteratively based on the response",
+      "Unsafe approach": "share confidential data without authorization"
+    },
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output; the complementary practice is to refine a prompt iteratively based on the response. Share confidential data without authorization is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a prompts and conversations initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to share confidential data without authorization. What should the project team recommend instead?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should provide clear context, goals, constraints, and desired output. Share confidential data without authorization does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good prompts and conversations practice?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. refine a prompt iteratively based on the response",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to provide clear context, goals, constraints, and desired output with the supporting practice to refine a prompt iteratively based on the response.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of business content. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content. Review and edit ai-generated content before sharing is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in business content?",
+    "options": [
+      "A. replace all document ownership",
+      "B. review and edit AI-generated content before sharing",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Review and edit ai-generated content before sharing supports the primary objective to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for business content.",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to draft, summarize, and analyze business content and to review and edit AI-generated content before sharing. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to use Copilot to draft, summarize, and analyze business content when addressing business content.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the business content concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to draft, summarize, and analyze business content",
+      "review and edit AI-generated content before sharing",
+      "replace all document ownership"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to draft, summarize, and analyze business content",
+      "Supporting practice": "review and edit AI-generated content before sharing",
+      "Unsafe approach": "replace all document ownership"
+    },
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content; the complementary practice is to review and edit AI-generated content before sharing. Replace all document ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a business content initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to replace all document ownership. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to draft, summarize, and analyze business content. Replace all document ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good business content practice?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. review and edit AI-generated content before sharing",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to draft, summarize, and analyze business content with the supporting practice to review and edit AI-generated content before sharing.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of meetings and collaboration. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions. Use copilot pages to collaborate on ai-assisted work is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in meetings and collaboration?",
+    "options": [
+      "A. record meetings without required consent",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use copilot pages to collaborate on ai-assisted work supports the primary objective to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for meetings and collaboration.",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to summarize meetings and identify follow-up actions and to use Copilot Pages to collaborate on AI-assisted work. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to use Copilot to summarize meetings and identify follow-up actions when addressing meetings and collaboration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the meetings and collaboration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to summarize meetings and identify follow-up actions",
+      "use Copilot Pages to collaborate on AI-assisted work",
+      "record meetings without required consent"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to summarize meetings and identify follow-up actions",
+      "Supporting practice": "use Copilot Pages to collaborate on AI-assisted work",
+      "Unsafe approach": "record meetings without required consent"
+    },
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions; the complementary practice is to use Copilot Pages to collaborate on AI-assisted work. Record meetings without required consent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a meetings and collaboration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to record meetings without required consent. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to summarize meetings and identify follow-up actions. Record meetings without required consent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good meetings and collaboration practice?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. use Copilot Pages to collaborate on AI-assisted work",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to summarize meetings and identify follow-up actions with the supporting practice to use Copilot Pages to collaborate on AI-assisted work.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of responsible use. Which approach best meets the requirement?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to validate AI output and protect sensitive information. Apply organizational policies and human judgment is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in responsible use?",
+    "options": [
+      "A. bypass access controls",
+      "B. apply organizational policies and human judgment",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply organizational policies and human judgment supports the primary objective to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for responsible use.",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to validate AI output and protect sensitive information and to apply organizational policies and human judgment. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to validate AI output and protect sensitive information when addressing responsible use.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the responsible use concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "validate AI output and protect sensitive information",
+      "apply organizational policies and human judgment",
+      "bypass access controls"
+    ],
+    "answer": {
+      "Primary objective": "validate AI output and protect sensitive information",
+      "Supporting practice": "apply organizational policies and human judgment",
+      "Unsafe approach": "bypass access controls"
+    },
+    "explanation": "The primary objective is to validate AI output and protect sensitive information; the complementary practice is to apply organizational policies and human judgment. Bypass access controls is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a responsible use initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to bypass access controls. What should the project team recommend instead?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should validate AI output and protect sensitive information. Bypass access controls does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good responsible use practice?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. apply organizational policies and human judgment",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to validate AI output and protect sensitive information with the supporting practice to apply organizational policies and human judgment.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of generative ai fundamentals. Which approach best meets the requirement?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use generative AI to create and transform business content. Evaluate outputs for accuracy and appropriateness is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in generative ai fundamentals?",
+    "options": [
+      "A. disable all human review",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Evaluate outputs for accuracy and appropriateness supports the primary objective to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for generative ai fundamentals.",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use generative AI to create and transform business content and to evaluate outputs for accuracy and appropriateness. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to use generative AI to create and transform business content when addressing generative ai fundamentals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the generative ai fundamentals concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use generative AI to create and transform business content",
+      "evaluate outputs for accuracy and appropriateness",
+      "disable all human review"
+    ],
+    "answer": {
+      "Primary objective": "use generative AI to create and transform business content",
+      "Supporting practice": "evaluate outputs for accuracy and appropriateness",
+      "Unsafe approach": "disable all human review"
+    },
+    "explanation": "The primary objective is to use generative AI to create and transform business content; the complementary practice is to evaluate outputs for accuracy and appropriateness. Disable all human review is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a generative ai fundamentals initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to disable all human review. What should the project team recommend instead?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use generative AI to create and transform business content. Disable all human review does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good generative ai fundamentals practice?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. evaluate outputs for accuracy and appropriateness",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use generative AI to create and transform business content with the supporting practice to evaluate outputs for accuracy and appropriateness.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of prompts and conversations. Which approach best meets the requirement?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output. Refine a prompt iteratively based on the response is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in prompts and conversations?",
+    "options": [
+      "A. share confidential data without authorization",
+      "B. refine a prompt iteratively based on the response",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Refine a prompt iteratively based on the response supports the primary objective to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for prompts and conversations.",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to provide clear context, goals, constraints, and desired output and to refine a prompt iteratively based on the response. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to provide clear context, goals, constraints, and desired output when addressing prompts and conversations.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the prompts and conversations concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "provide clear context, goals, constraints, and desired output",
+      "refine a prompt iteratively based on the response",
+      "share confidential data without authorization"
+    ],
+    "answer": {
+      "Primary objective": "provide clear context, goals, constraints, and desired output",
+      "Supporting practice": "refine a prompt iteratively based on the response",
+      "Unsafe approach": "share confidential data without authorization"
+    },
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output; the complementary practice is to refine a prompt iteratively based on the response. Share confidential data without authorization is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a prompts and conversations initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to share confidential data without authorization. What should the project team recommend instead?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should provide clear context, goals, constraints, and desired output. Share confidential data without authorization does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good prompts and conversations practice?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. refine a prompt iteratively based on the response",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to provide clear context, goals, constraints, and desired output with the supporting practice to refine a prompt iteratively based on the response.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of business content. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content. Review and edit ai-generated content before sharing is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in business content?",
+    "options": [
+      "A. replace all document ownership",
+      "B. review and edit AI-generated content before sharing",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Review and edit ai-generated content before sharing supports the primary objective to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for business content.",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to draft, summarize, and analyze business content and to review and edit AI-generated content before sharing. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to use Copilot to draft, summarize, and analyze business content when addressing business content.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the business content concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to draft, summarize, and analyze business content",
+      "review and edit AI-generated content before sharing",
+      "replace all document ownership"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to draft, summarize, and analyze business content",
+      "Supporting practice": "review and edit AI-generated content before sharing",
+      "Unsafe approach": "replace all document ownership"
+    },
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content; the complementary practice is to review and edit AI-generated content before sharing. Replace all document ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a business content initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to replace all document ownership. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to draft, summarize, and analyze business content. Replace all document ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good business content practice?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. review and edit AI-generated content before sharing",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to draft, summarize, and analyze business content with the supporting practice to review and edit AI-generated content before sharing.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of meetings and collaboration. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions. Use copilot pages to collaborate on ai-assisted work is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in meetings and collaboration?",
+    "options": [
+      "A. record meetings without required consent",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use copilot pages to collaborate on ai-assisted work supports the primary objective to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for meetings and collaboration.",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to summarize meetings and identify follow-up actions and to use Copilot Pages to collaborate on AI-assisted work. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to use Copilot to summarize meetings and identify follow-up actions when addressing meetings and collaboration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the meetings and collaboration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to summarize meetings and identify follow-up actions",
+      "use Copilot Pages to collaborate on AI-assisted work",
+      "record meetings without required consent"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to summarize meetings and identify follow-up actions",
+      "Supporting practice": "use Copilot Pages to collaborate on AI-assisted work",
+      "Unsafe approach": "record meetings without required consent"
+    },
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions; the complementary practice is to use Copilot Pages to collaborate on AI-assisted work. Record meetings without required consent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a meetings and collaboration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to record meetings without required consent. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to summarize meetings and identify follow-up actions. Record meetings without required consent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good meetings and collaboration practice?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. use Copilot Pages to collaborate on AI-assisted work",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to summarize meetings and identify follow-up actions with the supporting practice to use Copilot Pages to collaborate on AI-assisted work.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of responsible use. Which approach best meets the requirement?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to validate AI output and protect sensitive information. Apply organizational policies and human judgment is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in responsible use?",
+    "options": [
+      "A. bypass access controls",
+      "B. apply organizational policies and human judgment",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply organizational policies and human judgment supports the primary objective to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for responsible use.",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to validate AI output and protect sensitive information and to apply organizational policies and human judgment. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to validate AI output and protect sensitive information when addressing responsible use.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the responsible use concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "validate AI output and protect sensitive information",
+      "apply organizational policies and human judgment",
+      "bypass access controls"
+    ],
+    "answer": {
+      "Primary objective": "validate AI output and protect sensitive information",
+      "Supporting practice": "apply organizational policies and human judgment",
+      "Unsafe approach": "bypass access controls"
+    },
+    "explanation": "The primary objective is to validate AI output and protect sensitive information; the complementary practice is to apply organizational policies and human judgment. Bypass access controls is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a responsible use initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to bypass access controls. What should the project team recommend instead?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should validate AI output and protect sensitive information. Bypass access controls does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good responsible use practice?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. apply organizational policies and human judgment",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to validate AI output and protect sensitive information with the supporting practice to apply organizational policies and human judgment.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of generative ai fundamentals. Which approach best meets the requirement?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use generative AI to create and transform business content. Evaluate outputs for accuracy and appropriateness is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in generative ai fundamentals?",
+    "options": [
+      "A. disable all human review",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Evaluate outputs for accuracy and appropriateness supports the primary objective to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for generative ai fundamentals.",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. evaluate outputs for accuracy and appropriateness",
+      "C. disable all human review",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use generative AI to create and transform business content and to evaluate outputs for accuracy and appropriateness. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to use generative AI to create and transform business content when addressing generative ai fundamentals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use generative AI to create and transform business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the generative ai fundamentals concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use generative AI to create and transform business content",
+      "evaluate outputs for accuracy and appropriateness",
+      "disable all human review"
+    ],
+    "answer": {
+      "Primary objective": "use generative AI to create and transform business content",
+      "Supporting practice": "evaluate outputs for accuracy and appropriateness",
+      "Unsafe approach": "disable all human review"
+    },
+    "explanation": "The primary objective is to use generative AI to create and transform business content; the complementary practice is to evaluate outputs for accuracy and appropriateness. Disable all human review is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a generative ai fundamentals initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use generative ai to create and transform business content",
+      "Evaluate outputs for accuracy and appropriateness",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to disable all human review. What should the project team recommend instead?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. use a dashboard as a prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use generative AI to create and transform business content. Disable all human review does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Generative AI fundamentals",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good generative ai fundamentals practice?",
+    "options": [
+      "A. use generative AI to create and transform business content",
+      "B. disable all human review",
+      "C. evaluate outputs for accuracy and appropriateness",
+      "D. use a dashboard as a prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use generative AI to create and transform business content with the supporting practice to evaluate outputs for accuracy and appropriateness.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of prompts and conversations. Which approach best meets the requirement?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output. Refine a prompt iteratively based on the response is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in prompts and conversations?",
+    "options": [
+      "A. share confidential data without authorization",
+      "B. refine a prompt iteratively based on the response",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Refine a prompt iteratively based on the response supports the primary objective to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for prompts and conversations.",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. refine a prompt iteratively based on the response",
+      "C. share confidential data without authorization",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to provide clear context, goals, constraints, and desired output and to refine a prompt iteratively based on the response. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to provide clear context, goals, constraints, and desired output when addressing prompts and conversations.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to provide clear context, goals, constraints, and desired output.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the prompts and conversations concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "provide clear context, goals, constraints, and desired output",
+      "refine a prompt iteratively based on the response",
+      "share confidential data without authorization"
+    ],
+    "answer": {
+      "Primary objective": "provide clear context, goals, constraints, and desired output",
+      "Supporting practice": "refine a prompt iteratively based on the response",
+      "Unsafe approach": "share confidential data without authorization"
+    },
+    "explanation": "The primary objective is to provide clear context, goals, constraints, and desired output; the complementary practice is to refine a prompt iteratively based on the response. Share confidential data without authorization is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a prompts and conversations initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Provide clear context, goals, constraints, and desired output",
+      "Refine a prompt iteratively based on the response",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to share confidential data without authorization. What should the project team recommend instead?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. assume the first response is always final",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should provide clear context, goals, constraints, and desired output. Share confidential data without authorization does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Prompts and conversations",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good prompts and conversations practice?",
+    "options": [
+      "A. provide clear context, goals, constraints, and desired output",
+      "B. share confidential data without authorization",
+      "C. refine a prompt iteratively based on the response",
+      "D. assume the first response is always final"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to provide clear context, goals, constraints, and desired output with the supporting practice to refine a prompt iteratively based on the response.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of business content. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content. Review and edit ai-generated content before sharing is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in business content?",
+    "options": [
+      "A. replace all document ownership",
+      "B. review and edit AI-generated content before sharing",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Review and edit ai-generated content before sharing supports the primary objective to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for business content.",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. review and edit AI-generated content before sharing",
+      "C. replace all document ownership",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to draft, summarize, and analyze business content and to review and edit AI-generated content before sharing. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to use Copilot to draft, summarize, and analyze business content when addressing business content.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to draft, summarize, and analyze business content.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the business content concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to draft, summarize, and analyze business content",
+      "review and edit AI-generated content before sharing",
+      "replace all document ownership"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to draft, summarize, and analyze business content",
+      "Supporting practice": "review and edit AI-generated content before sharing",
+      "Unsafe approach": "replace all document ownership"
+    },
+    "explanation": "The primary objective is to use Copilot to draft, summarize, and analyze business content; the complementary practice is to review and edit AI-generated content before sharing. Replace all document ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a business content initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to draft, summarize, and analyze business content",
+      "Review and edit ai-generated content before sharing",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to replace all document ownership. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. publish unreviewed output automatically",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to draft, summarize, and analyze business content. Replace all document ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Business content",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good business content practice?",
+    "options": [
+      "A. use Copilot to draft, summarize, and analyze business content",
+      "B. replace all document ownership",
+      "C. review and edit AI-generated content before sharing",
+      "D. publish unreviewed output automatically"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to draft, summarize, and analyze business content with the supporting practice to review and edit AI-generated content before sharing.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of meetings and collaboration. Which approach best meets the requirement?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions. Use copilot pages to collaborate on ai-assisted work is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in meetings and collaboration?",
+    "options": [
+      "A. record meetings without required consent",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use copilot pages to collaborate on ai-assisted work supports the primary objective to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for meetings and collaboration.",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. use Copilot Pages to collaborate on AI-assisted work",
+      "C. record meetings without required consent",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Copilot to summarize meetings and identify follow-up actions and to use Copilot Pages to collaborate on AI-assisted work. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to use Copilot to summarize meetings and identify follow-up actions when addressing meetings and collaboration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Copilot to summarize meetings and identify follow-up actions.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the meetings and collaboration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Copilot to summarize meetings and identify follow-up actions",
+      "use Copilot Pages to collaborate on AI-assisted work",
+      "record meetings without required consent"
+    ],
+    "answer": {
+      "Primary objective": "use Copilot to summarize meetings and identify follow-up actions",
+      "Supporting practice": "use Copilot Pages to collaborate on AI-assisted work",
+      "Unsafe approach": "record meetings without required consent"
+    },
+    "explanation": "The primary objective is to use Copilot to summarize meetings and identify follow-up actions; the complementary practice is to use Copilot Pages to collaborate on AI-assisted work. Record meetings without required consent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a meetings and collaboration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use copilot to summarize meetings and identify follow-up actions",
+      "Use copilot pages to collaborate on ai-assisted work",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to record meetings without required consent. What should the project team recommend instead?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. treat meeting summaries as a legal record without review",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Copilot to summarize meetings and identify follow-up actions. Record meetings without required consent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Meetings and collaboration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good meetings and collaboration practice?",
+    "options": [
+      "A. use Copilot to summarize meetings and identify follow-up actions",
+      "B. record meetings without required consent",
+      "C. use Copilot Pages to collaborate on AI-assisted work",
+      "D. treat meeting summaries as a legal record without review"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Copilot to summarize meetings and identify follow-up actions with the supporting practice to use Copilot Pages to collaborate on AI-assisted work.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of responsible use. Which approach best meets the requirement?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to validate AI output and protect sensitive information. Apply organizational policies and human judgment is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in responsible use?",
+    "options": [
+      "A. bypass access controls",
+      "B. apply organizational policies and human judgment",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply organizational policies and human judgment supports the primary objective to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for responsible use.",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. apply organizational policies and human judgment",
+      "C. bypass access controls",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to validate AI output and protect sensitive information and to apply organizational policies and human judgment. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to validate AI output and protect sensitive information when addressing responsible use.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to validate AI output and protect sensitive information.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the responsible use concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "validate AI output and protect sensitive information",
+      "apply organizational policies and human judgment",
+      "bypass access controls"
+    ],
+    "answer": {
+      "Primary objective": "validate AI output and protect sensitive information",
+      "Supporting practice": "apply organizational policies and human judgment",
+      "Unsafe approach": "bypass access controls"
+    },
+    "explanation": "The primary objective is to validate AI output and protect sensitive information; the complementary practice is to apply organizational policies and human judgment. Bypass access controls is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a responsible use initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Validate ai output and protect sensitive information",
+      "Apply organizational policies and human judgment",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to bypass access controls. What should the project team recommend instead?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. use AI output as a guaranteed fact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should validate AI output and protect sensitive information. Bypass access controls does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-730",
+    "pillar": "Responsible use",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good responsible use practice?",
+    "options": [
+      "A. validate AI output and protect sensitive information",
+      "B. bypass access controls",
+      "C. apply organizational policies and human judgment",
+      "D. use AI output as a guaranteed fact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to validate AI output and protect sensitive information with the supporting practice to apply organizational policies and human judgment.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

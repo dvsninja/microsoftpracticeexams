@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of ai concepts. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI workload and its business value. Consider fairness, reliability, privacy, and safety is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in ai concepts?",
+    "options": [
+      "A. assume every prediction is certain",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Consider fairness, reliability, privacy, and safety supports the primary objective to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for ai concepts.",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI workload and its business value and to consider fairness, reliability, privacy, and safety. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to identify an AI workload and its business value when addressing ai concepts.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the ai concepts concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI workload and its business value",
+      "consider fairness, reliability, privacy, and safety",
+      "assume every prediction is certain"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI workload and its business value",
+      "Supporting practice": "consider fairness, reliability, privacy, and safety",
+      "Unsafe approach": "assume every prediction is certain"
+    },
+    "explanation": "The primary objective is to identify an AI workload and its business value; the complementary practice is to consider fairness, reliability, privacy, and safety. Assume every prediction is certain is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a ai concepts initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to assume every prediction is certain. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI workload and its business value. Assume every prediction is certain does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good ai concepts practice?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. consider fairness, reliability, privacy, and safety",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI workload and its business value with the supporting practice to consider fairness, reliability, privacy, and safety.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of machine learning. Which approach best meets the requirement?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to train and evaluate a model using representative data. Use appropriate metrics and monitor model performance is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in machine learning?",
+    "options": [
+      "A. train only on unrelated data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate metrics and monitor model performance supports the primary objective to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for machine learning.",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to train and evaluate a model using representative data and to use appropriate metrics and monitor model performance. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to train and evaluate a model using representative data when addressing machine learning.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the machine learning concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "train and evaluate a model using representative data",
+      "use appropriate metrics and monitor model performance",
+      "train only on unrelated data"
+    ],
+    "answer": {
+      "Primary objective": "train and evaluate a model using representative data",
+      "Supporting practice": "use appropriate metrics and monitor model performance",
+      "Unsafe approach": "train only on unrelated data"
+    },
+    "explanation": "The primary objective is to train and evaluate a model using representative data; the complementary practice is to use appropriate metrics and monitor model performance. Train only on unrelated data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a machine learning initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to train only on unrelated data. What should the project team recommend instead?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should train and evaluate a model using representative data. Train only on unrelated data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good machine learning practice?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. use appropriate metrics and monitor model performance",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to train and evaluate a model using representative data with the supporting practice to use appropriate metrics and monitor model performance.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of computer vision. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities. Choose a vision task such as classification, detection, or ocr is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in computer vision?",
+    "options": [
+      "A. use speech synthesis for image labels",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Choose a vision task such as classification, detection, or ocr supports the primary objective to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for computer vision.",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze images or video by using computer vision capabilities and to choose a vision task such as classification, detection, or OCR. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to analyze images or video by using computer vision capabilities when addressing computer vision.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the computer vision concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze images or video by using computer vision capabilities",
+      "choose a vision task such as classification, detection, or OCR",
+      "use speech synthesis for image labels"
+    ],
+    "answer": {
+      "Primary objective": "analyze images or video by using computer vision capabilities",
+      "Supporting practice": "choose a vision task such as classification, detection, or OCR",
+      "Unsafe approach": "use speech synthesis for image labels"
+    },
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities; the complementary practice is to choose a vision task such as classification, detection, or OCR. Use speech synthesis for image labels is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a computer vision initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to use speech synthesis for image labels. What should the project team recommend instead?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze images or video by using computer vision capabilities. Use speech synthesis for image labels does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good computer vision practice?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. choose a vision task such as classification, detection, or OCR",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze images or video by using computer vision capabilities with the supporting practice to choose a vision task such as classification, detection, or OCR.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of natural language processing. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities. Select tasks such as sentiment, extraction, translation, or language understanding is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in natural language processing?",
+    "options": [
+      "A. use object detection to translate text",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Select tasks such as sentiment, extraction, translation, or language understanding supports the primary objective to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for natural language processing.",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze or generate text by using natural language capabilities and to select tasks such as sentiment, extraction, translation, or language understanding. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to analyze or generate text by using natural language capabilities when addressing natural language processing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the natural language processing concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze or generate text by using natural language capabilities",
+      "select tasks such as sentiment, extraction, translation, or language understanding",
+      "use object detection to translate text"
+    ],
+    "answer": {
+      "Primary objective": "analyze or generate text by using natural language capabilities",
+      "Supporting practice": "select tasks such as sentiment, extraction, translation, or language understanding",
+      "Unsafe approach": "use object detection to translate text"
+    },
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities; the complementary practice is to select tasks such as sentiment, extraction, translation, or language understanding. Use object detection to translate text is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a natural language processing initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to use object detection to translate text. What should the project team recommend instead?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze or generate text by using natural language capabilities. Use object detection to translate text does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good natural language processing practice?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. select tasks such as sentiment, extraction, translation, or language understanding",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze or generate text by using natural language capabilities with the supporting practice to select tasks such as sentiment, extraction, translation, or language understanding.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of generative ai and foundry. Which approach best meets the requirement?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution. Ground, evaluate, and monitor the solution responsibly is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in generative ai and foundry?",
+    "options": [
+      "A. deploy untested prompts to production",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground, evaluate, and monitor the solution responsibly supports the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for generative ai and foundry.",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Microsoft Foundry to build and evaluate a generative AI solution and to ground, evaluate, and monitor the solution responsibly. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to use Microsoft Foundry to build and evaluate a generative AI solution when addressing generative ai and foundry.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the generative ai and foundry concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "ground, evaluate, and monitor the solution responsibly",
+      "deploy untested prompts to production"
+    ],
+    "answer": {
+      "Primary objective": "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "Supporting practice": "ground, evaluate, and monitor the solution responsibly",
+      "Unsafe approach": "deploy untested prompts to production"
+    },
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution; the complementary practice is to ground, evaluate, and monitor the solution responsibly. Deploy untested prompts to production is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a generative ai and foundry initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to deploy untested prompts to production. What should the project team recommend instead?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Microsoft Foundry to build and evaluate a generative AI solution. Deploy untested prompts to production does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good generative ai and foundry practice?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. ground, evaluate, and monitor the solution responsibly",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution with the supporting practice to ground, evaluate, and monitor the solution responsibly.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of ai concepts. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI workload and its business value. Consider fairness, reliability, privacy, and safety is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in ai concepts?",
+    "options": [
+      "A. assume every prediction is certain",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Consider fairness, reliability, privacy, and safety supports the primary objective to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for ai concepts.",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI workload and its business value and to consider fairness, reliability, privacy, and safety. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to identify an AI workload and its business value when addressing ai concepts.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the ai concepts concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI workload and its business value",
+      "consider fairness, reliability, privacy, and safety",
+      "assume every prediction is certain"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI workload and its business value",
+      "Supporting practice": "consider fairness, reliability, privacy, and safety",
+      "Unsafe approach": "assume every prediction is certain"
+    },
+    "explanation": "The primary objective is to identify an AI workload and its business value; the complementary practice is to consider fairness, reliability, privacy, and safety. Assume every prediction is certain is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a ai concepts initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to assume every prediction is certain. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI workload and its business value. Assume every prediction is certain does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good ai concepts practice?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. consider fairness, reliability, privacy, and safety",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI workload and its business value with the supporting practice to consider fairness, reliability, privacy, and safety.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of machine learning. Which approach best meets the requirement?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to train and evaluate a model using representative data. Use appropriate metrics and monitor model performance is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in machine learning?",
+    "options": [
+      "A. train only on unrelated data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate metrics and monitor model performance supports the primary objective to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for machine learning.",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to train and evaluate a model using representative data and to use appropriate metrics and monitor model performance. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to train and evaluate a model using representative data when addressing machine learning.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the machine learning concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "train and evaluate a model using representative data",
+      "use appropriate metrics and monitor model performance",
+      "train only on unrelated data"
+    ],
+    "answer": {
+      "Primary objective": "train and evaluate a model using representative data",
+      "Supporting practice": "use appropriate metrics and monitor model performance",
+      "Unsafe approach": "train only on unrelated data"
+    },
+    "explanation": "The primary objective is to train and evaluate a model using representative data; the complementary practice is to use appropriate metrics and monitor model performance. Train only on unrelated data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a machine learning initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to train only on unrelated data. What should the project team recommend instead?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should train and evaluate a model using representative data. Train only on unrelated data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good machine learning practice?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. use appropriate metrics and monitor model performance",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to train and evaluate a model using representative data with the supporting practice to use appropriate metrics and monitor model performance.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of computer vision. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities. Choose a vision task such as classification, detection, or ocr is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in computer vision?",
+    "options": [
+      "A. use speech synthesis for image labels",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Choose a vision task such as classification, detection, or ocr supports the primary objective to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for computer vision.",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze images or video by using computer vision capabilities and to choose a vision task such as classification, detection, or OCR. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to analyze images or video by using computer vision capabilities when addressing computer vision.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the computer vision concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze images or video by using computer vision capabilities",
+      "choose a vision task such as classification, detection, or OCR",
+      "use speech synthesis for image labels"
+    ],
+    "answer": {
+      "Primary objective": "analyze images or video by using computer vision capabilities",
+      "Supporting practice": "choose a vision task such as classification, detection, or OCR",
+      "Unsafe approach": "use speech synthesis for image labels"
+    },
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities; the complementary practice is to choose a vision task such as classification, detection, or OCR. Use speech synthesis for image labels is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a computer vision initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to use speech synthesis for image labels. What should the project team recommend instead?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze images or video by using computer vision capabilities. Use speech synthesis for image labels does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good computer vision practice?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. choose a vision task such as classification, detection, or OCR",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze images or video by using computer vision capabilities with the supporting practice to choose a vision task such as classification, detection, or OCR.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of natural language processing. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities. Select tasks such as sentiment, extraction, translation, or language understanding is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in natural language processing?",
+    "options": [
+      "A. use object detection to translate text",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Select tasks such as sentiment, extraction, translation, or language understanding supports the primary objective to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for natural language processing.",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze or generate text by using natural language capabilities and to select tasks such as sentiment, extraction, translation, or language understanding. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to analyze or generate text by using natural language capabilities when addressing natural language processing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the natural language processing concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze or generate text by using natural language capabilities",
+      "select tasks such as sentiment, extraction, translation, or language understanding",
+      "use object detection to translate text"
+    ],
+    "answer": {
+      "Primary objective": "analyze or generate text by using natural language capabilities",
+      "Supporting practice": "select tasks such as sentiment, extraction, translation, or language understanding",
+      "Unsafe approach": "use object detection to translate text"
+    },
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities; the complementary practice is to select tasks such as sentiment, extraction, translation, or language understanding. Use object detection to translate text is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a natural language processing initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to use object detection to translate text. What should the project team recommend instead?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze or generate text by using natural language capabilities. Use object detection to translate text does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good natural language processing practice?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. select tasks such as sentiment, extraction, translation, or language understanding",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze or generate text by using natural language capabilities with the supporting practice to select tasks such as sentiment, extraction, translation, or language understanding.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of generative ai and foundry. Which approach best meets the requirement?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution. Ground, evaluate, and monitor the solution responsibly is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in generative ai and foundry?",
+    "options": [
+      "A. deploy untested prompts to production",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground, evaluate, and monitor the solution responsibly supports the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for generative ai and foundry.",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Microsoft Foundry to build and evaluate a generative AI solution and to ground, evaluate, and monitor the solution responsibly. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to use Microsoft Foundry to build and evaluate a generative AI solution when addressing generative ai and foundry.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the generative ai and foundry concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "ground, evaluate, and monitor the solution responsibly",
+      "deploy untested prompts to production"
+    ],
+    "answer": {
+      "Primary objective": "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "Supporting practice": "ground, evaluate, and monitor the solution responsibly",
+      "Unsafe approach": "deploy untested prompts to production"
+    },
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution; the complementary practice is to ground, evaluate, and monitor the solution responsibly. Deploy untested prompts to production is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a generative ai and foundry initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to deploy untested prompts to production. What should the project team recommend instead?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Microsoft Foundry to build and evaluate a generative AI solution. Deploy untested prompts to production does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good generative ai and foundry practice?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. ground, evaluate, and monitor the solution responsibly",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution with the supporting practice to ground, evaluate, and monitor the solution responsibly.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of ai concepts. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI workload and its business value. Consider fairness, reliability, privacy, and safety is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in ai concepts?",
+    "options": [
+      "A. assume every prediction is certain",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Consider fairness, reliability, privacy, and safety supports the primary objective to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for ai concepts.",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. consider fairness, reliability, privacy, and safety",
+      "C. assume every prediction is certain",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI workload and its business value and to consider fairness, reliability, privacy, and safety. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to identify an AI workload and its business value when addressing ai concepts.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI workload and its business value.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the ai concepts concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI workload and its business value",
+      "consider fairness, reliability, privacy, and safety",
+      "assume every prediction is certain"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI workload and its business value",
+      "Supporting practice": "consider fairness, reliability, privacy, and safety",
+      "Unsafe approach": "assume every prediction is certain"
+    },
+    "explanation": "The primary objective is to identify an AI workload and its business value; the complementary practice is to consider fairness, reliability, privacy, and safety. Assume every prediction is certain is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a ai concepts initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai workload and its business value",
+      "Consider fairness, reliability, privacy, and safety",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to assume every prediction is certain. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. remove all human oversight",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI workload and its business value. Assume every prediction is certain does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "AI concepts",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good ai concepts practice?",
+    "options": [
+      "A. identify an AI workload and its business value",
+      "B. assume every prediction is certain",
+      "C. consider fairness, reliability, privacy, and safety",
+      "D. remove all human oversight"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI workload and its business value with the supporting practice to consider fairness, reliability, privacy, and safety.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of machine learning. Which approach best meets the requirement?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to train and evaluate a model using representative data. Use appropriate metrics and monitor model performance is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in machine learning?",
+    "options": [
+      "A. train only on unrelated data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate metrics and monitor model performance supports the primary objective to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for machine learning.",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. use appropriate metrics and monitor model performance",
+      "C. train only on unrelated data",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to train and evaluate a model using representative data and to use appropriate metrics and monitor model performance. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to train and evaluate a model using representative data when addressing machine learning.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to train and evaluate a model using representative data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the machine learning concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "train and evaluate a model using representative data",
+      "use appropriate metrics and monitor model performance",
+      "train only on unrelated data"
+    ],
+    "answer": {
+      "Primary objective": "train and evaluate a model using representative data",
+      "Supporting practice": "use appropriate metrics and monitor model performance",
+      "Unsafe approach": "train only on unrelated data"
+    },
+    "explanation": "The primary objective is to train and evaluate a model using representative data; the complementary practice is to use appropriate metrics and monitor model performance. Train only on unrelated data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a machine learning initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Train and evaluate a model using representative data",
+      "Use appropriate metrics and monitor model performance",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to train only on unrelated data. What should the project team recommend instead?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. treat training and inference as identical",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should train and evaluate a model using representative data. Train only on unrelated data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Machine learning",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good machine learning practice?",
+    "options": [
+      "A. train and evaluate a model using representative data",
+      "B. train only on unrelated data",
+      "C. use appropriate metrics and monitor model performance",
+      "D. treat training and inference as identical"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to train and evaluate a model using representative data with the supporting practice to use appropriate metrics and monitor model performance.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of computer vision. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities. Choose a vision task such as classification, detection, or ocr is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in computer vision?",
+    "options": [
+      "A. use speech synthesis for image labels",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Choose a vision task such as classification, detection, or ocr supports the primary objective to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for computer vision.",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. choose a vision task such as classification, detection, or OCR",
+      "C. use speech synthesis for image labels",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze images or video by using computer vision capabilities and to choose a vision task such as classification, detection, or OCR. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to analyze images or video by using computer vision capabilities when addressing computer vision.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze images or video by using computer vision capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the computer vision concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze images or video by using computer vision capabilities",
+      "choose a vision task such as classification, detection, or OCR",
+      "use speech synthesis for image labels"
+    ],
+    "answer": {
+      "Primary objective": "analyze images or video by using computer vision capabilities",
+      "Supporting practice": "choose a vision task such as classification, detection, or OCR",
+      "Unsafe approach": "use speech synthesis for image labels"
+    },
+    "explanation": "The primary objective is to analyze images or video by using computer vision capabilities; the complementary practice is to choose a vision task such as classification, detection, or OCR. Use speech synthesis for image labels is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a computer vision initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze images or video by using computer vision capabilities",
+      "Choose a vision task such as classification, detection, or ocr",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to use speech synthesis for image labels. What should the project team recommend instead?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. store image pixels in a text prompt",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze images or video by using computer vision capabilities. Use speech synthesis for image labels does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Computer vision",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good computer vision practice?",
+    "options": [
+      "A. analyze images or video by using computer vision capabilities",
+      "B. use speech synthesis for image labels",
+      "C. choose a vision task such as classification, detection, or OCR",
+      "D. store image pixels in a text prompt"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze images or video by using computer vision capabilities with the supporting practice to choose a vision task such as classification, detection, or OCR.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of natural language processing. Which approach best meets the requirement?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities. Select tasks such as sentiment, extraction, translation, or language understanding is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in natural language processing?",
+    "options": [
+      "A. use object detection to translate text",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Select tasks such as sentiment, extraction, translation, or language understanding supports the primary objective to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for natural language processing.",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. select tasks such as sentiment, extraction, translation, or language understanding",
+      "C. use object detection to translate text",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to analyze or generate text by using natural language capabilities and to select tasks such as sentiment, extraction, translation, or language understanding. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to analyze or generate text by using natural language capabilities when addressing natural language processing.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to analyze or generate text by using natural language capabilities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the natural language processing concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "analyze or generate text by using natural language capabilities",
+      "select tasks such as sentiment, extraction, translation, or language understanding",
+      "use object detection to translate text"
+    ],
+    "answer": {
+      "Primary objective": "analyze or generate text by using natural language capabilities",
+      "Supporting practice": "select tasks such as sentiment, extraction, translation, or language understanding",
+      "Unsafe approach": "use object detection to translate text"
+    },
+    "explanation": "The primary objective is to analyze or generate text by using natural language capabilities; the complementary practice is to select tasks such as sentiment, extraction, translation, or language understanding. Use object detection to translate text is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a natural language processing initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Analyze or generate text by using natural language capabilities",
+      "Select tasks such as sentiment, extraction, translation, or language understanding",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to use object detection to translate text. What should the project team recommend instead?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. treat all languages as identical without evaluation",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should analyze or generate text by using natural language capabilities. Use object detection to translate text does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Natural language processing",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good natural language processing practice?",
+    "options": [
+      "A. analyze or generate text by using natural language capabilities",
+      "B. use object detection to translate text",
+      "C. select tasks such as sentiment, extraction, translation, or language understanding",
+      "D. treat all languages as identical without evaluation"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to analyze or generate text by using natural language capabilities with the supporting practice to select tasks such as sentiment, extraction, translation, or language understanding.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of generative ai and foundry. Which approach best meets the requirement?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution. Ground, evaluate, and monitor the solution responsibly is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in generative ai and foundry?",
+    "options": [
+      "A. deploy untested prompts to production",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground, evaluate, and monitor the solution responsibly supports the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for generative ai and foundry.",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. ground, evaluate, and monitor the solution responsibly",
+      "C. deploy untested prompts to production",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to use Microsoft Foundry to build and evaluate a generative AI solution and to ground, evaluate, and monitor the solution responsibly. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to use Microsoft Foundry to build and evaluate a generative AI solution when addressing generative ai and foundry.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to use Microsoft Foundry to build and evaluate a generative AI solution.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the generative ai and foundry concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "ground, evaluate, and monitor the solution responsibly",
+      "deploy untested prompts to production"
+    ],
+    "answer": {
+      "Primary objective": "use Microsoft Foundry to build and evaluate a generative AI solution",
+      "Supporting practice": "ground, evaluate, and monitor the solution responsibly",
+      "Unsafe approach": "deploy untested prompts to production"
+    },
+    "explanation": "The primary objective is to use Microsoft Foundry to build and evaluate a generative AI solution; the complementary practice is to ground, evaluate, and monitor the solution responsibly. Deploy untested prompts to production is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a generative ai and foundry initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Use microsoft foundry to build and evaluate a generative ai solution",
+      "Ground, evaluate, and monitor the solution responsibly",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to deploy untested prompts to production. What should the project team recommend instead?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. assume grounding removes all risk",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should use Microsoft Foundry to build and evaluate a generative AI solution. Deploy untested prompts to production does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AI-901",
+    "pillar": "Generative AI and Foundry",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good generative ai and foundry practice?",
+    "options": [
+      "A. use Microsoft Foundry to build and evaluate a generative AI solution",
+      "B. deploy untested prompts to production",
+      "C. ground, evaluate, and monitor the solution responsibly",
+      "D. assume grounding removes all risk"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to use Microsoft Foundry to build and evaluate a generative AI solution with the supporting practice to ground, evaluate, and monitor the solution responsibly.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

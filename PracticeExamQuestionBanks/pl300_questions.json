@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of prepare data. Which approach best meets the requirement?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to connect to and transform data by using Power Query. Profile data and set appropriate data types is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in prepare data?",
+    "options": [
+      "A. build visuals before cleaning data",
+      "B. profile data and set appropriate data types",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Profile data and set appropriate data types supports the primary objective to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for prepare data.",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to connect to and transform data by using Power Query and to profile data and set appropriate data types. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to connect to and transform data by using Power Query when addressing prepare data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the prepare data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "connect to and transform data by using Power Query",
+      "profile data and set appropriate data types",
+      "build visuals before cleaning data"
+    ],
+    "answer": {
+      "Primary objective": "connect to and transform data by using Power Query",
+      "Supporting practice": "profile data and set appropriate data types",
+      "Unsafe approach": "build visuals before cleaning data"
+    },
+    "explanation": "The primary objective is to connect to and transform data by using Power Query; the complementary practice is to profile data and set appropriate data types. Build visuals before cleaning data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a prepare data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to build visuals before cleaning data. What should the project team recommend instead?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should connect to and transform data by using Power Query. Build visuals before cleaning data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good prepare data practice?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. profile data and set appropriate data types",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to connect to and transform data by using Power Query with the supporting practice to profile data and set appropriate data types.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of model data. Which approach best meets the requirement?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures. Use a star-schema approach where appropriate is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in model data?",
+    "options": [
+      "A. use unrelated tables without relationships",
+      "B. use a star-schema approach where appropriate",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use a star-schema approach where appropriate supports the primary objective to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for model data.",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a semantic model with relationships and DAX measures and to use a star-schema approach where appropriate. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to create a semantic model with relationships and DAX measures when addressing model data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the model data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a semantic model with relationships and DAX measures",
+      "use a star-schema approach where appropriate",
+      "use unrelated tables without relationships"
+    ],
+    "answer": {
+      "Primary objective": "create a semantic model with relationships and DAX measures",
+      "Supporting practice": "use a star-schema approach where appropriate",
+      "Unsafe approach": "use unrelated tables without relationships"
+    },
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures; the complementary practice is to use a star-schema approach where appropriate. Use unrelated tables without relationships is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a model data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to use unrelated tables without relationships. What should the project team recommend instead?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a semantic model with relationships and DAX measures. Use unrelated tables without relationships does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good model data practice?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. use a star-schema approach where appropriate",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a semantic model with relationships and DAX measures with the supporting practice to use a star-schema approach where appropriate.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of visualize and analyze. Which approach best meets the requirement?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to design a report that answers a stakeholder question. Use appropriate visuals, filters, and analytical features is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in visualize and analyze?",
+    "options": [
+      "A. add every visual to one page",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate visuals, filters, and analytical features supports the primary objective to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for visualize and analyze.",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to design a report that answers a stakeholder question and to use appropriate visuals, filters, and analytical features. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to design a report that answers a stakeholder question when addressing visualize and analyze.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the visualize and analyze concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "design a report that answers a stakeholder question",
+      "use appropriate visuals, filters, and analytical features",
+      "add every visual to one page"
+    ],
+    "answer": {
+      "Primary objective": "design a report that answers a stakeholder question",
+      "Supporting practice": "use appropriate visuals, filters, and analytical features",
+      "Unsafe approach": "add every visual to one page"
+    },
+    "explanation": "The primary objective is to design a report that answers a stakeholder question; the complementary practice is to use appropriate visuals, filters, and analytical features. Add every visual to one page is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a visualize and analyze initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to add every visual to one page. What should the project team recommend instead?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should design a report that answers a stakeholder question. Add every visual to one page does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good visualize and analyze practice?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use appropriate visuals, filters, and analytical features",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to design a report that answers a stakeholder question with the supporting practice to use appropriate visuals, filters, and analytical features.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of usability and storytelling. Which approach best meets the requirement?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative. Use clear labels, mobile design, and consistent formatting is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in usability and storytelling?",
+    "options": [
+      "A. hide important context from users",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use clear labels, mobile design, and consistent formatting supports the primary objective to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for usability and storytelling.",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to improve report usability, accessibility, and narrative and to use clear labels, mobile design, and consistent formatting. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to improve report usability, accessibility, and narrative when addressing usability and storytelling.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the usability and storytelling concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "improve report usability, accessibility, and narrative",
+      "use clear labels, mobile design, and consistent formatting",
+      "hide important context from users"
+    ],
+    "answer": {
+      "Primary objective": "improve report usability, accessibility, and narrative",
+      "Supporting practice": "use clear labels, mobile design, and consistent formatting",
+      "Unsafe approach": "hide important context from users"
+    },
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative; the complementary practice is to use clear labels, mobile design, and consistent formatting. Hide important context from users is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a usability and storytelling initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to hide important context from users. What should the project team recommend instead?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should improve report usability, accessibility, and narrative. Hide important context from users does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good usability and storytelling practice?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. use clear labels, mobile design, and consistent formatting",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to improve report usability, accessibility, and narrative with the supporting practice to use clear labels, mobile design, and consistent formatting.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of manage and secure power bi. Which approach best meets the requirement?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security. Apply least privilege and validate access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in manage and secure power bi?",
+    "options": [
+      "A. publish sensitive reports anonymously",
+      "B. apply least privilege and validate access",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply least privilege and validate access supports the primary objective to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for manage and secure power bi.",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage workspaces, refresh, sharing, and row-level security and to apply least privilege and validate access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to manage workspaces, refresh, sharing, and row-level security when addressing manage and secure power bi.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the manage and secure power bi concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage workspaces, refresh, sharing, and row-level security",
+      "apply least privilege and validate access",
+      "publish sensitive reports anonymously"
+    ],
+    "answer": {
+      "Primary objective": "manage workspaces, refresh, sharing, and row-level security",
+      "Supporting practice": "apply least privilege and validate access",
+      "Unsafe approach": "publish sensitive reports anonymously"
+    },
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security; the complementary practice is to apply least privilege and validate access. Publish sensitive reports anonymously is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a manage and secure power bi initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to publish sensitive reports anonymously. What should the project team recommend instead?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage workspaces, refresh, sharing, and row-level security. Publish sensitive reports anonymously does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good manage and secure power bi practice?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. apply least privilege and validate access",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage workspaces, refresh, sharing, and row-level security with the supporting practice to apply least privilege and validate access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of prepare data. Which approach best meets the requirement?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to connect to and transform data by using Power Query. Profile data and set appropriate data types is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in prepare data?",
+    "options": [
+      "A. build visuals before cleaning data",
+      "B. profile data and set appropriate data types",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Profile data and set appropriate data types supports the primary objective to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for prepare data.",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to connect to and transform data by using Power Query and to profile data and set appropriate data types. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to connect to and transform data by using Power Query when addressing prepare data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the prepare data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "connect to and transform data by using Power Query",
+      "profile data and set appropriate data types",
+      "build visuals before cleaning data"
+    ],
+    "answer": {
+      "Primary objective": "connect to and transform data by using Power Query",
+      "Supporting practice": "profile data and set appropriate data types",
+      "Unsafe approach": "build visuals before cleaning data"
+    },
+    "explanation": "The primary objective is to connect to and transform data by using Power Query; the complementary practice is to profile data and set appropriate data types. Build visuals before cleaning data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a prepare data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to build visuals before cleaning data. What should the project team recommend instead?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should connect to and transform data by using Power Query. Build visuals before cleaning data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good prepare data practice?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. profile data and set appropriate data types",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to connect to and transform data by using Power Query with the supporting practice to profile data and set appropriate data types.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of model data. Which approach best meets the requirement?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures. Use a star-schema approach where appropriate is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in model data?",
+    "options": [
+      "A. use unrelated tables without relationships",
+      "B. use a star-schema approach where appropriate",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use a star-schema approach where appropriate supports the primary objective to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for model data.",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a semantic model with relationships and DAX measures and to use a star-schema approach where appropriate. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to create a semantic model with relationships and DAX measures when addressing model data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the model data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a semantic model with relationships and DAX measures",
+      "use a star-schema approach where appropriate",
+      "use unrelated tables without relationships"
+    ],
+    "answer": {
+      "Primary objective": "create a semantic model with relationships and DAX measures",
+      "Supporting practice": "use a star-schema approach where appropriate",
+      "Unsafe approach": "use unrelated tables without relationships"
+    },
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures; the complementary practice is to use a star-schema approach where appropriate. Use unrelated tables without relationships is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a model data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to use unrelated tables without relationships. What should the project team recommend instead?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a semantic model with relationships and DAX measures. Use unrelated tables without relationships does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good model data practice?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. use a star-schema approach where appropriate",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a semantic model with relationships and DAX measures with the supporting practice to use a star-schema approach where appropriate.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of visualize and analyze. Which approach best meets the requirement?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to design a report that answers a stakeholder question. Use appropriate visuals, filters, and analytical features is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in visualize and analyze?",
+    "options": [
+      "A. add every visual to one page",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate visuals, filters, and analytical features supports the primary objective to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for visualize and analyze.",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to design a report that answers a stakeholder question and to use appropriate visuals, filters, and analytical features. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to design a report that answers a stakeholder question when addressing visualize and analyze.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the visualize and analyze concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "design a report that answers a stakeholder question",
+      "use appropriate visuals, filters, and analytical features",
+      "add every visual to one page"
+    ],
+    "answer": {
+      "Primary objective": "design a report that answers a stakeholder question",
+      "Supporting practice": "use appropriate visuals, filters, and analytical features",
+      "Unsafe approach": "add every visual to one page"
+    },
+    "explanation": "The primary objective is to design a report that answers a stakeholder question; the complementary practice is to use appropriate visuals, filters, and analytical features. Add every visual to one page is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a visualize and analyze initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to add every visual to one page. What should the project team recommend instead?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should design a report that answers a stakeholder question. Add every visual to one page does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good visualize and analyze practice?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use appropriate visuals, filters, and analytical features",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to design a report that answers a stakeholder question with the supporting practice to use appropriate visuals, filters, and analytical features.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of usability and storytelling. Which approach best meets the requirement?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative. Use clear labels, mobile design, and consistent formatting is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in usability and storytelling?",
+    "options": [
+      "A. hide important context from users",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use clear labels, mobile design, and consistent formatting supports the primary objective to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for usability and storytelling.",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to improve report usability, accessibility, and narrative and to use clear labels, mobile design, and consistent formatting. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to improve report usability, accessibility, and narrative when addressing usability and storytelling.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the usability and storytelling concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "improve report usability, accessibility, and narrative",
+      "use clear labels, mobile design, and consistent formatting",
+      "hide important context from users"
+    ],
+    "answer": {
+      "Primary objective": "improve report usability, accessibility, and narrative",
+      "Supporting practice": "use clear labels, mobile design, and consistent formatting",
+      "Unsafe approach": "hide important context from users"
+    },
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative; the complementary practice is to use clear labels, mobile design, and consistent formatting. Hide important context from users is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a usability and storytelling initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to hide important context from users. What should the project team recommend instead?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should improve report usability, accessibility, and narrative. Hide important context from users does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good usability and storytelling practice?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. use clear labels, mobile design, and consistent formatting",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to improve report usability, accessibility, and narrative with the supporting practice to use clear labels, mobile design, and consistent formatting.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of manage and secure power bi. Which approach best meets the requirement?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security. Apply least privilege and validate access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in manage and secure power bi?",
+    "options": [
+      "A. publish sensitive reports anonymously",
+      "B. apply least privilege and validate access",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply least privilege and validate access supports the primary objective to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for manage and secure power bi.",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage workspaces, refresh, sharing, and row-level security and to apply least privilege and validate access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to manage workspaces, refresh, sharing, and row-level security when addressing manage and secure power bi.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the manage and secure power bi concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage workspaces, refresh, sharing, and row-level security",
+      "apply least privilege and validate access",
+      "publish sensitive reports anonymously"
+    ],
+    "answer": {
+      "Primary objective": "manage workspaces, refresh, sharing, and row-level security",
+      "Supporting practice": "apply least privilege and validate access",
+      "Unsafe approach": "publish sensitive reports anonymously"
+    },
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security; the complementary practice is to apply least privilege and validate access. Publish sensitive reports anonymously is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a manage and secure power bi initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to publish sensitive reports anonymously. What should the project team recommend instead?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage workspaces, refresh, sharing, and row-level security. Publish sensitive reports anonymously does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good manage and secure power bi practice?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. apply least privilege and validate access",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage workspaces, refresh, sharing, and row-level security with the supporting practice to apply least privilege and validate access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of prepare data. Which approach best meets the requirement?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to connect to and transform data by using Power Query. Profile data and set appropriate data types is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in prepare data?",
+    "options": [
+      "A. build visuals before cleaning data",
+      "B. profile data and set appropriate data types",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Profile data and set appropriate data types supports the primary objective to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for prepare data.",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. profile data and set appropriate data types",
+      "C. build visuals before cleaning data",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to connect to and transform data by using Power Query and to profile data and set appropriate data types. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to connect to and transform data by using Power Query when addressing prepare data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to connect to and transform data by using Power Query.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the prepare data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "connect to and transform data by using Power Query",
+      "profile data and set appropriate data types",
+      "build visuals before cleaning data"
+    ],
+    "answer": {
+      "Primary objective": "connect to and transform data by using Power Query",
+      "Supporting practice": "profile data and set appropriate data types",
+      "Unsafe approach": "build visuals before cleaning data"
+    },
+    "explanation": "The primary objective is to connect to and transform data by using Power Query; the complementary practice is to profile data and set appropriate data types. Build visuals before cleaning data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a prepare data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Connect to and transform data by using power query",
+      "Profile data and set appropriate data types",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to build visuals before cleaning data. What should the project team recommend instead?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. treat every source as already clean",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should connect to and transform data by using Power Query. Build visuals before cleaning data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Prepare data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good prepare data practice?",
+    "options": [
+      "A. connect to and transform data by using Power Query",
+      "B. build visuals before cleaning data",
+      "C. profile data and set appropriate data types",
+      "D. treat every source as already clean"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to connect to and transform data by using Power Query with the supporting practice to profile data and set appropriate data types.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of model data. Which approach best meets the requirement?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures. Use a star-schema approach where appropriate is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in model data?",
+    "options": [
+      "A. use unrelated tables without relationships",
+      "B. use a star-schema approach where appropriate",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use a star-schema approach where appropriate supports the primary objective to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for model data.",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use a star-schema approach where appropriate",
+      "C. use unrelated tables without relationships",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to create a semantic model with relationships and DAX measures and to use a star-schema approach where appropriate. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to create a semantic model with relationships and DAX measures when addressing model data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to create a semantic model with relationships and DAX measures.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the model data concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "create a semantic model with relationships and DAX measures",
+      "use a star-schema approach where appropriate",
+      "use unrelated tables without relationships"
+    ],
+    "answer": {
+      "Primary objective": "create a semantic model with relationships and DAX measures",
+      "Supporting practice": "use a star-schema approach where appropriate",
+      "Unsafe approach": "use unrelated tables without relationships"
+    },
+    "explanation": "The primary objective is to create a semantic model with relationships and DAX measures; the complementary practice is to use a star-schema approach where appropriate. Use unrelated tables without relationships is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a model data initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Create a semantic model with relationships and dax measures",
+      "Use a star-schema approach where appropriate",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to use unrelated tables without relationships. What should the project team recommend instead?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. replace measures with screenshots",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should create a semantic model with relationships and DAX measures. Use unrelated tables without relationships does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Model data",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good model data practice?",
+    "options": [
+      "A. create a semantic model with relationships and DAX measures",
+      "B. use unrelated tables without relationships",
+      "C. use a star-schema approach where appropriate",
+      "D. replace measures with screenshots"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to create a semantic model with relationships and DAX measures with the supporting practice to use a star-schema approach where appropriate.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of visualize and analyze. Which approach best meets the requirement?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to design a report that answers a stakeholder question. Use appropriate visuals, filters, and analytical features is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in visualize and analyze?",
+    "options": [
+      "A. add every visual to one page",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use appropriate visuals, filters, and analytical features supports the primary objective to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for visualize and analyze.",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. use appropriate visuals, filters, and analytical features",
+      "C. add every visual to one page",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to design a report that answers a stakeholder question and to use appropriate visuals, filters, and analytical features. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to design a report that answers a stakeholder question when addressing visualize and analyze.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to design a report that answers a stakeholder question.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the visualize and analyze concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "design a report that answers a stakeholder question",
+      "use appropriate visuals, filters, and analytical features",
+      "add every visual to one page"
+    ],
+    "answer": {
+      "Primary objective": "design a report that answers a stakeholder question",
+      "Supporting practice": "use appropriate visuals, filters, and analytical features",
+      "Unsafe approach": "add every visual to one page"
+    },
+    "explanation": "The primary objective is to design a report that answers a stakeholder question; the complementary practice is to use appropriate visuals, filters, and analytical features. Add every visual to one page is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a visualize and analyze initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Design a report that answers a stakeholder question",
+      "Use appropriate visuals, filters, and analytical features",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to add every visual to one page. What should the project team recommend instead?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use a table for every analytical task",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should design a report that answers a stakeholder question. Add every visual to one page does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Visualize and analyze",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good visualize and analyze practice?",
+    "options": [
+      "A. design a report that answers a stakeholder question",
+      "B. add every visual to one page",
+      "C. use appropriate visuals, filters, and analytical features",
+      "D. use a table for every analytical task"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to design a report that answers a stakeholder question with the supporting practice to use appropriate visuals, filters, and analytical features.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of usability and storytelling. Which approach best meets the requirement?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative. Use clear labels, mobile design, and consistent formatting is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in usability and storytelling?",
+    "options": [
+      "A. hide important context from users",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use clear labels, mobile design, and consistent formatting supports the primary objective to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for usability and storytelling.",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. use clear labels, mobile design, and consistent formatting",
+      "C. hide important context from users",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to improve report usability, accessibility, and narrative and to use clear labels, mobile design, and consistent formatting. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to improve report usability, accessibility, and narrative when addressing usability and storytelling.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to improve report usability, accessibility, and narrative.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the usability and storytelling concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "improve report usability, accessibility, and narrative",
+      "use clear labels, mobile design, and consistent formatting",
+      "hide important context from users"
+    ],
+    "answer": {
+      "Primary objective": "improve report usability, accessibility, and narrative",
+      "Supporting practice": "use clear labels, mobile design, and consistent formatting",
+      "Unsafe approach": "hide important context from users"
+    },
+    "explanation": "The primary objective is to improve report usability, accessibility, and narrative; the complementary practice is to use clear labels, mobile design, and consistent formatting. Hide important context from users is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a usability and storytelling initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Improve report usability, accessibility, and narrative",
+      "Use clear labels, mobile design, and consistent formatting",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to hide important context from users. What should the project team recommend instead?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. rely on color alone for meaning",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should improve report usability, accessibility, and narrative. Hide important context from users does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Usability and storytelling",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good usability and storytelling practice?",
+    "options": [
+      "A. improve report usability, accessibility, and narrative",
+      "B. hide important context from users",
+      "C. use clear labels, mobile design, and consistent formatting",
+      "D. rely on color alone for meaning"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to improve report usability, accessibility, and narrative with the supporting practice to use clear labels, mobile design, and consistent formatting.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of manage and secure power bi. Which approach best meets the requirement?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security. Apply least privilege and validate access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in manage and secure power bi?",
+    "options": [
+      "A. publish sensitive reports anonymously",
+      "B. apply least privilege and validate access",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Apply least privilege and validate access supports the primary objective to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for manage and secure power bi.",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. apply least privilege and validate access",
+      "C. publish sensitive reports anonymously",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to manage workspaces, refresh, sharing, and row-level security and to apply least privilege and validate access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to manage workspaces, refresh, sharing, and row-level security when addressing manage and secure power bi.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to manage workspaces, refresh, sharing, and row-level security.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the manage and secure power bi concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "manage workspaces, refresh, sharing, and row-level security",
+      "apply least privilege and validate access",
+      "publish sensitive reports anonymously"
+    ],
+    "answer": {
+      "Primary objective": "manage workspaces, refresh, sharing, and row-level security",
+      "Supporting practice": "apply least privilege and validate access",
+      "Unsafe approach": "publish sensitive reports anonymously"
+    },
+    "explanation": "The primary objective is to manage workspaces, refresh, sharing, and row-level security; the complementary practice is to apply least privilege and validate access. Publish sensitive reports anonymously is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a manage and secure power bi initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Manage workspaces, refresh, sharing, and row-level security",
+      "Apply least privilege and validate access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to publish sensitive reports anonymously. What should the project team recommend instead?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. share owner credentials with consumers",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should manage workspaces, refresh, sharing, and row-level security. Publish sensitive reports anonymously does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "PL-300",
+    "pillar": "Manage and secure Power BI",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good manage and secure power bi practice?",
+    "options": [
+      "A. manage workspaces, refresh, sharing, and row-level security",
+      "B. publish sensitive reports anonymously",
+      "C. apply least privilege and validate access",
+      "D. share owner credentials with consumers"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to manage workspaces, refresh, sharing, and row-level security with the supporting practice to apply least privilege and validate access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of ai strategy. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities. Define measurable outcomes and executive sponsorship is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in ai strategy?",
+    "options": [
+      "A. choose projects only because they are trendy",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define measurable outcomes and executive sponsorship supports the primary objective to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for ai strategy.",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI transformation opportunity aligned to business priorities and to define measurable outcomes and executive sponsorship. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to identify an AI transformation opportunity aligned to business priorities when addressing ai strategy.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the ai strategy concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI transformation opportunity aligned to business priorities",
+      "define measurable outcomes and executive sponsorship",
+      "choose projects only because they are trendy"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI transformation opportunity aligned to business priorities",
+      "Supporting practice": "define measurable outcomes and executive sponsorship",
+      "Unsafe approach": "choose projects only because they are trendy"
+    },
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities; the complementary practice is to define measurable outcomes and executive sponsorship. Choose projects only because they are trendy is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a ai strategy initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to choose projects only because they are trendy. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI transformation opportunity aligned to business priorities. Choose projects only because they are trendy does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good ai strategy practice?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. define measurable outcomes and executive sponsorship",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI transformation opportunity aligned to business priorities with the supporting practice to define measurable outcomes and executive sponsorship.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of use-case prioritization. Which approach best meets the requirement?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness. Run a focused pilot and measure results is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in use-case prioritization?",
+    "options": [
+      "A. select every use case at once",
+      "B. run a focused pilot and measure results",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Run a focused pilot and measure results supports the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for use-case prioritization.",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to prioritize AI use cases by value, feasibility, risk, and readiness and to run a focused pilot and measure results. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to prioritize AI use cases by value, feasibility, risk, and readiness when addressing use-case prioritization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the use-case prioritization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "run a focused pilot and measure results",
+      "select every use case at once"
+    ],
+    "answer": {
+      "Primary objective": "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "Supporting practice": "run a focused pilot and measure results",
+      "Unsafe approach": "select every use case at once"
+    },
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness; the complementary practice is to run a focused pilot and measure results. Select every use case at once is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a use-case prioritization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to select every use case at once. What should the project team recommend instead?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should prioritize AI use cases by value, feasibility, risk, and readiness. Select every use case at once does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good use-case prioritization practice?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. run a focused pilot and measure results",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness with the supporting practice to run a focused pilot and measure results.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of responsible ai and governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish responsible AI governance and risk management. Define ownership, controls, and review processes is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in responsible ai and governance?",
+    "options": [
+      "A. allow ungoverned use of sensitive data",
+      "B. define ownership, controls, and review processes",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define ownership, controls, and review processes supports the primary objective to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for responsible ai and governance.",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish responsible AI governance and risk management and to define ownership, controls, and review processes. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to establish responsible AI governance and risk management when addressing responsible ai and governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the responsible ai and governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish responsible AI governance and risk management",
+      "define ownership, controls, and review processes",
+      "allow ungoverned use of sensitive data"
+    ],
+    "answer": {
+      "Primary objective": "establish responsible AI governance and risk management",
+      "Supporting practice": "define ownership, controls, and review processes",
+      "Unsafe approach": "allow ungoverned use of sensitive data"
+    },
+    "explanation": "The primary objective is to establish responsible AI governance and risk management; the complementary practice is to define ownership, controls, and review processes. Allow ungoverned use of sensitive data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a responsible ai and governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to allow ungoverned use of sensitive data. What should the project team recommend instead?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish responsible AI governance and risk management. Allow ungoverned use of sensitive data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good responsible ai and governance practice?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. define ownership, controls, and review processes",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish responsible AI governance and risk management with the supporting practice to define ownership, controls, and review processes.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of adoption and change. Which approach best meets the requirement?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops. Support users through change management is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in adoption and change?",
+    "options": [
+      "A. announce the tool once and stop",
+      "B. support users through change management",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Support users through change management supports the primary objective to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for adoption and change.",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan adoption, communications, learning, and feedback loops and to support users through change management. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to plan adoption, communications, learning, and feedback loops when addressing adoption and change.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the adoption and change concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan adoption, communications, learning, and feedback loops",
+      "support users through change management",
+      "announce the tool once and stop"
+    ],
+    "answer": {
+      "Primary objective": "plan adoption, communications, learning, and feedback loops",
+      "Supporting practice": "support users through change management",
+      "Unsafe approach": "announce the tool once and stop"
+    },
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops; the complementary practice is to support users through change management. Announce the tool once and stop is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a adoption and change initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to announce the tool once and stop. What should the project team recommend instead?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan adoption, communications, learning, and feedback loops. Announce the tool once and stop does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good adoption and change practice?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. support users through change management",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan adoption, communications, learning, and feedback loops with the supporting practice to support users through change management.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of innovation and optimization. Which approach best meets the requirement?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes. Use feedback and metrics to refine the approach is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in innovation and optimization?",
+    "options": [
+      "A. assume the first rollout is final",
+      "B. use feedback and metrics to refine the approach",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use feedback and metrics to refine the approach supports the primary objective to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for innovation and optimization.",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to measure AI outcomes and continuously improve business processes and to use feedback and metrics to refine the approach. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to measure AI outcomes and continuously improve business processes when addressing innovation and optimization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the innovation and optimization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "measure AI outcomes and continuously improve business processes",
+      "use feedback and metrics to refine the approach",
+      "assume the first rollout is final"
+    ],
+    "answer": {
+      "Primary objective": "measure AI outcomes and continuously improve business processes",
+      "Supporting practice": "use feedback and metrics to refine the approach",
+      "Unsafe approach": "assume the first rollout is final"
+    },
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes; the complementary practice is to use feedback and metrics to refine the approach. Assume the first rollout is final is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a innovation and optimization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to assume the first rollout is final. What should the project team recommend instead?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should measure AI outcomes and continuously improve business processes. Assume the first rollout is final does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good innovation and optimization practice?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. use feedback and metrics to refine the approach",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to measure AI outcomes and continuously improve business processes with the supporting practice to use feedback and metrics to refine the approach.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of ai strategy. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities. Define measurable outcomes and executive sponsorship is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in ai strategy?",
+    "options": [
+      "A. choose projects only because they are trendy",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define measurable outcomes and executive sponsorship supports the primary objective to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for ai strategy.",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI transformation opportunity aligned to business priorities and to define measurable outcomes and executive sponsorship. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to identify an AI transformation opportunity aligned to business priorities when addressing ai strategy.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the ai strategy concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI transformation opportunity aligned to business priorities",
+      "define measurable outcomes and executive sponsorship",
+      "choose projects only because they are trendy"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI transformation opportunity aligned to business priorities",
+      "Supporting practice": "define measurable outcomes and executive sponsorship",
+      "Unsafe approach": "choose projects only because they are trendy"
+    },
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities; the complementary practice is to define measurable outcomes and executive sponsorship. Choose projects only because they are trendy is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a ai strategy initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to choose projects only because they are trendy. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI transformation opportunity aligned to business priorities. Choose projects only because they are trendy does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good ai strategy practice?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. define measurable outcomes and executive sponsorship",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI transformation opportunity aligned to business priorities with the supporting practice to define measurable outcomes and executive sponsorship.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of use-case prioritization. Which approach best meets the requirement?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness. Run a focused pilot and measure results is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in use-case prioritization?",
+    "options": [
+      "A. select every use case at once",
+      "B. run a focused pilot and measure results",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Run a focused pilot and measure results supports the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for use-case prioritization.",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to prioritize AI use cases by value, feasibility, risk, and readiness and to run a focused pilot and measure results. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to prioritize AI use cases by value, feasibility, risk, and readiness when addressing use-case prioritization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the use-case prioritization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "run a focused pilot and measure results",
+      "select every use case at once"
+    ],
+    "answer": {
+      "Primary objective": "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "Supporting practice": "run a focused pilot and measure results",
+      "Unsafe approach": "select every use case at once"
+    },
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness; the complementary practice is to run a focused pilot and measure results. Select every use case at once is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a use-case prioritization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to select every use case at once. What should the project team recommend instead?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should prioritize AI use cases by value, feasibility, risk, and readiness. Select every use case at once does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good use-case prioritization practice?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. run a focused pilot and measure results",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness with the supporting practice to run a focused pilot and measure results.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of responsible ai and governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish responsible AI governance and risk management. Define ownership, controls, and review processes is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in responsible ai and governance?",
+    "options": [
+      "A. allow ungoverned use of sensitive data",
+      "B. define ownership, controls, and review processes",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define ownership, controls, and review processes supports the primary objective to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for responsible ai and governance.",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish responsible AI governance and risk management and to define ownership, controls, and review processes. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to establish responsible AI governance and risk management when addressing responsible ai and governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the responsible ai and governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish responsible AI governance and risk management",
+      "define ownership, controls, and review processes",
+      "allow ungoverned use of sensitive data"
+    ],
+    "answer": {
+      "Primary objective": "establish responsible AI governance and risk management",
+      "Supporting practice": "define ownership, controls, and review processes",
+      "Unsafe approach": "allow ungoverned use of sensitive data"
+    },
+    "explanation": "The primary objective is to establish responsible AI governance and risk management; the complementary practice is to define ownership, controls, and review processes. Allow ungoverned use of sensitive data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a responsible ai and governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to allow ungoverned use of sensitive data. What should the project team recommend instead?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish responsible AI governance and risk management. Allow ungoverned use of sensitive data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good responsible ai and governance practice?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. define ownership, controls, and review processes",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish responsible AI governance and risk management with the supporting practice to define ownership, controls, and review processes.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of adoption and change. Which approach best meets the requirement?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops. Support users through change management is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in adoption and change?",
+    "options": [
+      "A. announce the tool once and stop",
+      "B. support users through change management",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Support users through change management supports the primary objective to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for adoption and change.",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan adoption, communications, learning, and feedback loops and to support users through change management. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to plan adoption, communications, learning, and feedback loops when addressing adoption and change.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the adoption and change concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan adoption, communications, learning, and feedback loops",
+      "support users through change management",
+      "announce the tool once and stop"
+    ],
+    "answer": {
+      "Primary objective": "plan adoption, communications, learning, and feedback loops",
+      "Supporting practice": "support users through change management",
+      "Unsafe approach": "announce the tool once and stop"
+    },
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops; the complementary practice is to support users through change management. Announce the tool once and stop is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a adoption and change initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to announce the tool once and stop. What should the project team recommend instead?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan adoption, communications, learning, and feedback loops. Announce the tool once and stop does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good adoption and change practice?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. support users through change management",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan adoption, communications, learning, and feedback loops with the supporting practice to support users through change management.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of innovation and optimization. Which approach best meets the requirement?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes. Use feedback and metrics to refine the approach is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in innovation and optimization?",
+    "options": [
+      "A. assume the first rollout is final",
+      "B. use feedback and metrics to refine the approach",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use feedback and metrics to refine the approach supports the primary objective to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for innovation and optimization.",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to measure AI outcomes and continuously improve business processes and to use feedback and metrics to refine the approach. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to measure AI outcomes and continuously improve business processes when addressing innovation and optimization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the innovation and optimization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "measure AI outcomes and continuously improve business processes",
+      "use feedback and metrics to refine the approach",
+      "assume the first rollout is final"
+    ],
+    "answer": {
+      "Primary objective": "measure AI outcomes and continuously improve business processes",
+      "Supporting practice": "use feedback and metrics to refine the approach",
+      "Unsafe approach": "assume the first rollout is final"
+    },
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes; the complementary practice is to use feedback and metrics to refine the approach. Assume the first rollout is final is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a innovation and optimization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to assume the first rollout is final. What should the project team recommend instead?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should measure AI outcomes and continuously improve business processes. Assume the first rollout is final does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good innovation and optimization practice?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. use feedback and metrics to refine the approach",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to measure AI outcomes and continuously improve business processes with the supporting practice to use feedback and metrics to refine the approach.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of ai strategy. Which approach best meets the requirement?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities. Define measurable outcomes and executive sponsorship is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in ai strategy?",
+    "options": [
+      "A. choose projects only because they are trendy",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define measurable outcomes and executive sponsorship supports the primary objective to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for ai strategy.",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. define measurable outcomes and executive sponsorship",
+      "C. choose projects only because they are trendy",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to identify an AI transformation opportunity aligned to business priorities and to define measurable outcomes and executive sponsorship. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to identify an AI transformation opportunity aligned to business priorities when addressing ai strategy.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to identify an AI transformation opportunity aligned to business priorities.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the ai strategy concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "identify an AI transformation opportunity aligned to business priorities",
+      "define measurable outcomes and executive sponsorship",
+      "choose projects only because they are trendy"
+    ],
+    "answer": {
+      "Primary objective": "identify an AI transformation opportunity aligned to business priorities",
+      "Supporting practice": "define measurable outcomes and executive sponsorship",
+      "Unsafe approach": "choose projects only because they are trendy"
+    },
+    "explanation": "The primary objective is to identify an AI transformation opportunity aligned to business priorities; the complementary practice is to define measurable outcomes and executive sponsorship. Choose projects only because they are trendy is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a ai strategy initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Identify an ai transformation opportunity aligned to business priorities",
+      "Define measurable outcomes and executive sponsorship",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to choose projects only because they are trendy. What should the project team recommend instead?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. start without a business objective",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should identify an AI transformation opportunity aligned to business priorities. Choose projects only because they are trendy does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "AI strategy",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good ai strategy practice?",
+    "options": [
+      "A. identify an AI transformation opportunity aligned to business priorities",
+      "B. choose projects only because they are trendy",
+      "C. define measurable outcomes and executive sponsorship",
+      "D. start without a business objective"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to identify an AI transformation opportunity aligned to business priorities with the supporting practice to define measurable outcomes and executive sponsorship.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of use-case prioritization. Which approach best meets the requirement?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness. Run a focused pilot and measure results is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in use-case prioritization?",
+    "options": [
+      "A. select every use case at once",
+      "B. run a focused pilot and measure results",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Run a focused pilot and measure results supports the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for use-case prioritization.",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. run a focused pilot and measure results",
+      "C. select every use case at once",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to prioritize AI use cases by value, feasibility, risk, and readiness and to run a focused pilot and measure results. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to prioritize AI use cases by value, feasibility, risk, and readiness when addressing use-case prioritization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to prioritize AI use cases by value, feasibility, risk, and readiness.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the use-case prioritization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "run a focused pilot and measure results",
+      "select every use case at once"
+    ],
+    "answer": {
+      "Primary objective": "prioritize AI use cases by value, feasibility, risk, and readiness",
+      "Supporting practice": "run a focused pilot and measure results",
+      "Unsafe approach": "select every use case at once"
+    },
+    "explanation": "The primary objective is to prioritize AI use cases by value, feasibility, risk, and readiness; the complementary practice is to run a focused pilot and measure results. Select every use case at once is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a use-case prioritization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Prioritize ai use cases by value, feasibility, risk, and readiness",
+      "Run a focused pilot and measure results",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to select every use case at once. What should the project team recommend instead?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. ignore data readiness",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should prioritize AI use cases by value, feasibility, risk, and readiness. Select every use case at once does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Use-case prioritization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good use-case prioritization practice?",
+    "options": [
+      "A. prioritize AI use cases by value, feasibility, risk, and readiness",
+      "B. select every use case at once",
+      "C. run a focused pilot and measure results",
+      "D. ignore data readiness"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to prioritize AI use cases by value, feasibility, risk, and readiness with the supporting practice to run a focused pilot and measure results.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of responsible ai and governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish responsible AI governance and risk management. Define ownership, controls, and review processes is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in responsible ai and governance?",
+    "options": [
+      "A. allow ungoverned use of sensitive data",
+      "B. define ownership, controls, and review processes",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Define ownership, controls, and review processes supports the primary objective to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for responsible ai and governance.",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. define ownership, controls, and review processes",
+      "C. allow ungoverned use of sensitive data",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish responsible AI governance and risk management and to define ownership, controls, and review processes. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to establish responsible AI governance and risk management when addressing responsible ai and governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish responsible AI governance and risk management.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the responsible ai and governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish responsible AI governance and risk management",
+      "define ownership, controls, and review processes",
+      "allow ungoverned use of sensitive data"
+    ],
+    "answer": {
+      "Primary objective": "establish responsible AI governance and risk management",
+      "Supporting practice": "define ownership, controls, and review processes",
+      "Unsafe approach": "allow ungoverned use of sensitive data"
+    },
+    "explanation": "The primary objective is to establish responsible AI governance and risk management; the complementary practice is to define ownership, controls, and review processes. Allow ungoverned use of sensitive data is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a responsible ai and governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish responsible ai governance and risk management",
+      "Define ownership, controls, and review processes",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to allow ungoverned use of sensitive data. What should the project team recommend instead?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. treat governance as optional",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish responsible AI governance and risk management. Allow ungoverned use of sensitive data does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Responsible AI and governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good responsible ai and governance practice?",
+    "options": [
+      "A. establish responsible AI governance and risk management",
+      "B. allow ungoverned use of sensitive data",
+      "C. define ownership, controls, and review processes",
+      "D. treat governance as optional"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish responsible AI governance and risk management with the supporting practice to define ownership, controls, and review processes.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of adoption and change. Which approach best meets the requirement?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops. Support users through change management is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in adoption and change?",
+    "options": [
+      "A. announce the tool once and stop",
+      "B. support users through change management",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Support users through change management supports the primary objective to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for adoption and change.",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. support users through change management",
+      "C. announce the tool once and stop",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan adoption, communications, learning, and feedback loops and to support users through change management. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to plan adoption, communications, learning, and feedback loops when addressing adoption and change.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan adoption, communications, learning, and feedback loops.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the adoption and change concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan adoption, communications, learning, and feedback loops",
+      "support users through change management",
+      "announce the tool once and stop"
+    ],
+    "answer": {
+      "Primary objective": "plan adoption, communications, learning, and feedback loops",
+      "Supporting practice": "support users through change management",
+      "Unsafe approach": "announce the tool once and stop"
+    },
+    "explanation": "The primary objective is to plan adoption, communications, learning, and feedback loops; the complementary practice is to support users through change management. Announce the tool once and stop is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a adoption and change initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan adoption, communications, learning, and feedback loops",
+      "Support users through change management",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to announce the tool once and stop. What should the project team recommend instead?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. measure only technical deployment",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan adoption, communications, learning, and feedback loops. Announce the tool once and stop does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Adoption and change",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good adoption and change practice?",
+    "options": [
+      "A. plan adoption, communications, learning, and feedback loops",
+      "B. announce the tool once and stop",
+      "C. support users through change management",
+      "D. measure only technical deployment"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan adoption, communications, learning, and feedback loops with the supporting practice to support users through change management.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of innovation and optimization. Which approach best meets the requirement?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes. Use feedback and metrics to refine the approach is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in innovation and optimization?",
+    "options": [
+      "A. assume the first rollout is final",
+      "B. use feedback and metrics to refine the approach",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use feedback and metrics to refine the approach supports the primary objective to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for innovation and optimization.",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. use feedback and metrics to refine the approach",
+      "C. assume the first rollout is final",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to measure AI outcomes and continuously improve business processes and to use feedback and metrics to refine the approach. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to measure AI outcomes and continuously improve business processes when addressing innovation and optimization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to measure AI outcomes and continuously improve business processes.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the innovation and optimization concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "measure AI outcomes and continuously improve business processes",
+      "use feedback and metrics to refine the approach",
+      "assume the first rollout is final"
+    ],
+    "answer": {
+      "Primary objective": "measure AI outcomes and continuously improve business processes",
+      "Supporting practice": "use feedback and metrics to refine the approach",
+      "Unsafe approach": "assume the first rollout is final"
+    },
+    "explanation": "The primary objective is to measure AI outcomes and continuously improve business processes; the complementary practice is to use feedback and metrics to refine the approach. Assume the first rollout is final is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a innovation and optimization initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Measure ai outcomes and continuously improve business processes",
+      "Use feedback and metrics to refine the approach",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to assume the first rollout is final. What should the project team recommend instead?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. avoid reviewing impact",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should measure AI outcomes and continuously improve business processes. Assume the first rollout is final does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-731",
+    "pillar": "Innovation and optimization",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good innovation and optimization practice?",
+    "options": [
+      "A. measure AI outcomes and continuously improve business processes",
+      "B. assume the first rollout is final",
+      "C. use feedback and metrics to refine the approach",
+      "D. avoid reviewing impact"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to measure AI outcomes and continuously improve business processes with the supporting practice to use feedback and metrics to refine the approach.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

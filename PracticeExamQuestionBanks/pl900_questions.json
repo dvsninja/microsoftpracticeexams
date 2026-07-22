@@ -1,0 +1,2316 @@
+[
+  {
+    "question": "Scenario: A finance analyst needs to build a simple expense-tracking solution without waiting for a custom-code project. What is the primary value of the low-code/no-code approach for this team?",
+    "options": [
+      "A. To eliminate the need for any data storage.",
+      "B. To allow business users to create solutions using visual interfaces.",
+      "C. To require developers to write complex C# scripts.",
+      "D. To only be used for high-level data visualization."
+    ],
+    "answer": "B",
+    "explanation": "Low-code/No-code focuses on visual builders and drag-and-drop interfaces.",
+    "pillar": "Power Platform concepts",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A retailer needs a secure website where customers can submit warranty requests. Which Power Platform component is best suited to create the public-facing site?",
+    "options": [
+      "A. Power Apps",
+      "B. Power BI",
+      "C. Power Pages",
+      "D. Power Automate"
+    ],
+    "answer": "C",
+    "explanation": "Power Pages is the solution for external-facing websites.",
+    "pillar": "Power Platform concepts",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A department wants an app for data entry, a flow for approvals, and a report for management. What is the main benefit of Power Platform's unified approach?",
+    "options": [
+      "A. It uses the same data source for every single app.",
+      "B. It allows for seamless integration between apps, flows, and reports.",
+      "C. It only works with Microsoft 365 apps.",
+      "D. It replaces the need for a security model."
+    ],
+    "answer": "B",
+    "explanation": "The platform is designed to work together seamlessly.",
+    "pillar": "Power Platform concepts",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A purchasing specialist builds a small app for their team using approved low-code tools. Which description best fits this person?",
+    "options": [
+      "A. A professional software engineer.",
+      "B. A business user who creates apps to solve business problems.",
+      "C. An IT administrator who manages server hardware.",
+      "D. A data scientist who builds machine learning models."
+    ],
+    "answer": "B",
+    "explanation": "Citizen developers are non-technical users creating solutions.",
+    "pillar": "Power Platform concepts",
+    "weight": 2
+  },
+  {
+    "question": "What is the primary role of the Power Platform Center of Excellence (CoE)?",
+    "options": [
+      "A. To host the physical servers.",
+      "B. To provide governance, best practices, and support for the platform.",
+      "C. To write the code for the apps.",
+      "D. To sell the software to customers."
+    ],
+    "answer": "B",
+    "explanation": "The CoE helps organizations manage and govern the platform.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "True or False: Power Platform can connect to on-premises data sources.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Via On-premises Data Gateways, the platform can connect to local data.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Which component is used to create a custom mobile app for warehouse inventory?",
+    "options": [
+      "A. Power Apps",
+      "B. Power BI",
+      "C. Power Pages",
+      "D. Power Automate"
+    ],
+    "answer": "A",
+    "explanation": "Power Apps is the app development tool.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "What is a key characteristic of 'Canvas Apps'?",
+    "options": [
+      "A. They are always based on a pre-defined data model.",
+      "B. They offer high UI flexibility and 'blank canvas' design.",
+      "C. They cannot be used on mobile devices.",
+      "D. They are only for external websites."
+    ],
+    "answer": "B",
+    "explanation": "Canvas apps allow for total control over the UI/UX.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Which Power Platform component is used for 'Process Automation'?",
+    "options": [
+      "A. Power BI",
+      "B. Power Apps",
+      "C. Power Automate",
+      "D. Power Pages"
+    ],
+    "answer": "C",
+    "explanation": "Power Automate is the workflow/automation engine.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "What is the main purpose of Power BI?",
+    "options": [
+      "A. Data visualization and business analytics.",
+      "B. Mobile app development.",
+      "C. Automating emails.",
+      "D. Building websites."
+    ],
+    "answer": "A",
+    "explanation": "Power BI is for insights and visualization.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Which tool is used to create a 'Dataverse' table?",
+    "options": [
+      "A. Power Query",
+      "B. Power Apps (Model-driven)",
+      "C. Power BI Desktop",
+      "D. Power Automate"
+    ],
+    "answer": "B",
+    "explanation": "Model-driven apps are the primary way to manage Dataverse tables.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "What does 'Dataverse' provide?",
+    "options": [
+      "A. A simple spreadsheet.",
+      "B. A secure, cloud-based relational database.",
+      "C. A way to automate emails.",
+      "D. A way to build websites."
+    ],
+    "answer": "B",
+    "explanation": "Dataverse is the core data platform for the Power Platform.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Which of these is a 'Premium' connector?",
+    "options": [
+      "A. Outlook",
+      "B. SharePoint",
+      "C. SQL Server",
+      "D. OneDrive"
+    ],
+    "answer": "C",
+    "explanation": "SQL Server is a premium connector.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "What is the benefit of using a 'Standard' connector?",
+    "options": [
+      "A. It is free to use with most licenses.",
+      "B. It is only for internal use.",
+      "C. It can connect to any API.",
+      "D. It is faster than Premium connectors."
+    ],
+    "answer": "A",
+    "explanation": "Standard connectors are included in most base plans.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Which concept describes the ability to use one data source for multiple apps?",
+    "options": [
+      "A. Data Silos",
+      "B. Data Democratization",
+      "C. Data Integration",
+      "D. Data Redundancy"
+    ],
+    "answer": "C",
+    "explanation": "Integration allows multiple apps to share the same 'source of truth'.",
+    "pillar": "Power Platform concepts",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: Before publishing a sales report, an analyst must remove blank rows, change data types, and combine two source files. Which Power BI capability should they use?",
+    "options": [
+      "A. Visualizing data.",
+      "B. Connecting, transforming, and cleaning data.",
+      "C. Writing DAX formulas.",
+      "D. Sharing reports."
+    ],
+    "answer": "B",
+    "explanation": "Power Query is the ETL engine.",
+    "pillar": "Data foundations",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A report author needs a calculation for year-to-date sales that responds to the filters a manager selects. What should the author use?",
+    "options": [
+      "A. Data Analysis Expressions.",
+      "B. Data Access XML.",
+      "C. Data Automation X-link.",
+      "D. Data Analytics X-language."
+    ],
+    "answer": "A",
+    "explanation": "DAX is the formula language for Power BI.",
+    "pillar": "Data foundations",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A service team needs customers, cases, and technicians stored as related business records. Which data source is a relational database suited to this need?",
+    "options": [
+      "A. Excel",
+      "B. Dataverse",
+      "C. A text file",
+      "D. A JSON file"
+    ],
+    "answer": "B",
+    "explanation": "Dataverse is a relational database.",
+    "pillar": "Data foundations",
+    "weight": 2
+  },
+  {
+    "question": "What is a 'Connector' in Power Automate?",
+    "options": [
+      "A. A physical cable.",
+      "B. A bridge that allows Power Automate to talk to other services.",
+      "C. A way to store data.",
+      "D. A type of visual chart."
+    ],
+    "answer": "B",
+    "explanation": "Connectors enable integration with 1000+ services.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "What is the purpose of a 'Custom Connector'?",
+    "options": [
+      "A. To connect to a service that doesn't have a native connector.",
+      "B. To change the color of an app.",
+      "C. To make a flow run faster.",
+      "D. To replace Power Automate."
+    ],
+    "answer": "A",
+    "explanation": "Custom connectors allow for API integration.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: Warehouse workers update inventory throughout the day, and multiple users must see the latest quantities. Which data source is the best fit?",
+    "options": [
+      "A. Excel Online",
+      "B. Dataverse",
+      "C. A CSV file",
+      "D. A static PDF"
+    ],
+    "answer": "B",
+    "explanation": "Dataverse handles high-concurrency, real-time data better than Excel.",
+    "pillar": "Data foundations",
+    "weight": 2
+  },
+  {
+    "question": "What is 'Dataverse' security based on?",
+    "options": [
+      "A. IP addresses only.",
+      "B. Security Roles and Business Units.",
+      "C. Password sharing.",
+      "D. Only public access."
+    ],
+    "answer": "B",
+    "explanation": "Dataverse uses enterprise-grade RBAC (Role-Based Access Control).",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "In Power Query, what does 'Merge' do?",
+    "options": [
+      "A. Combines two tables into one based on a common column.",
+      "B. Creates a new column with a calculation.",
+      "C. Deletes duplicate rows.",
+      "D. Changes the data type."
+    ],
+    "answer": "A",
+    "explanation": "Merging is similar to a SQL JOIN.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "In Power Query, what does 'Append' do?",
+    "options": [
+      "A. Combines two tables by stacking one on top of the other.",
+      "B. Joins tables side-by-side.",
+      "C. Creates a pivot table.",
+      "D. Filters the data."
+    ],
+    "answer": "A",
+    "explanation": "Appending is similar to a SQL UNION.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "What is the 'Source of Truth' in a Power Platform environment?",
+    "options": [
+      "A. The Power BI Dashboard.",
+      "B. The Dataverse database.",
+      "C. The Power Automate Flow.",
+      "D. The user's local computer."
+    ],
+    "answer": "B",
+    "explanation": "Dataverse is intended to be the central source of truth.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "Which of the following is NOT a data source for Power Apps?",
+    "options": [
+      "A. SharePoint",
+      "B. SQL Server",
+      "C. Dataverse",
+      "D. A local text file on your desktop"
+    ],
+    "answer": "D",
+    "explanation": "Power Apps requires a cloud-accessible or gateway-connected source.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Primary Key'?",
+    "options": [
+      "A. A unique identifier for a record.",
+      "B. The first column in a table.",
+      "C. A password for the database.",
+      "D. A calculation result."
+    ],
+    "answer": "A",
+    "explanation": "A Primary Key ensures each row in a table is unique.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "How do you handle data that is too large for Excel?",
+    "options": [
+      "A. Use Power BI.",
+      "B. Use Dataverse.",
+      "C. Both A and B.",
+      "D. None of the above."
+    ],
+    "answer": "C",
+    "explanation": "Both Power BI and Dataverse are designed for large-scale data.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "What is the 'Gateway' used for?",
+    "options": [
+      "A. To connect to on-premises data.",
+      "B. To create a website.",
+      "C. To send emails.",
+      "D. To create a mobile app."
+    ],
+    "answer": "A",
+    "explanation": "The On-premises Data Gateway allows cloud services to access local data.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "Which feature allows you to create a calculation based on multiple rows in Power BI?",
+    "options": [
+      "A. DAX Measures",
+      "B. Power Query Filters",
+      "C. Canvas Apps",
+      "D. Power Pages"
+    ],
+    "answer": "A",
+    "explanation": "DAX Measures perform aggregations over multiple rows.",
+    "pillar": "Data foundations",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: Field inspectors need a phone app with a custom layout, large buttons, and a barcode scanner. Which Power Apps app type is the best fit?",
+    "options": [
+      "A. Canvas App",
+      "B. Model-driven App",
+      "C. Power Pages",
+      "D. Power BI"
+    ],
+    "answer": "A",
+    "explanation": "Canvas apps give you full control over the layout.",
+    "pillar": "Power Apps",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A sales operations team needs standardized forms and views for Dataverse accounts, contacts, and opportunities. Which app type is the best fit?",
+    "options": [
+      "A. Canvas App",
+      "B. Model-driven App",
+      "C. Power Pages",
+      "D. Power BI"
+    ],
+    "answer": "B",
+    "explanation": "Model-driven apps are built on the data model and are great for complex processes.",
+    "pillar": "Power Apps",
+    "weight": 2
+  },
+  {
+    "question": "Can a Model-driven app be used on a mobile device?",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "explanation": "Model-driven apps are responsive and work on mobile.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Component' in a Canvas App?",
+    "options": [
+      "A. A piece of the UI like a button or gallery.",
+      "B. A database table.",
+      "C. A flow in Power Automate.",
+      "D. A report in Power BI."
+    ],
+    "answer": "A",
+    "explanation": "Components are the building blocks of the Canvas UI.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: A canvas app must display a scrollable list of open work orders and let a user select one. Which control should the maker use?",
+    "options": [
+      "A. A way to display a list of items from a data source.",
+      "B. A way to create a chart.",
+      "C. A way to send an email.",
+      "D. A way to create a database."
+    ],
+    "answer": "A",
+    "explanation": "Galleries are used to iterate through and display records.",
+    "pillar": "Power Apps",
+    "weight": 2
+  },
+  {
+    "question": "What is the purpose of a 'Form' control in Power Apps?",
+    "options": [
+      "A. To display and edit individual records.",
+      "B. To create a list of items.",
+      "C. To send data to a website.",
+      "D. To create a flow."
+    ],
+    "answer": "A",
+    "explanation": "Forms are used for creating or editing single records.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: A canvas app searches thousands of customer records and is slow on mobile devices. Which practice should the maker use to improve performance?",
+    "options": [
+      "A. Loading all data at once.",
+      "B. Using 'Delegation' to let the data source do the work.",
+      "C. Using many nested If statements.",
+      "D. Using as many images as possible."
+    ],
+    "answer": "B",
+    "explanation": "Delegation ensures the data source processes the query, not the app.",
+    "pillar": "Power Apps",
+    "weight": 2
+  },
+  {
+    "question": "What is 'Power Fx'?",
+    "options": [
+      "A. The low-code formula language for Power Apps.",
+      "B. A new programming language for C#.",
+      "C. A data visualization tool.",
+      "D. A method for connecting to SQL."
+    ],
+    "answer": "A",
+    "explanation": "Power Fx is the formula language used in Power Apps.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "How can you add custom logic to a Power App?",
+    "options": [
+      "A. Power Fx formulas.",
+      "B. Power Automate flows.",
+      "C. Both A and B.",
+      "D. Neither A nor B."
+    ],
+    "answer": "C",
+    "explanation": "You can use Power Fx for UI logic and flows for heavy backend logic.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Variable' in Power Apps?",
+    "options": [
+      "A. A way to store a value temporarily in memory.",
+      "B. A way to store data permanently in a database.",
+      "C. A type of button.",
+      "D. A way to create a flow."
+    ],
+    "answer": "A",
+    "explanation": "Variables (Set, UpdateContext) store temporary values.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "Which of the following is a common data source for Power Apps?",
+    "options": [
+      "A. SharePoint Online",
+      "B. Excel Online",
+      "C. Dataverse",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Power Apps supports all of these common sources.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "What is the benefit of 'Model-driven' apps?",
+    "options": [
+      "A. They automatically create the UI based on the data model.",
+      "B. They are easier to design visually.",
+      "C. They don't require a database.",
+      "D. They are only for external users."
+    ],
+    "answer": "A",
+    "explanation": "The UI is automatically generated based on Dataverse structure.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "True or False: You can use Power Automate to trigger an action in a Power App.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Apps can trigger flows or call flows to perform actions.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "What is the purpose of a 'Collection' in Power Apps?",
+    "options": [
+      "A. A table of data stored in the app's memory.",
+      "B. A database table.",
+      "C. A way to share apps.",
+      "D. A type of button."
+    ],
+    "answer": "A",
+    "explanation": "Collections are local tables used for temporary storage.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "Which component is used to display a summary of data in a Canvas App?",
+    "options": [
+      "A. Gallery",
+      "B. Data Table",
+      "C. Form",
+      "D. Button"
+    ],
+    "answer": "B",
+    "explanation": "Data tables are useful for displaying simple lists.",
+    "pillar": "Power Apps",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: A flow must begin whenever a new support request is added to a SharePoint list. In Power Automate, what starts this flow?",
+    "options": [
+      "A. The event that starts a flow.",
+      "B. The final action of a flow.",
+      "C. A way to store data.",
+      "D. A visual chart."
+    ],
+    "answer": "A",
+    "explanation": "Triggers are the 'When' part of a flow (e.g., When a new email arrives).",
+    "pillar": "Power Automate",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: After a new request starts a flow, the flow sends an email to the assigned manager. In this flow, what is sending the email?",
+    "options": [
+      "A. The operation performed by the flow.",
+      "B. The start of the flow.",
+      "C. A data source.",
+      "D. A way to design a website."
+    ],
+    "answer": "A",
+    "explanation": "Actions are the 'Do' part of a flow (e.g., Send an email).",
+    "pillar": "Power Automate",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A supervisor needs to run an approval process on demand from a button in a Power Apps app. Which cloud flow type should be used?",
+    "options": [
+      "A. A flow triggered by a button click or manual start.",
+      "B. A flow that runs every hour.",
+      "C. A flow that runs when a file is created.",
+      "D. A flow that runs automatically."
+    ],
+    "answer": "A",
+    "explanation": "Instant flows are triggered manually or by a UI action.",
+    "pillar": "Power Automate",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: The operations team needs a summary email generated every Monday at 8:00 AM. Which cloud flow type should be used?",
+    "options": [
+      "A. A flow that runs at specific times (e.g., every Monday).",
+      "B. A flow that runs when a file is uploaded.",
+      "C. A flow that runs when a user clicks a button.",
+      "D. A flow that never stops."
+    ],
+    "answer": "A",
+    "explanation": "Scheduled flows run on a recurrence basis.",
+    "pillar": "Power Automate",
+    "weight": 2
+  },
+  {
+    "question": "What is an 'Automated Flow'?",
+    "options": [
+      "A. A flow triggered by an event (e.g., a new row in SharePoint).",
+      "B. A flow triggered by a button.",
+      "C. A flow that runs every day.",
+      "D. A flow that sends a notification."
+    ],
+    "answer": "A",
+    "explanation": "Automated flows respond to specific events.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "Which tool is used to create complex branching logic in a flow?",
+    "options": [
+      "A. Condition actions",
+      "B. Switch actions",
+      "C. Both A and B",
+      "D. Neither A nor B"
+    ],
+    "answer": "C",
+    "explanation": "Conditions and Switches are used to control flow logic.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Business Process Flow'?",
+    "options": [
+      "A. A visual guide to lead users through a multi-step process.",
+      "B. A flow that sends emails.",
+      "C. A way to build a website.",
+      "D. A way to create a database."
+    ],
+    "answer": "A",
+    "explanation": "BPFs guide users through stages in a process (e.g., Lead to Sale).",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "How can you handle errors in a Power Automate flow?",
+    "options": [
+      "A. Using 'Configure Run After' settings.",
+      "B. Using Try/Catch blocks.",
+      "C. By deleting the flow.",
+      "D. Flows cannot handle errors."
+    ],
+    "answer": "A",
+    "explanation": "Run After allows you to define actions that occur only if a previous step fails.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is the purpose of an 'Expression' in Power Automate?",
+    "options": [
+      "A. To perform calculations or manipulate strings within a flow.",
+      "B. To change the color of a button.",
+      "C. To create a new app.",
+      "D. To connect to a database."
+    ],
+    "answer": "A",
+    "explanation": "Expressions are used for logic like date formatting or string manipulation.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "Which connector would you use to interact with a custom API?",
+    "options": [
+      "A. Standard Connector",
+      "B. Premium Connector",
+      "C. Custom Connector",
+      "D. SharePoint Connector"
+    ],
+    "answer": "C",
+    "explanation": "Custom connectors are built for unique APIs.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is 'Child Flow'?",
+    "options": [
+      "A. A flow called by another flow.",
+      "B. A flow that runs every minute.",
+      "C. A flow that only runs for one user.",
+      "D. A flow that is deleted."
+    ],
+    "answer": "A",
+    "explanation": "Child flows allow for modular, reusable logic.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is the maximum number of actions in a single flow?",
+    "options": [
+      "A. There is no hard limit, but performance may decrease.",
+      "B. 50",
+      "C. 100",
+      "D. 1000"
+    ],
+    "answer": "A",
+    "explanation": "While there is no hard limit, complex flows should be broken into child flows.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Gateway' used for in Power Automate?",
+    "options": [
+      "A. Connecting to on-premises data.",
+      "B. Creating a mobile app.",
+      "C. Designing a website.",
+      "D. Visualizing data."
+    ],
+    "answer": "A",
+    "explanation": "Gateways bridge the cloud and local networks.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "Which flow type is best for a daily report generation?",
+    "options": [
+      "A. Scheduled Flow",
+      "B. Instant Flow",
+      "C. Automated Flow",
+      "D. Manual Flow"
+    ],
+    "answer": "A",
+    "explanation": "Scheduled flows are perfect for recurring tasks like daily reports.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "What is the 'Approval' action used for?",
+    "options": [
+      "A. Sending a request to a user to Approve/Reject a task.",
+      "B. Checking if a user has a password.",
+      "C. Creating a database table.",
+      "D. Building a website."
+    ],
+    "answer": "A",
+    "explanation": "The Approval connector is a standard way to manage sign-offs.",
+    "pillar": "Power Automate",
+    "weight": 1
+  },
+  {
+    "question": "Scenario: An analyst must connect to data, model it, and build a multi-page report before sharing it with colleagues. Which Power BI tool should the analyst use?",
+    "options": [
+      "A. Connecting to data, modeling, and creating reports.",
+      "B. Sharing reports with the public.",
+      "C. Creating mobile apps.",
+      "D. Automating emails."
+    ],
+    "answer": "A",
+    "explanation": "Desktop is the authoring tool for Power BI.",
+    "pillar": "Power BI",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A sales report must calculate total revenue and recalculate it when a manager filters by region. What should the report author create?",
+    "options": [
+      "A. A calculation performed on the fly (e.g., Sum of Sales).",
+      "B. A static value in a table.",
+      "C. A way to connect to data.",
+      "D. A type of chart."
+    ],
+    "answer": "A",
+    "explanation": "Measures are dynamic calculations that respond to filters.",
+    "pillar": "Power BI",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: An analyst needs a value calculated for every individual sales row and stored in the model after refresh. What should the analyst create?",
+    "options": [
+      "A. A column where the value is calculated and stored in the table.",
+      "B. A measure.",
+      "C. A way to filter data.",
+      "D. A visual chart."
+    ],
+    "answer": "A",
+    "explanation": "Calculated columns are computed during data refresh and stored.",
+    "pillar": "Power BI",
+    "weight": 2
+  },
+  {
+    "question": "Scenario: A report is finished and must be published, shared, and refreshed for coworkers. Which Power BI component should the author use?",
+    "options": [
+      "A. To publish, share, and collaborate on reports.",
+      "B. To write DAX formulas.",
+      "C. To connect to data.",
+      "D. To create a mobile app."
+    ],
+    "answer": "A",
+    "explanation": "The Service is the cloud-based sharing platform.",
+    "pillar": "Power BI",
+    "weight": 2
+  },
+  {
+    "question": "What is 'Data Modeling' in Power BI?",
+    "options": [
+      "A. Defining relationships between different tables.",
+      "B. Designing the UI of a report.",
+      "C. Writing DAX formulas.",
+      "D. Connecting to a CSV file."
+    ],
+    "answer": "A",
+    "explanation": "Modeling involves creating a schema (like a Star Schema) for the data.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Star Schema'?",
+    "options": [
+      "A. A model with a central Fact table surrounded by Dimension tables.",
+      "B. A model with only one table.",
+      "C. A way to draw stars in a report.",
+      "D. A type of flow."
+    ],
+    "answer": "A",
+    "explanation": "Star Schema is the recommended way to model data for Power BI.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Fact Table'?",
+    "options": [
+      "A. A table containing quantitative data (e.g., sales amount).",
+      "B. A table containing descriptive attributes (e.g., product name).",
+      "C. A table of users.",
+      "D. A table of dates only."
+    ],
+    "answer": "A",
+    "explanation": "Fact tables contain the 'facts' or metrics.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Dimension Table'?",
+    "options": [
+      "A. A table containing descriptive attributes (e.g., product category).",
+      "B. A table containing metrics.",
+      "C. A table of dates only.",
+      "D. A table of users."
+    ],
+    "answer": "A",
+    "explanation": "Dimension tables provide context for the facts.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is the purpose of 'Slicers' in Power BI?",
+    "options": [
+      "A. To filter the data shown in a report.",
+      "B. To create a calculation.",
+      "C. To connect to a database.",
+      "D. To send an email."
+    ],
+    "answer": "A",
+    "explanation": "Slicers are visual filters for the user.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is 'Drill-through'?",
+    "options": [
+      "A. Clicking a data point to see more detailed information on a different page.",
+      "B. Creating a new report.",
+      "C. Connecting to a new source.",
+      "D. Writing a DAX formula."
+    ],
+    "answer": "A",
+    "explanation": "Drill-through allows users to explore specific details.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is the 'Power BI Gateway'?",
+    "options": [
+      "A. A way to connect to on-premises data sources.",
+      "B. A way to share reports.",
+      "C. A way to create a mobile app.",
+      "D. A way to write DAX."
+    ],
+    "answer": "A",
+    "explanation": "Gateways bridge local data to the Power BI cloud service.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is 'Row-Level Security' (RLS)?",
+    "options": [
+      "A. Restricting data access for specific users based on their roles.",
+      "B. Password protecting a report.",
+      "C. Encrypting the database.",
+      "D. Making a report public."
+    ],
+    "answer": "A",
+    "explanation": "RLS ensures users only see data they are authorized to see.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is the purpose of 'Power BI Mobile'?",
+    "options": [
+      "A. To view and interact with reports on a mobile device.",
+      "B. To create reports on a mobile device.",
+      "C. To connect to data on a mobile device.",
+      "D. To write DAX on a mobile device."
+    ],
+    "answer": "A",
+    "explanation": "Power BI Mobile is for consumption, not creation.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "What is a 'Dashboard' in Power BI?",
+    "options": [
+      "A. A single-page summary of key metrics from multiple reports.",
+      "B. A multi-page report.",
+      "C. A data table.",
+      "D. A data source."
+    ],
+    "answer": "A",
+    "explanation": "Dashboards are high-level summaries of various reports.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "question": "Which of the following is a DAX function for aggregation?",
+    "options": [
+      "A. SUM",
+      "B. AVERAGE",
+      "C. COUNT",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "explanation": "SUM, AVERAGE, and COUNT are all standard aggregation functions.",
+    "pillar": "Power BI",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "A maker combines an app, a flow, and a report to solve one process. What platform benefit does this demonstrate?",
+    "options": [
+      "A. Products working together as one solution",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Products integrate to form end-to-end solutions.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Which governance tool helps prevent business and consumer connectors from being used together?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Data loss prevention policy",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "DLP policies govern connector combinations.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "What is the benefit of a prebuilt connector?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Ready-made access to a supported service",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Prebuilt connectors speed integration.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Scenario lab: Executives need one page of sales, inventory, and service metrics from multiple reports. What should you create?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Power BI dashboard"
+    ],
+    "answer": "D",
+    "explanation": "Dashboards combine tiles from multiple reports.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Which feature cleans and transforms data before it is loaded into Power BI?",
+    "options": [
+      "A. Power Query",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Power Query prepares data for reporting.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "What does low-code innovation with governance provide?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Maker productivity with centralized controls",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Organizations can support makers while applying guardrails.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "What is embedded analytics?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Showing Power BI insights inside another application",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Power BI content can be embedded in business apps.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "What should a maker create for a REST API without a prebuilt connector?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Custom connector"
+    ],
+    "answer": "D",
+    "explanation": "Custom connectors package APIs for use in the platform.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Which result is a strong business case for automation?",
+    "options": [
+      "A. Fewer manual handoffs and missed notifications",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Automation improves consistency and reduces repetitive work.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "What is an environment in Power Platform?",
+    "options": [
+      "A. A container for apps, flows, data, and settings",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Environments isolate resources and lifecycle stages.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Which strategy keeps unfinished changes away from production users?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Separate development, test, and production environments",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Separate environments reduce deployment risk.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "In Dataverse, what does a lookup column do?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Links a record to a record in another table",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Lookup columns represent table relationships.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Scenario lab: An Asset can have many Inspection records. What relationship is needed?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. One-to-many from Asset to Inspection"
+    ],
+    "answer": "D",
+    "explanation": "One asset relates to many inspection records.",
+    "weight": 3
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "What does a Dataverse security role control?",
+    "options": [
+      "A. Table privileges such as read and write",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Roles grant privileges to work with data.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Which column type is best for a controlled Priority list?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Choice",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Choice columns enforce a predefined list of values.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "What is a solution used for?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Package related customizations for movement between environments",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Solutions support application lifecycle management.",
+    "weight": 1
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Scenario lab: An agent can read all cases but edit only their team cases. What should be configured?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Security roles and team access"
+    ],
+    "answer": "D",
+    "explanation": "Privileges and team ownership enforce the access model.",
+    "weight": 3
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Why use an environment variable in a solution?",
+    "options": [
+      "A. Store configuration values that differ by environment",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Environment variables avoid hard-coded configuration.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What does the Patch function do in a canvas app?",
+    "options": [
+      "A. Creates or updates a data record",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Patch writes changes to a data source.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What does the Navigate function do in a canvas app?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Moves the user to another screen",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Navigate changes the current screen.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Scenario lab: A Submit button must appear only when Status is Draft. What should be used?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. A Power Fx formula on the Visible property",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Control properties can use formulas that respond to state.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What is delegation in a canvas app?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Sending supported query operations to the data source"
+    ],
+    "answer": "D",
+    "explanation": "Delegation lets the data source process large queries.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What does App checker help identify?",
+    "options": [
+      "A. Accessibility, formula, and performance issues",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "App checker highlights common app-quality concerns.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "If a user has an app shared with them but lacks table permissions, what occurs?",
+    "options": [
+      "A. A Power Pages site",
+      "B. They cannot access the restricted data",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "App sharing and data permissions are separate.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Scenario lab: A supervisor selects an employee in a gallery and must edit details. What control fits?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An Edit form bound to the selected employee",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "An edit form displays and saves the selected record.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What makes saved app changes available to shared users?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Publish the app"
+    ],
+    "answer": "D",
+    "explanation": "Publishing releases the saved version to users.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "What advantage do responsive layout containers provide?",
+    "options": [
+      "A. Controls adapt to phone and tablet sizes",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Responsive containers support different screen sizes.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Which flow type starts from a manual button press?",
+    "options": [
+      "A. Instant cloud flow",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Instant flows run on demand.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Which flow type should run at 8:00 AM every weekday?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Scheduled cloud flow",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Scheduled flows use recurrence.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "What does Apply to each do?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Repeats actions for each item in a collection",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "The control loops through arrays such as attachments.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Scenario lab: Send a Teams message only when a new case has High priority. What should follow the trigger?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. A condition that checks Priority"
+    ],
+    "answer": "D",
+    "explanation": "A condition branches the flow by the priority value.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "What does dynamic content represent in a cloud flow?",
+    "options": [
+      "A. Values supplied by the trigger or earlier actions",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Dynamic content inserts run-time values.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "What can run history help you investigate?",
+    "options": [
+      "A. A Power Pages site",
+      "B. Past flow runs, status, inputs, and action details",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "Run history supports monitoring and troubleshooting.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Scenario lab: A legacy desktop app has no API but needs automated data entry. What should be used?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Desktop flow",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Desktop flows provide RPA for UI automation.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Why use a scope control in a complex flow?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Group related actions for organization and error handling"
+    ],
+    "answer": "D",
+    "explanation": "Scopes organize steps and support run-after handling.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "What is a connector connection used for?",
+    "options": [
+      "A. Authenticate a flow to a service",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Connections provide the authentication context for actions.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "What is a Power BI semantic model used for?",
+    "options": [
+      "A. Define reusable tables, relationships, and measures",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "Semantic models organize data for consistent reporting.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Which visual is most appropriate for performance against a target?",
+    "options": [
+      "A. A Power Pages site",
+      "B. KPI",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "A KPI visual communicates progress toward a goal.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario lab: A sales leader must select a region and update all report visuals. What should be added?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. Slicer",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Slicers provide interactive filtering.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power BI",
+    "question": "What is drill-through used for?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Navigate from a summary value to a detailed report page"
+    ],
+    "answer": "D",
+    "explanation": "Drill-through explores detailed context for a selected value.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "What does row-level security provide?",
+    "options": [
+      "A. Different users see only authorized rows",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "RLS filters data based on assigned roles.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario lab: A report uses on-premises SQL Server and must refresh in Power BI service. What is required?",
+    "options": [
+      "A. A Power Pages site",
+      "B. On-premises data gateway",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "B",
+    "explanation": "A gateway bridges the cloud service to local data.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power BI",
+    "question": "What is the main difference between a measure and a calculated column?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. A measure responds to report context; a column is stored per row",
+      "D. An unrelated security role"
+    ],
+    "answer": "C",
+    "explanation": "Measures are evaluated in filter context.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Where should a completed report be published and shared with colleagues?",
+    "options": [
+      "A. A Power Pages site",
+      "B. A dashboard tile",
+      "C. An unrelated security role",
+      "D. Power BI service"
+    ],
+    "answer": "D",
+    "explanation": "The service supports governed sharing and collaboration.",
+    "weight": 1
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario lab: Sales facts connect to Product and Date descriptions. What model pattern fits best?",
+    "options": [
+      "A. Star schema",
+      "B. A Power Pages site",
+      "C. A dashboard tile",
+      "D. An unrelated security role"
+    ],
+    "answer": "A",
+    "explanation": "A star schema connects a fact table to dimensions.",
+    "weight": 3
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Scenario: A department needs an end-to-end solution for employee equipment requests. Which TWO Power Platform products should it use to provide a request app and automate manager approvals? Select two answers.",
+    "options": [
+      "A. Power Apps",
+      "B. Power BI",
+      "C. Power Automate",
+      "D. Power Pages"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Power Apps provides the request interface, and Power Automate handles the approval workflow.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Scenario: An organization wants to let makers innovate safely. Which TWO practices support governance? Select two answers.",
+    "options": [
+      "A. Use separate environments for development and production",
+      "B. Share a global administrator account",
+      "C. Apply data loss prevention policies",
+      "D. Store credentials in app formulas"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Environment separation and DLP policies are governance controls; shared admin accounts and embedded credentials are unsafe.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Which TWO statements describe connectors? Select two answers.",
+    "options": [
+      "A. They provide access to data and actions in services",
+      "B. They eliminate authentication requirements",
+      "C. They can be standard, premium, or custom",
+      "D. They replace Dataverse security roles"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Connectors integrate services and are categorized by availability; authentication and security still apply.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Scenario: A team needs reporting that leaders can filter and a one-page view of key metrics. Which TWO Power BI artifacts best fit? Select two answers.",
+    "options": [
+      "A. Report",
+      "B. Dashboard",
+      "C. Desktop flow",
+      "D. Canvas screen"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Reports provide interactive analysis, while dashboards give a single-page view of pinned metrics.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Which TWO outcomes are common benefits of low-code development? Select two answers.",
+    "options": [
+      "A. Faster delivery of departmental solutions",
+      "B. Removal of all compliance obligations",
+      "C. More business-user participation in solution design",
+      "D. Guaranteed elimination of professional developers"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Low-code can speed delivery and involve business users, but it does not remove governance or professional development needs.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Match each Power Platform product to its primary purpose.",
+    "left_items": [
+      "Power Apps",
+      "Power Automate",
+      "Power BI"
+    ],
+    "right_items": [
+      "Build business applications",
+      "Automate workflows",
+      "Analyze and visualize data"
+    ],
+    "answer": {
+      "Power Apps": "Build business applications",
+      "Power Automate": "Automate workflows",
+      "Power BI": "Analyze and visualize data"
+    },
+    "explanation": "Each product has a distinct primary role, and they can be combined into a business solution.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Scenario: A support solution needs related customer and case records plus role-based access. Which TWO Dataverse capabilities address these requirements? Select two answers.",
+    "options": [
+      "A. Table relationships",
+      "B. Security roles",
+      "C. Dashboard tiles",
+      "D. Desktop flows"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Relationships connect business records, and security roles control privileges to those records.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Which TWO actions are typical parts of application lifecycle management? Select two answers.",
+    "options": [
+      "A. Export a solution from development",
+      "B. Import a solution into test",
+      "C. Give all makers production administrator access",
+      "D. Put API keys in labels"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Solutions are moved through development, test, and production environments as part of ALM.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Scenario: A table needs a required Status field with only New, Active, or Closed values. Which TWO column settings should be used? Select two answers.",
+    "options": [
+      "A. Choice column",
+      "B. Required business field",
+      "C. Image column",
+      "D. File column"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "A choice column restricts values, and a required field ensures users supply one.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Which TWO benefits does Dataverse provide for business data? Select two answers.",
+    "options": [
+      "A. Relational tables",
+      "B. Role-based security",
+      "C. Anonymous access by default",
+      "D. A replacement for all report visuals"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Dataverse provides relational data storage and security; access is governed rather than anonymous by default.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Scenario: A company must prevent production changes from affecting live customer service. Which TWO actions are appropriate? Select two answers.",
+    "options": [
+      "A. Build changes in a development environment",
+      "B. Test before importing to production",
+      "C. Edit production directly without validation",
+      "D. Use one shared maker account"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Development and testing stages reduce the risk of disrupting production users.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Match each Dataverse concept to its purpose.",
+    "left_items": [
+      "Lookup column",
+      "Choice column",
+      "Security role"
+    ],
+    "right_items": [
+      "Links related records",
+      "Restricts values to a list",
+      "Controls table privileges"
+    ],
+    "answer": {
+      "Lookup column": "Links related records",
+      "Choice column": "Restricts values to a list",
+      "Security role": "Controls table privileges"
+    },
+    "explanation": "Lookups model relationships, choices standardize values, and security roles control permissions.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Scenario: A field app needs a custom mobile layout and barcode scanning. Which TWO canvas-app capabilities are relevant? Select two answers.",
+    "options": [
+      "A. Flexible screen layout",
+      "B. Barcode scanner control",
+      "C. Automatic model-driven form generation",
+      "D. Power BI dashboard tiles"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Canvas apps offer flexible layouts and controls such as barcode scanning.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Which TWO statements about model-driven apps are correct? Select two answers.",
+    "options": [
+      "A. They are built on Dataverse",
+      "B. They use forms and views",
+      "C. They require pixel-perfect screen design",
+      "D. They are only for anonymous website users"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Model-driven apps use Dataverse and provide forms and views generated from the data model.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Scenario: A maker wants a gallery to show only active work orders and an edit screen for a selected record. Which TWO tools can be used? Select two answers.",
+    "options": [
+      "A. Power Fx filter formula",
+      "B. Edit form",
+      "C. Power BI semantic model",
+      "D. Power Pages web role"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Power Fx can filter a gallery, and an edit form can display and update the selected record.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Which TWO actions help improve a canvas app's quality before publishing? Select two answers.",
+    "options": [
+      "A. Run App checker",
+      "B. Test with representative data",
+      "C. Share database passwords in a label",
+      "D. Disable all data permissions"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "App checker and realistic testing help find formula, accessibility, and performance issues.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Scenario: A user can open an app but cannot see its Dataverse records. Which TWO permissions may be required? Select two answers.",
+    "options": [
+      "A. The app must be shared with the user",
+      "B. The user needs access to the data source",
+      "C. The user must be a global administrator",
+      "D. The app must be a public website"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "App sharing and underlying data permissions are both required.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Match each canvas-app component to its typical use.",
+    "left_items": [
+      "Gallery",
+      "Edit form",
+      "Navigate"
+    ],
+    "right_items": [
+      "Display a list of records",
+      "Create or update one record",
+      "Move to another screen"
+    ],
+    "answer": {
+      "Gallery": "Display a list of records",
+      "Edit form": "Create or update one record",
+      "Navigate": "Move to another screen"
+    },
+    "explanation": "A gallery lists records, an edit form works with one record, and Navigate changes screens.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Scenario: A request is submitted, approved, then a confirmation email is sent. Which TWO flow elements are needed? Select two answers.",
+    "options": [
+      "A. Trigger",
+      "B. Approval action",
+      "C. Power BI slicer",
+      "D. Power Pages theme"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "A trigger starts the flow, and an approval action collects the approver's outcome.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Which TWO flow types are correctly matched to their start method? Select two answers.",
+    "options": [
+      "A. Automated flow — event trigger",
+      "B. Instant flow — manual trigger",
+      "C. Scheduled flow — new-record event",
+      "D. Desktop flow — dashboard tile"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Automated flows respond to events; instant flows run on demand. Scheduled flows use recurrence.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Scenario: A cloud flow must process every attachment on an incoming email and continue logging if one upload fails. Which TWO controls help? Select two answers.",
+    "options": [
+      "A. Apply to each",
+      "B. Configure run after",
+      "C. Canvas gallery",
+      "D. Dataverse choice"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Apply to each loops through attachments, and run-after configuration supports error handling.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Which TWO statements describe desktop flows? Select two answers.",
+    "options": [
+      "A. They support robotic process automation",
+      "B. They can automate legacy UI interactions",
+      "C. They replace all cloud-flow triggers",
+      "D. They are Power BI visuals"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Desktop flows automate desktop or web interfaces, especially where APIs are unavailable.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Scenario: A solution calls an API that has no prebuilt connector, and its endpoint differs by environment. Which TWO components should be used? Select two answers.",
+    "options": [
+      "A. Custom connector",
+      "B. Environment variable",
+      "C. Power BI dashboard",
+      "D. Canvas gallery"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "A custom connector exposes the API and an environment variable stores deployment-specific configuration.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Match each flow type to its common use.",
+    "left_items": [
+      "Automated cloud flow",
+      "Instant cloud flow",
+      "Scheduled cloud flow"
+    ],
+    "right_items": [
+      "Run when an event occurs",
+      "Run manually on demand",
+      "Run on a recurrence"
+    ],
+    "answer": {
+      "Automated cloud flow": "Run when an event occurs",
+      "Instant cloud flow": "Run manually on demand",
+      "Scheduled cloud flow": "Run on a recurrence"
+    },
+    "explanation": "Flow types differ by how they start: event, manual action, or schedule.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario: A report must let users filter sales by region and then open a detailed page for a selected customer. Which TWO features should be used? Select two answers.",
+    "options": [
+      "A. Slicer",
+      "B. Drill-through",
+      "C. Desktop flow",
+      "D. Dataverse business rule"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Slicers filter report visuals, while drill-through navigates to a detail page using the selected context.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Which TWO activities are commonly performed in Power BI Desktop? Select two answers.",
+    "options": [
+      "A. Transform data with Power Query",
+      "B. Create a data model",
+      "C. Configure Power Pages web roles",
+      "D. Run desktop RPA"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Power BI Desktop is used to prepare data, model it, and author reports.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario: A manager should see only their region's data in a shared report. Which TWO steps support this requirement? Select two answers.",
+    "options": [
+      "A. Define row-level security roles",
+      "B. Assign users to the appropriate roles",
+      "C. Publish the report anonymously",
+      "D. Add a canvas-app gallery"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "RLS requires role definitions and appropriate user or group assignment.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Which TWO statements distinguish reports from dashboards? Select two answers.",
+    "options": [
+      "A. Reports can contain multiple pages",
+      "B. Dashboards are single-page tile collections",
+      "C. Dashboards define Dataverse security roles",
+      "D. Reports require desktop flows"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Reports can be multi-page and interactive; dashboards are single-page collections of tiles.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Scenario: A semantic model contains Sales, Product, and Date tables. Which TWO modeling practices are appropriate? Select two answers.",
+    "options": [
+      "A. Relate the Sales fact table to Product and Date dimensions",
+      "B. Create measures for aggregations",
+      "C. Use a Power Pages template as a relationship",
+      "D. Store every value in one text column"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "A star schema relates facts to dimensions, and measures calculate aggregations in report context.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Match each Power BI item to its purpose.",
+    "left_items": [
+      "Power Query",
+      "Measure",
+      "Row-level security"
+    ],
+    "right_items": [
+      "Transform data before loading",
+      "Calculate in filter context",
+      "Restrict visible rows by user"
+    ],
+    "answer": {
+      "Power Query": "Transform data before loading",
+      "Measure": "Calculate in filter context",
+      "Row-level security": "Restrict visible rows by user"
+    },
+    "explanation": "Power Query prepares data, measures calculate results, and RLS restricts access to rows.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "True or False: A data loss prevention policy can help control which connectors makers use together in an environment.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "DLP policies group and govern connectors to reduce inappropriate data movement.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "True or False: A Dataverse security role can control whether a user can create, read, update, or delete table records.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Dataverse security roles grant table privileges such as create, read, write, and delete.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "True or False: Sharing a canvas app automatically grants every user access to all data in the app's data source.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B",
+    "explanation": "App sharing and data-source permissions are separate; users also need appropriate access to the data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "True or False: A scheduled cloud flow uses a recurrence trigger to run at planned intervals.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Scheduled cloud flows start from a recurrence trigger.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "True or False: Row-level security can make different users see different rows in the same Power BI report.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "RLS filters the visible data based on the assigned role and user context.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Case study: Northwind wants a staff-facing request app, automated approvals, and management reporting. The solution must minimize custom code. Which platform approach best meets the requirement?",
+    "options": [
+      "A. Build a Power Apps app, Power Automate flow, and Power BI report",
+      "B. Build only a public Power Pages website",
+      "C. Use a desktop flow as the entire user interface",
+      "D. Store each request in a local text file"
+    ],
+    "answer": "A",
+    "explanation": "Power Apps, Power Automate, and Power BI combine into a low-code end-to-end business solution.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Case study: Fabrikam has development and production environments. Makers must move a tested app, flow, and Dataverse table changes to production together. What should they use?",
+    "options": [
+      "A. A solution",
+      "B. A dashboard",
+      "C. A gallery",
+      "D. A Power BI measure"
+    ],
+    "answer": "A",
+    "explanation": "Solutions package related Power Platform components for movement between environments.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Case study: A service manager needs a data-centric internal app built on Dataverse cases, contacts, forms, views, and a guided process. Which app type is the best fit?",
+    "options": [
+      "A. Model-driven app",
+      "B. Canvas app",
+      "C. Power Pages site",
+      "D. Power BI dashboard"
+    ],
+    "answer": "A",
+    "explanation": "Model-driven apps are well suited to structured Dataverse data, forms, views, and business processes.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Case study: An accounts-payable team receives invoices by email. When an invoice arrives, the system must save the attachment, request approval, and notify the submitter. What should start this automation?",
+    "options": [
+      "A. An automated cloud flow triggered by a new email",
+      "B. A scheduled cloud flow",
+      "C. A Power BI dashboard",
+      "D. A model-driven app view"
+    ],
+    "answer": "A",
+    "explanation": "An automated cloud flow can begin from a new-email event and complete the approval steps.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Case study: A regional manager must see only their region in a shared sales report, while executives can see all regions. What should the report author configure?",
+    "options": [
+      "A. Row-level security roles",
+      "B. A public dashboard link",
+      "C. A canvas-app component",
+      "D. A desktop flow"
+    ],
+    "answer": "A",
+    "explanation": "Row-level security limits report rows based on the viewer's assigned role.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Power Platform concepts",
+    "question": "Drag and drop the steps into the best order for launching a low-code business solution.",
+    "items": [
+      "Identify the business problem and requirements",
+      "Build the app, automation, or report in development",
+      "Test the solution with users",
+      "Deploy the approved solution to production"
+    ],
+    "answer": [
+      "Identify the business problem and requirements",
+      "Build the app, automation, or report in development",
+      "Test the solution with users",
+      "Deploy the approved solution to production"
+    ],
+    "explanation": "A governed solution should begin with the business need, be built and tested outside production, and then be deployed.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Data foundations",
+    "question": "Drag and drop the application lifecycle steps into the correct order.",
+    "items": [
+      "Create or update components in a development environment",
+      "Export the solution",
+      "Import and test the solution in a test environment",
+      "Import the approved solution into production"
+    ],
+    "answer": [
+      "Create or update components in a development environment",
+      "Export the solution",
+      "Import and test the solution in a test environment",
+      "Import the approved solution into production"
+    ],
+    "explanation": "Solutions move from development through test before a controlled production deployment.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Power Apps",
+    "question": "Drag and drop the steps into a sensible order for creating and releasing a canvas app.",
+    "items": [
+      "Add a data source",
+      "Build screens and controls",
+      "Test formulas and user experience",
+      "Publish the app for users"
+    ],
+    "answer": [
+      "Add a data source",
+      "Build screens and controls",
+      "Test formulas and user experience",
+      "Publish the app for users"
+    ],
+    "explanation": "Makers connect data, build the experience, test it, and publish the finished version.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Power Automate",
+    "question": "Drag and drop the steps into the correct order for an approval flow.",
+    "items": [
+      "A request trigger starts the flow",
+      "The flow creates an approval request",
+      "The approver responds",
+      "The flow sends the outcome notification"
+    ],
+    "answer": [
+      "A request trigger starts the flow",
+      "The flow creates an approval request",
+      "The approver responds",
+      "The flow sends the outcome notification"
+    ],
+    "explanation": "A flow starts from its trigger, runs the approval action, receives the outcome, and then performs follow-up actions.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Power BI",
+    "question": "Drag and drop the report-authoring steps into the correct order.",
+    "items": [
+      "Connect to data",
+      "Transform data with Power Query",
+      "Create the data model and measures",
+      "Build and publish the report"
+    ],
+    "answer": [
+      "Connect to data",
+      "Transform data with Power Query",
+      "Create the data model and measures",
+      "Build and publish the report"
+    ],
+    "explanation": "A typical Power BI workflow connects and prepares data, models it, builds visuals, and then publishes the report.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  }
+]

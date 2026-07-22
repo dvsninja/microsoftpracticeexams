@@ -1,0 +1,2057 @@
+[
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of copilot administration. Which approach best meets the requirement?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration. Manage identities, licenses, and service settings is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in copilot administration?",
+    "options": [
+      "A. grant every user global administrator rights",
+      "B. manage identities, licenses, and service settings",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Manage identities, licenses, and service settings supports the primary objective to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for copilot administration.",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure Microsoft 365 Copilot readiness and administration and to manage identities, licenses, and service settings. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to configure Microsoft 365 Copilot readiness and administration when addressing copilot administration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the copilot administration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure Microsoft 365 Copilot readiness and administration",
+      "manage identities, licenses, and service settings",
+      "grant every user global administrator rights"
+    ],
+    "answer": {
+      "Primary objective": "configure Microsoft 365 Copilot readiness and administration",
+      "Supporting practice": "manage identities, licenses, and service settings",
+      "Unsafe approach": "grant every user global administrator rights"
+    },
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration; the complementary practice is to manage identities, licenses, and service settings. Grant every user global administrator rights is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a copilot administration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to grant every user global administrator rights. What should the project team recommend instead?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure Microsoft 365 Copilot readiness and administration. Grant every user global administrator rights does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good copilot administration practice?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. manage identities, licenses, and service settings",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure Microsoft 365 Copilot readiness and administration with the supporting practice to manage identities, licenses, and service settings.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of security and compliance. Which approach best meets the requirement?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data. Use least-privilege access and sensitivity controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in security and compliance?",
+    "options": [
+      "A. make all data available to every agent",
+      "B. use least-privilege access and sensitivity controls",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use least-privilege access and sensitivity controls supports the primary objective to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for security and compliance.",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to apply Microsoft Purview and security controls to protect data and to use least-privilege access and sensitivity controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to apply Microsoft Purview and security controls to protect data when addressing security and compliance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the security and compliance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "apply Microsoft Purview and security controls to protect data",
+      "use least-privilege access and sensitivity controls",
+      "make all data available to every agent"
+    ],
+    "answer": {
+      "Primary objective": "apply Microsoft Purview and security controls to protect data",
+      "Supporting practice": "use least-privilege access and sensitivity controls",
+      "Unsafe approach": "make all data available to every agent"
+    },
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data; the complementary practice is to use least-privilege access and sensitivity controls. Make all data available to every agent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a security and compliance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to make all data available to every agent. What should the project team recommend instead?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should apply Microsoft Purview and security controls to protect data. Make all data available to every agent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good security and compliance practice?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. use least-privilege access and sensitivity controls",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to apply Microsoft Purview and security controls to protect data with the supporting practice to use least-privilege access and sensitivity controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of agents. Which approach best meets the requirement?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to select and manage an agent for a defined business task. Ground the agent with approved knowledge and access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in agents?",
+    "options": [
+      "A. give an agent unrestricted tenant access",
+      "B. ground the agent with approved knowledge and access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground the agent with approved knowledge and access supports the primary objective to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for agents.",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to select and manage an agent for a defined business task and to ground the agent with approved knowledge and access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to select and manage an agent for a defined business task when addressing agents.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the agents concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "select and manage an agent for a defined business task",
+      "ground the agent with approved knowledge and access",
+      "give an agent unrestricted tenant access"
+    ],
+    "answer": {
+      "Primary objective": "select and manage an agent for a defined business task",
+      "Supporting practice": "ground the agent with approved knowledge and access",
+      "Unsafe approach": "give an agent unrestricted tenant access"
+    },
+    "explanation": "The primary objective is to select and manage an agent for a defined business task; the complementary practice is to ground the agent with approved knowledge and access. Give an agent unrestricted tenant access is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a agents initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to give an agent unrestricted tenant access. What should the project team recommend instead?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should select and manage an agent for a defined business task. Give an agent unrestricted tenant access does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good agents practice?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. ground the agent with approved knowledge and access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to select and manage an agent for a defined business task with the supporting practice to ground the agent with approved knowledge and access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish governance for Copilot and agents. Monitor adoption and manage lifecycle controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in governance?",
+    "options": [
+      "A. avoid documenting ownership",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Monitor adoption and manage lifecycle controls supports the primary objective to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for governance.",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish governance for Copilot and agents and to monitor adoption and manage lifecycle controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to establish governance for Copilot and agents when addressing governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish governance for Copilot and agents",
+      "monitor adoption and manage lifecycle controls",
+      "avoid documenting ownership"
+    ],
+    "answer": {
+      "Primary objective": "establish governance for Copilot and agents",
+      "Supporting practice": "monitor adoption and manage lifecycle controls",
+      "Unsafe approach": "avoid documenting ownership"
+    },
+    "explanation": "The primary objective is to establish governance for Copilot and agents; the complementary practice is to monitor adoption and manage lifecycle controls. Avoid documenting ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to avoid documenting ownership. What should the project team recommend instead?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish governance for Copilot and agents. Avoid documenting ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good governance practice?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. monitor adoption and manage lifecycle controls",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish governance for Copilot and agents with the supporting practice to monitor adoption and manage lifecycle controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: A team is planning work in the area of adoption. Which approach best meets the requirement?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption. Provide training and gather feedback is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Which practice best supports successful work in adoption?",
+    "options": [
+      "A. assume adoption occurs automatically",
+      "B. provide training and gather feedback",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Provide training and gather feedback supports the primary objective to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Scenario: Select TWO actions that are appropriate for adoption.",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan user enablement and measure Copilot adoption and to provide training and gather feedback. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. True or False: It is appropriate to plan user enablement and measure Copilot adoption when addressing adoption.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Match the adoption concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan user enablement and measure Copilot adoption",
+      "provide training and gather feedback",
+      "assume adoption occurs automatically"
+    ],
+    "answer": {
+      "Primary objective": "plan user enablement and measure Copilot adoption",
+      "Supporting practice": "provide training and gather feedback",
+      "Unsafe approach": "assume adoption occurs automatically"
+    },
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption; the complementary practice is to provide training and gather feedback. Assume adoption occurs automatically is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Drag and drop the steps into a sensible order for a adoption initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Case study: A stakeholder asks for a quick result but proposes to assume adoption occurs automatically. What should the project team recommend instead?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan user enablement and measure Copilot adoption. Assume adoption occurs automatically does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A retail organization is planning a new initiative. Which TWO statements align with good adoption practice?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. provide training and gather feedback",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan user enablement and measure Copilot adoption with the supporting practice to provide training and gather feedback.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of copilot administration. Which approach best meets the requirement?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration. Manage identities, licenses, and service settings is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in copilot administration?",
+    "options": [
+      "A. grant every user global administrator rights",
+      "B. manage identities, licenses, and service settings",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Manage identities, licenses, and service settings supports the primary objective to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for copilot administration.",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure Microsoft 365 Copilot readiness and administration and to manage identities, licenses, and service settings. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to configure Microsoft 365 Copilot readiness and administration when addressing copilot administration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the copilot administration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure Microsoft 365 Copilot readiness and administration",
+      "manage identities, licenses, and service settings",
+      "grant every user global administrator rights"
+    ],
+    "answer": {
+      "Primary objective": "configure Microsoft 365 Copilot readiness and administration",
+      "Supporting practice": "manage identities, licenses, and service settings",
+      "Unsafe approach": "grant every user global administrator rights"
+    },
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration; the complementary practice is to manage identities, licenses, and service settings. Grant every user global administrator rights is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a copilot administration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to grant every user global administrator rights. What should the project team recommend instead?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure Microsoft 365 Copilot readiness and administration. Grant every user global administrator rights does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good copilot administration practice?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. manage identities, licenses, and service settings",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure Microsoft 365 Copilot readiness and administration with the supporting practice to manage identities, licenses, and service settings.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of security and compliance. Which approach best meets the requirement?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data. Use least-privilege access and sensitivity controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in security and compliance?",
+    "options": [
+      "A. make all data available to every agent",
+      "B. use least-privilege access and sensitivity controls",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use least-privilege access and sensitivity controls supports the primary objective to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for security and compliance.",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to apply Microsoft Purview and security controls to protect data and to use least-privilege access and sensitivity controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to apply Microsoft Purview and security controls to protect data when addressing security and compliance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the security and compliance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "apply Microsoft Purview and security controls to protect data",
+      "use least-privilege access and sensitivity controls",
+      "make all data available to every agent"
+    ],
+    "answer": {
+      "Primary objective": "apply Microsoft Purview and security controls to protect data",
+      "Supporting practice": "use least-privilege access and sensitivity controls",
+      "Unsafe approach": "make all data available to every agent"
+    },
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data; the complementary practice is to use least-privilege access and sensitivity controls. Make all data available to every agent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a security and compliance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to make all data available to every agent. What should the project team recommend instead?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should apply Microsoft Purview and security controls to protect data. Make all data available to every agent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good security and compliance practice?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. use least-privilege access and sensitivity controls",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to apply Microsoft Purview and security controls to protect data with the supporting practice to use least-privilege access and sensitivity controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of agents. Which approach best meets the requirement?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to select and manage an agent for a defined business task. Ground the agent with approved knowledge and access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in agents?",
+    "options": [
+      "A. give an agent unrestricted tenant access",
+      "B. ground the agent with approved knowledge and access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground the agent with approved knowledge and access supports the primary objective to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for agents.",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to select and manage an agent for a defined business task and to ground the agent with approved knowledge and access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to select and manage an agent for a defined business task when addressing agents.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the agents concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "select and manage an agent for a defined business task",
+      "ground the agent with approved knowledge and access",
+      "give an agent unrestricted tenant access"
+    ],
+    "answer": {
+      "Primary objective": "select and manage an agent for a defined business task",
+      "Supporting practice": "ground the agent with approved knowledge and access",
+      "Unsafe approach": "give an agent unrestricted tenant access"
+    },
+    "explanation": "The primary objective is to select and manage an agent for a defined business task; the complementary practice is to ground the agent with approved knowledge and access. Give an agent unrestricted tenant access is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a agents initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to give an agent unrestricted tenant access. What should the project team recommend instead?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should select and manage an agent for a defined business task. Give an agent unrestricted tenant access does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good agents practice?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. ground the agent with approved knowledge and access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to select and manage an agent for a defined business task with the supporting practice to ground the agent with approved knowledge and access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish governance for Copilot and agents. Monitor adoption and manage lifecycle controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in governance?",
+    "options": [
+      "A. avoid documenting ownership",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Monitor adoption and manage lifecycle controls supports the primary objective to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for governance.",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish governance for Copilot and agents and to monitor adoption and manage lifecycle controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to establish governance for Copilot and agents when addressing governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish governance for Copilot and agents",
+      "monitor adoption and manage lifecycle controls",
+      "avoid documenting ownership"
+    ],
+    "answer": {
+      "Primary objective": "establish governance for Copilot and agents",
+      "Supporting practice": "monitor adoption and manage lifecycle controls",
+      "Unsafe approach": "avoid documenting ownership"
+    },
+    "explanation": "The primary objective is to establish governance for Copilot and agents; the complementary practice is to monitor adoption and manage lifecycle controls. Avoid documenting ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to avoid documenting ownership. What should the project team recommend instead?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish governance for Copilot and agents. Avoid documenting ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good governance practice?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. monitor adoption and manage lifecycle controls",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish governance for Copilot and agents with the supporting practice to monitor adoption and manage lifecycle controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: A team is planning work in the area of adoption. Which approach best meets the requirement?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption. Provide training and gather feedback is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Which practice best supports successful work in adoption?",
+    "options": [
+      "A. assume adoption occurs automatically",
+      "B. provide training and gather feedback",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Provide training and gather feedback supports the primary objective to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Scenario: Select TWO actions that are appropriate for adoption.",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan user enablement and measure Copilot adoption and to provide training and gather feedback. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. True or False: It is appropriate to plan user enablement and measure Copilot adoption when addressing adoption.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Match the adoption concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan user enablement and measure Copilot adoption",
+      "provide training and gather feedback",
+      "assume adoption occurs automatically"
+    ],
+    "answer": {
+      "Primary objective": "plan user enablement and measure Copilot adoption",
+      "Supporting practice": "provide training and gather feedback",
+      "Unsafe approach": "assume adoption occurs automatically"
+    },
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption; the complementary practice is to provide training and gather feedback. Assume adoption occurs automatically is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Drag and drop the steps into a sensible order for a adoption initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Case study: A stakeholder asks for a quick result but proposes to assume adoption occurs automatically. What should the project team recommend instead?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan user enablement and measure Copilot adoption. Assume adoption occurs automatically does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A finance department is improving a recurring business process. Which TWO statements align with good adoption practice?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. provide training and gather feedback",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan user enablement and measure Copilot adoption with the supporting practice to provide training and gather feedback.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of copilot administration. Which approach best meets the requirement?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration. Manage identities, licenses, and service settings is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in copilot administration?",
+    "options": [
+      "A. grant every user global administrator rights",
+      "B. manage identities, licenses, and service settings",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Manage identities, licenses, and service settings supports the primary objective to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for copilot administration.",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. manage identities, licenses, and service settings",
+      "C. grant every user global administrator rights",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to configure Microsoft 365 Copilot readiness and administration and to manage identities, licenses, and service settings. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to configure Microsoft 365 Copilot readiness and administration when addressing copilot administration.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to configure Microsoft 365 Copilot readiness and administration.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the copilot administration concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "configure Microsoft 365 Copilot readiness and administration",
+      "manage identities, licenses, and service settings",
+      "grant every user global administrator rights"
+    ],
+    "answer": {
+      "Primary objective": "configure Microsoft 365 Copilot readiness and administration",
+      "Supporting practice": "manage identities, licenses, and service settings",
+      "Unsafe approach": "grant every user global administrator rights"
+    },
+    "explanation": "The primary objective is to configure Microsoft 365 Copilot readiness and administration; the complementary practice is to manage identities, licenses, and service settings. Grant every user global administrator rights is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a copilot administration initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Configure microsoft 365 copilot readiness and administration",
+      "Manage identities, licenses, and service settings",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to grant every user global administrator rights. What should the project team recommend instead?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. ignore tenant prerequisites",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should configure Microsoft 365 Copilot readiness and administration. Grant every user global administrator rights does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Copilot administration",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good copilot administration practice?",
+    "options": [
+      "A. configure Microsoft 365 Copilot readiness and administration",
+      "B. grant every user global administrator rights",
+      "C. manage identities, licenses, and service settings",
+      "D. ignore tenant prerequisites"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to configure Microsoft 365 Copilot readiness and administration with the supporting practice to manage identities, licenses, and service settings.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of security and compliance. Which approach best meets the requirement?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data. Use least-privilege access and sensitivity controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in security and compliance?",
+    "options": [
+      "A. make all data available to every agent",
+      "B. use least-privilege access and sensitivity controls",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Use least-privilege access and sensitivity controls supports the primary objective to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for security and compliance.",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. use least-privilege access and sensitivity controls",
+      "C. make all data available to every agent",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to apply Microsoft Purview and security controls to protect data and to use least-privilege access and sensitivity controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to apply Microsoft Purview and security controls to protect data when addressing security and compliance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to apply Microsoft Purview and security controls to protect data.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the security and compliance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "apply Microsoft Purview and security controls to protect data",
+      "use least-privilege access and sensitivity controls",
+      "make all data available to every agent"
+    ],
+    "answer": {
+      "Primary objective": "apply Microsoft Purview and security controls to protect data",
+      "Supporting practice": "use least-privilege access and sensitivity controls",
+      "Unsafe approach": "make all data available to every agent"
+    },
+    "explanation": "The primary objective is to apply Microsoft Purview and security controls to protect data; the complementary practice is to use least-privilege access and sensitivity controls. Make all data available to every agent is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a security and compliance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Apply microsoft purview and security controls to protect data",
+      "Use least-privilege access and sensitivity controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to make all data available to every agent. What should the project team recommend instead?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. store secrets in prompts",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should apply Microsoft Purview and security controls to protect data. Make all data available to every agent does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Security and compliance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good security and compliance practice?",
+    "options": [
+      "A. apply Microsoft Purview and security controls to protect data",
+      "B. make all data available to every agent",
+      "C. use least-privilege access and sensitivity controls",
+      "D. store secrets in prompts"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to apply Microsoft Purview and security controls to protect data with the supporting practice to use least-privilege access and sensitivity controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of agents. Which approach best meets the requirement?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to select and manage an agent for a defined business task. Ground the agent with approved knowledge and access is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in agents?",
+    "options": [
+      "A. give an agent unrestricted tenant access",
+      "B. ground the agent with approved knowledge and access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Ground the agent with approved knowledge and access supports the primary objective to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for agents.",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. ground the agent with approved knowledge and access",
+      "C. give an agent unrestricted tenant access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to select and manage an agent for a defined business task and to ground the agent with approved knowledge and access. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to select and manage an agent for a defined business task when addressing agents.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to select and manage an agent for a defined business task.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the agents concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "select and manage an agent for a defined business task",
+      "ground the agent with approved knowledge and access",
+      "give an agent unrestricted tenant access"
+    ],
+    "answer": {
+      "Primary objective": "select and manage an agent for a defined business task",
+      "Supporting practice": "ground the agent with approved knowledge and access",
+      "Unsafe approach": "give an agent unrestricted tenant access"
+    },
+    "explanation": "The primary objective is to select and manage an agent for a defined business task; the complementary practice is to ground the agent with approved knowledge and access. Give an agent unrestricted tenant access is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a agents initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Select and manage an agent for a defined business task",
+      "Ground the agent with approved knowledge and access",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to give an agent unrestricted tenant access. What should the project team recommend instead?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. publish an agent without testing",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should select and manage an agent for a defined business task. Give an agent unrestricted tenant access does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Agents",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good agents practice?",
+    "options": [
+      "A. select and manage an agent for a defined business task",
+      "B. give an agent unrestricted tenant access",
+      "C. ground the agent with approved knowledge and access",
+      "D. publish an agent without testing"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to select and manage an agent for a defined business task with the supporting practice to ground the agent with approved knowledge and access.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of governance. Which approach best meets the requirement?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to establish governance for Copilot and agents. Monitor adoption and manage lifecycle controls is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in governance?",
+    "options": [
+      "A. avoid documenting ownership",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Monitor adoption and manage lifecycle controls supports the primary objective to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for governance.",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. monitor adoption and manage lifecycle controls",
+      "C. avoid documenting ownership",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to establish governance for Copilot and agents and to monitor adoption and manage lifecycle controls. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to establish governance for Copilot and agents when addressing governance.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to establish governance for Copilot and agents.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the governance concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "establish governance for Copilot and agents",
+      "monitor adoption and manage lifecycle controls",
+      "avoid documenting ownership"
+    ],
+    "answer": {
+      "Primary objective": "establish governance for Copilot and agents",
+      "Supporting practice": "monitor adoption and manage lifecycle controls",
+      "Unsafe approach": "avoid documenting ownership"
+    },
+    "explanation": "The primary objective is to establish governance for Copilot and agents; the complementary practice is to monitor adoption and manage lifecycle controls. Avoid documenting ownership is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a governance initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Establish governance for copilot and agents",
+      "Monitor adoption and manage lifecycle controls",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to avoid documenting ownership. What should the project team recommend instead?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. disable all audit capabilities",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should establish governance for Copilot and agents. Avoid documenting ownership does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Governance",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good governance practice?",
+    "options": [
+      "A. establish governance for Copilot and agents",
+      "B. avoid documenting ownership",
+      "C. monitor adoption and manage lifecycle controls",
+      "D. disable all audit capabilities"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to establish governance for Copilot and agents with the supporting practice to monitor adoption and manage lifecycle controls.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: A team is planning work in the area of adoption. Which approach best meets the requirement?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": "A",
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption. Provide training and gather feedback is an important complementary practice.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which practice best supports successful work in adoption?",
+    "options": [
+      "A. assume adoption occurs automatically",
+      "B. provide training and gather feedback",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "B",
+    "explanation": "Provide training and gather feedback supports the primary objective to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Scenario: Select TWO actions that are appropriate for adoption.",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. provide training and gather feedback",
+      "C. assume adoption occurs automatically",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "The correct actions are to plan user enablement and measure Copilot adoption and to provide training and gather feedback. The other choices undermine the requirement.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. True or False: It is appropriate to plan user enablement and measure Copilot adoption when addressing adoption.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "True. A sound approach is to plan user enablement and measure Copilot adoption.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Match the adoption concept to its purpose.",
+    "left_items": [
+      "Primary objective",
+      "Supporting practice",
+      "Unsafe approach"
+    ],
+    "right_items": [
+      "plan user enablement and measure Copilot adoption",
+      "provide training and gather feedback",
+      "assume adoption occurs automatically"
+    ],
+    "answer": {
+      "Primary objective": "plan user enablement and measure Copilot adoption",
+      "Supporting practice": "provide training and gather feedback",
+      "Unsafe approach": "assume adoption occurs automatically"
+    },
+    "explanation": "The primary objective is to plan user enablement and measure Copilot adoption; the complementary practice is to provide training and gather feedback. Assume adoption occurs automatically is not an appropriate approach.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Drag and drop the steps into a sensible order for a adoption initiative.",
+    "items": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "answer": [
+      "Identify the business requirement",
+      "Plan user enablement and measure copilot adoption",
+      "Provide training and gather feedback",
+      "Validate outcomes and refine the approach"
+    ],
+    "explanation": "A strong initiative starts with the requirement, applies the primary capability, uses supporting practices, and then validates outcomes.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Case study: A stakeholder asks for a quick result but proposes to assume adoption occurs automatically. What should the project team recommend instead?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. measure only license count",
+      "D. use an unrelated feature without validating the business requirement"
+    ],
+    "answer": "A",
+    "explanation": "The team should plan user enablement and measure Copilot adoption. Assume adoption occurs automatically does not meet the responsible business requirement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "exam_id": "AB-900",
+    "pillar": "Adoption",
+    "question": "Scenario: A service organization is evaluating a governed solution. Which TWO statements align with good adoption practice?",
+    "options": [
+      "A. plan user enablement and measure Copilot adoption",
+      "B. assume adoption occurs automatically",
+      "C. provide training and gather feedback",
+      "D. measure only license count"
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "Good practice combines the primary objective to plan user enablement and measure Copilot adoption with the supporting practice to provide training and gather feedback.",
+    "weight": 2,
+    "question_type": "multi_select"
+  }
+]

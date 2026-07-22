@@ -1,0 +1,1494 @@
+[
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which Azure feature provides just-in-time elevation for privileged Microsoft Entra and Azure roles?",
+    "options": [
+      "A. Azure Policy",
+      "B. Network Security Groups",
+      "C. Azure Backup",
+      "D. Privileged Identity Management (PIM)"
+    ],
+    "answer": "D",
+    "explanation": "PIM manages eligible, time-bound privileged access and approval or MFA settings.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure feature provides just-in-time elevation for privileged Microsoft Entra and Azure roles?",
+    "options": [
+      "A. Privileged Identity Management (PIM)",
+      "B. Azure Policy",
+      "C. Network Security Groups",
+      "D. Azure Backup"
+    ],
+    "answer": "A",
+    "explanation": "PIM manages eligible, time-bound privileged access and approval or MFA settings.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which access-control model assigns permissions to Azure resources based on role assignments?",
+    "options": [
+      "A. Azure role-based access control (Azure RBAC)",
+      "B. Azure DNS",
+      "C. Azure Advisor",
+      "D. Azure Monitor"
+    ],
+    "answer": "A",
+    "explanation": "Azure RBAC authorizes actions at management group, subscription, resource group, or resource scope.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which access-control model assigns permissions to Azure resources based on role assignments?",
+    "options": [
+      "A. Azure DNS",
+      "B. Azure role-based access control (Azure RBAC)",
+      "C. Azure Advisor",
+      "D. Azure Monitor"
+    ],
+    "answer": "B",
+    "explanation": "Azure RBAC authorizes actions at management group, subscription, resource group, or resource scope.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which identity type is designed for an Azure resource to authenticate to supported services without storing credentials in code?",
+    "options": [
+      "A. Managed identity",
+      "B. Shared access signature",
+      "C. Network interface",
+      "D. Resource lock"
+    ],
+    "answer": "A",
+    "explanation": "Managed identities let workloads obtain Microsoft Entra tokens without managed secrets.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which identity type is designed for an Azure resource to authenticate to supported services without storing credentials in code?",
+    "options": [
+      "A. Shared access signature",
+      "B. Managed identity",
+      "C. Network interface",
+      "D. Resource lock"
+    ],
+    "answer": "B",
+    "explanation": "Managed identities let workloads obtain Microsoft Entra tokens without managed secrets.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which Microsoft Entra capability evaluates user or sign-in risk and can require remediation such as password change?",
+    "options": [
+      "A. Azure Bastion",
+      "B. Microsoft Purview",
+      "C. Azure Cost Management",
+      "D. Identity Protection"
+    ],
+    "answer": "D",
+    "explanation": "Identity Protection detects identity risk and supports risk-based policies.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Entra capability evaluates user or sign-in risk and can require remediation such as password change?",
+    "options": [
+      "A. Identity Protection",
+      "B. Azure Bastion",
+      "C. Microsoft Purview",
+      "D. Azure Cost Management"
+    ],
+    "answer": "A",
+    "explanation": "Identity Protection detects identity risk and supports risk-based policies.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which control should require multifactor authentication when administrators access the Azure portal from outside trusted locations?",
+    "options": [
+      "A. Conditional Access policy",
+      "B. Azure Policy initiative",
+      "C. Management lock",
+      "D. Application Security Group"
+    ],
+    "answer": "A",
+    "explanation": "Conditional Access evaluates signals and enforces controls such as MFA.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which control should require multifactor authentication when administrators access the Azure portal from outside trusted locations?",
+    "options": [
+      "A. Azure Policy initiative",
+      "B. Conditional Access policy",
+      "C. Management lock",
+      "D. Application Security Group"
+    ],
+    "answer": "B",
+    "explanation": "Conditional Access evaluates signals and enforces controls such as MFA.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which service stores secrets, keys, and certificates with access controls and audit logging?",
+    "options": [
+      "A. Azure Files",
+      "B. Azure Firewall",
+      "C. Azure DevTest Labs",
+      "D. Azure Key Vault"
+    ],
+    "answer": "D",
+    "explanation": "Key Vault is the Azure service for protected cryptographic material and secrets.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which service stores secrets, keys, and certificates with access controls and audit logging?",
+    "options": [
+      "A. Azure Key Vault",
+      "B. Azure Files",
+      "C. Azure Firewall",
+      "D. Azure DevTest Labs"
+    ],
+    "answer": "A",
+    "explanation": "Key Vault is the Azure service for protected cryptographic material and secrets.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which Microsoft Entra feature reviews whether users still need group or application access?",
+    "options": [
+      "A. Azure reservations",
+      "B. Access reviews",
+      "C. Service Health",
+      "D. Change analysis"
+    ],
+    "answer": "B",
+    "explanation": "Access reviews help validate and remove unnecessary access over time.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Entra feature reviews whether users still need group or application access?",
+    "options": [
+      "A. Azure reservations",
+      "B. Service Health",
+      "C. Access reviews",
+      "D. Change analysis"
+    ],
+    "answer": "C",
+    "explanation": "Access reviews help validate and remove unnecessary access over time.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which application identity represents an app registration in a specific Microsoft Entra tenant?",
+    "options": [
+      "A. Service principal",
+      "B. User-assigned managed identity only",
+      "C. Resource group",
+      "D. Azure Policy definition"
+    ],
+    "answer": "A",
+    "explanation": "A service principal is the tenant-local representation used to grant an application access.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which application identity represents an app registration in a specific Microsoft Entra tenant?",
+    "options": [
+      "A. User-assigned managed identity only",
+      "B. Service principal",
+      "C. Resource group",
+      "D. Azure Policy definition"
+    ],
+    "answer": "B",
+    "explanation": "A service principal is the tenant-local representation used to grant an application access.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which Azure service filters network traffic using rules and supports application and network rule collections?",
+    "options": [
+      "A. Azure Firewall",
+      "B. Azure Load Balancer",
+      "C. Azure DNS",
+      "D. Azure Files"
+    ],
+    "answer": "A",
+    "explanation": "Azure Firewall is a managed network security service with centralized rule processing.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure service filters network traffic using rules and supports application and network rule collections?",
+    "options": [
+      "A. Azure Load Balancer",
+      "B. Azure Firewall",
+      "C. Azure DNS",
+      "D. Azure Files"
+    ],
+    "answer": "B",
+    "explanation": "Azure Firewall is a managed network security service with centralized rule processing.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which feature gives a PaaS resource a private IP address in a virtual network?",
+    "options": [
+      "A. Service tag",
+      "B. Public IP prefix",
+      "C. Private Endpoint",
+      "D. Availability set"
+    ],
+    "answer": "C",
+    "explanation": "Private Endpoints use Azure Private Link to expose supported services privately.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which feature gives a PaaS resource a private IP address in a virtual network?",
+    "options": [
+      "A. Service tag",
+      "B. Public IP prefix",
+      "C. Availability set",
+      "D. Private Endpoint"
+    ],
+    "answer": "D",
+    "explanation": "Private Endpoints use Azure Private Link to expose supported services privately.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which control filters inbound and outbound traffic at a subnet or network interface?",
+    "options": [
+      "A. Network Security Group (NSG)",
+      "B. Azure Resource Graph",
+      "C. Azure Key Vault",
+      "D. Microsoft Sentinel"
+    ],
+    "answer": "A",
+    "explanation": "NSGs use priority-ordered security rules to allow or deny traffic.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which control filters inbound and outbound traffic at a subnet or network interface?",
+    "options": [
+      "A. Azure Resource Graph",
+      "B. Network Security Group (NSG)",
+      "C. Azure Key Vault",
+      "D. Microsoft Sentinel"
+    ],
+    "answer": "B",
+    "explanation": "NSGs use priority-ordered security rules to allow or deny traffic.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which service protects internet-facing web applications from common HTTP attacks such as SQL injection?",
+    "options": [
+      "A. Azure VPN Gateway",
+      "B. Web Application Firewall (WAF)",
+      "C. Azure Backup",
+      "D. Azure Automation"
+    ],
+    "answer": "B",
+    "explanation": "WAF protects HTTP/S workloads and can run with Application Gateway or Front Door.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which service protects internet-facing web applications from common HTTP attacks such as SQL injection?",
+    "options": [
+      "A. Azure VPN Gateway",
+      "B. Azure Backup",
+      "C. Web Application Firewall (WAF)",
+      "D. Azure Automation"
+    ],
+    "answer": "C",
+    "explanation": "WAF protects HTTP/S workloads and can run with Application Gateway or Front Door.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which Azure service provides DDoS protection plans for public IP resources in virtual networks?",
+    "options": [
+      "A. Azure DDoS Protection",
+      "B. Azure Policy",
+      "C. Azure RBAC",
+      "D. Azure Arc"
+    ],
+    "answer": "A",
+    "explanation": "Azure DDoS Protection provides enhanced mitigation and telemetry for protected public IPs.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure service provides DDoS protection plans for public IP resources in virtual networks?",
+    "options": [
+      "A. Azure Policy",
+      "B. Azure DDoS Protection",
+      "C. Azure RBAC",
+      "D. Azure Arc"
+    ],
+    "answer": "B",
+    "explanation": "Azure DDoS Protection provides enhanced mitigation and telemetry for protected public IPs.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which NSG construct lets rules reference logical groups of network interfaces instead of individual IP addresses?",
+    "options": [
+      "A. Service principal",
+      "B. Application Security Group (ASG)",
+      "C. Resource lock",
+      "D. Private DNS zone"
+    ],
+    "answer": "B",
+    "explanation": "ASGs simplify NSG rules by grouping workloads according to application role.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which NSG construct lets rules reference logical groups of network interfaces instead of individual IP addresses?",
+    "options": [
+      "A. Service principal",
+      "B. Resource lock",
+      "C. Application Security Group (ASG)",
+      "D. Private DNS zone"
+    ],
+    "answer": "C",
+    "explanation": "ASGs simplify NSG rules by grouping workloads according to application role.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which Azure service provides browser-based RDP or SSH connectivity without assigning a public IP to a VM?",
+    "options": [
+      "A. Azure Front Door",
+      "B. Azure CDN",
+      "C. Azure Bastion",
+      "D. Azure Site Recovery"
+    ],
+    "answer": "C",
+    "explanation": "Azure Bastion provides secure RDP/SSH through the Azure portal over TLS.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure service provides browser-based RDP or SSH connectivity without assigning a public IP to a VM?",
+    "options": [
+      "A. Azure Front Door",
+      "B. Azure CDN",
+      "C. Azure Site Recovery",
+      "D. Azure Bastion"
+    ],
+    "answer": "D",
+    "explanation": "Azure Bastion provides secure RDP/SSH through the Azure portal over TLS.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which option lets a virtual network reach Azure PaaS services over the Azure backbone while the service retains a public endpoint?",
+    "options": [
+      "A. Private Endpoint",
+      "B. Azure ExpressRoute",
+      "C. Service endpoint",
+      "D. Azure Route Server"
+    ],
+    "answer": "C",
+    "explanation": "Service endpoints extend VNet identity to supported PaaS services but do not create a private IP for the service.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which option lets a virtual network reach Azure PaaS services over the Azure backbone while the service retains a public endpoint?",
+    "options": [
+      "A. Private Endpoint",
+      "B. Azure ExpressRoute",
+      "C. Azure Route Server",
+      "D. Service endpoint"
+    ],
+    "answer": "D",
+    "explanation": "Service endpoints extend VNet identity to supported PaaS services but do not create a private IP for the service.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which Defender for Cloud capability can limit VM management ports to approved, time-bound access?",
+    "options": [
+      "A. Azure Policy exemption",
+      "B. Azure DNS Private Resolver",
+      "C. Azure Files snapshots",
+      "D. Just-in-time VM access"
+    ],
+    "answer": "D",
+    "explanation": "JIT VM access reduces exposure by opening management ports only when requested and approved.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Defender for Cloud capability can limit VM management ports to approved, time-bound access?",
+    "options": [
+      "A. Just-in-time VM access",
+      "B. Azure Policy exemption",
+      "C. Azure DNS Private Resolver",
+      "D. Azure Files snapshots"
+    ],
+    "answer": "A",
+    "explanation": "JIT VM access reduces exposure by opening management ports only when requested and approved.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which Azure Disk Encryption approach protects VM operating-system and data disks by using keys stored in Key Vault?",
+    "options": [
+      "A. Azure Disk Encryption",
+      "B. Azure Resource Lock",
+      "C. Azure Advisor",
+      "D. Azure Front Door"
+    ],
+    "answer": "A",
+    "explanation": "Azure Disk Encryption uses BitLocker or DM-Crypt and can use Key Vault for key management.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure Disk Encryption approach protects VM operating-system and data disks by using keys stored in Key Vault?",
+    "options": [
+      "A. Azure Resource Lock",
+      "B. Azure Disk Encryption",
+      "C. Azure Advisor",
+      "D. Azure Front Door"
+    ],
+    "answer": "B",
+    "explanation": "Azure Disk Encryption uses BitLocker or DM-Crypt and can use Key Vault for key management.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which storage feature prevents blobs from being modified or deleted for a defined retention period?",
+    "options": [
+      "A. Immutable storage",
+      "B. Soft delete only",
+      "C. Storage account firewall",
+      "D. Lifecycle management"
+    ],
+    "answer": "A",
+    "explanation": "Immutable storage supports time-based retention and legal holds for WORM protection.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which storage feature prevents blobs from being modified or deleted for a defined retention period?",
+    "options": [
+      "A. Soft delete only",
+      "B. Immutable storage",
+      "C. Storage account firewall",
+      "D. Lifecycle management"
+    ],
+    "answer": "B",
+    "explanation": "Immutable storage supports time-based retention and legal holds for WORM protection.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which SQL feature encrypts data at rest, including data files and backups, by default?",
+    "options": [
+      "A. Always Encrypted",
+      "B. Dynamic data masking",
+      "C. SQL auditing",
+      "D. Transparent Data Encryption (TDE)"
+    ],
+    "answer": "D",
+    "explanation": "TDE encrypts the database storage layer; other features address different protection needs.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which SQL feature encrypts data at rest, including data files and backups, by default?",
+    "options": [
+      "A. Transparent Data Encryption (TDE)",
+      "B. Always Encrypted",
+      "C. Dynamic data masking",
+      "D. SQL auditing"
+    ],
+    "answer": "A",
+    "explanation": "TDE encrypts the database storage layer; other features address different protection needs.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which feature lets an Azure Storage account use customer-managed encryption keys?",
+    "options": [
+      "A. Network Security Group",
+      "B. Customer-managed keys in Azure Key Vault",
+      "C. Azure Automation account",
+      "D. Microsoft Sentinel playbook"
+    ],
+    "answer": "B",
+    "explanation": "Storage encryption can use customer-managed keys stored in Key Vault or managed HSM.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which feature lets an Azure Storage account use customer-managed encryption keys?",
+    "options": [
+      "A. Network Security Group",
+      "B. Azure Automation account",
+      "C. Customer-managed keys in Azure Key Vault",
+      "D. Microsoft Sentinel playbook"
+    ],
+    "answer": "C",
+    "explanation": "Storage encryption can use customer-managed keys stored in Key Vault or managed HSM.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which Azure service helps secure container image supply chains by scanning registries and workloads through Defender for Cloud?",
+    "options": [
+      "A. Microsoft Defender for Containers",
+      "B. Azure Bastion",
+      "C. Azure DNS",
+      "D. Azure Backup"
+    ],
+    "answer": "A",
+    "explanation": "Defender for Containers provides threat protection and posture management for container environments.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure service helps secure container image supply chains by scanning registries and workloads through Defender for Cloud?",
+    "options": [
+      "A. Azure Bastion",
+      "B. Microsoft Defender for Containers",
+      "C. Azure DNS",
+      "D. Azure Backup"
+    ],
+    "answer": "B",
+    "explanation": "Defender for Containers provides threat protection and posture management for container environments.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which storage authorization method grants limited, time-bound access to a storage object without sharing the account key?",
+    "options": [
+      "A. Management lock",
+      "B. Service endpoint",
+      "C. Shared access signature (SAS)",
+      "D. Azure Policy assignment"
+    ],
+    "answer": "C",
+    "explanation": "SAS tokens delegate restricted access and should be scoped and time-limited.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which storage authorization method grants limited, time-bound access to a storage object without sharing the account key?",
+    "options": [
+      "A. Management lock",
+      "B. Service endpoint",
+      "C. Azure Policy assignment",
+      "D. Shared access signature (SAS)"
+    ],
+    "answer": "D",
+    "explanation": "SAS tokens delegate restricted access and should be scoped and time-limited.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which Azure service records database audit events for investigation and compliance?",
+    "options": [
+      "A. Azure Load Balancer",
+      "B. Azure SQL Auditing",
+      "C. Azure Cache for Redis",
+      "D. Azure Resource Mover"
+    ],
+    "answer": "B",
+    "explanation": "SQL Auditing tracks database events and can send records to a storage account, Log Analytics, or Event Hubs.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Azure service records database audit events for investigation and compliance?",
+    "options": [
+      "A. Azure Load Balancer",
+      "B. Azure Cache for Redis",
+      "C. Azure SQL Auditing",
+      "D. Azure Resource Mover"
+    ],
+    "answer": "C",
+    "explanation": "SQL Auditing tracks database events and can send records to a storage account, Log Analytics, or Event Hubs.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Defender for Cloud metric summarizes an environment's security posture against recommendations?",
+    "options": [
+      "A. Availability score",
+      "B. Secure score",
+      "C. Azure consumption score",
+      "D. Service Health score"
+    ],
+    "answer": "B",
+    "explanation": "Secure score aggregates recommendations into an actionable posture measurement.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Defender for Cloud metric summarizes an environment's security posture against recommendations?",
+    "options": [
+      "A. Availability score",
+      "B. Azure consumption score",
+      "C. Secure score",
+      "D. Service Health score"
+    ],
+    "answer": "C",
+    "explanation": "Secure score aggregates recommendations into an actionable posture measurement.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Microsoft Sentinel component defines detections that create alerts or incidents from log data?",
+    "options": [
+      "A. Workbook",
+      "B. Data connector",
+      "C. Analytics rule",
+      "D. Watchlist only"
+    ],
+    "answer": "C",
+    "explanation": "Analytics rules run scheduled or near-real-time logic to generate detections.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Sentinel component defines detections that create alerts or incidents from log data?",
+    "options": [
+      "A. Workbook",
+      "B. Data connector",
+      "C. Watchlist only",
+      "D. Analytics rule"
+    ],
+    "answer": "D",
+    "explanation": "Analytics rules run scheduled or near-real-time logic to generate detections.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Microsoft Sentinel capability connects Azure and third-party data sources to a Log Analytics workspace?",
+    "options": [
+      "A. Automation rule",
+      "B. Bookmark",
+      "C. Resource lock",
+      "D. Data connector"
+    ],
+    "answer": "D",
+    "explanation": "Data connectors ingest security data for investigation, hunting, and analytics.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Sentinel capability connects Azure and third-party data sources to a Log Analytics workspace?",
+    "options": [
+      "A. Data connector",
+      "B. Automation rule",
+      "C. Bookmark",
+      "D. Resource lock"
+    ],
+    "answer": "A",
+    "explanation": "Data connectors ingest security data for investigation, hunting, and analytics.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Defender for Cloud feature applies security recommendations and regulatory standards across subscriptions?",
+    "options": [
+      "A. Azure DNS zone",
+      "B. Network Watcher flow log",
+      "C. Azure Bastion",
+      "D. Defender for Cloud environment settings"
+    ],
+    "answer": "D",
+    "explanation": "Environment settings manage Defender plans, policy assignments, and standards at scope.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Defender for Cloud feature applies security recommendations and regulatory standards across subscriptions?",
+    "options": [
+      "A. Defender for Cloud environment settings",
+      "B. Azure DNS zone",
+      "C. Network Watcher flow log",
+      "D. Azure Bastion"
+    ],
+    "answer": "A",
+    "explanation": "Environment settings manage Defender plans, policy assignments, and standards at scope.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Microsoft Sentinel automation component can run a Logic Apps workflow when an incident is created?",
+    "options": [
+      "A. Playbook",
+      "B. Workbook",
+      "C. Private Endpoint",
+      "D. Application Security Group"
+    ],
+    "answer": "A",
+    "explanation": "Sentinel playbooks use Logic Apps to automate enrichment, notification, or response.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Sentinel automation component can run a Logic Apps workflow when an incident is created?",
+    "options": [
+      "A. Workbook",
+      "B. Playbook",
+      "C. Private Endpoint",
+      "D. Application Security Group"
+    ],
+    "answer": "B",
+    "explanation": "Sentinel playbooks use Logic Apps to automate enrichment, notification, or response.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which language is used to query logs in Microsoft Sentinel and Log Analytics?",
+    "options": [
+      "A. DAX",
+      "B. Power Fx",
+      "C. Bicep only",
+      "D. Kusto Query Language (KQL)"
+    ],
+    "answer": "D",
+    "explanation": "KQL is used for log analytics queries, hunting, and many detection rules.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which language is used to query logs in Microsoft Sentinel and Log Analytics?",
+    "options": [
+      "A. Kusto Query Language (KQL)",
+      "B. DAX",
+      "C. Power Fx",
+      "D. Bicep only"
+    ],
+    "answer": "A",
+    "explanation": "KQL is used for log analytics queries, hunting, and many detection rules.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Defender for Cloud capability can identify vulnerabilities in supported virtual machines?",
+    "options": [
+      "A. Defender for Servers vulnerability assessment",
+      "B. Azure Front Door WAF",
+      "C. Azure DNS",
+      "D. Azure Resource Graph only"
+    ],
+    "answer": "A",
+    "explanation": "Defender for Servers integrates vulnerability assessment and recommendations for supported machines.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Defender for Cloud capability can identify vulnerabilities in supported virtual machines?",
+    "options": [
+      "A. Azure Front Door WAF",
+      "B. Defender for Servers vulnerability assessment",
+      "C. Azure DNS",
+      "D. Azure Resource Graph only"
+    ],
+    "answer": "B",
+    "explanation": "Defender for Servers integrates vulnerability assessment and recommendations for supported machines.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which Microsoft Sentinel artifact presents visual reports and queries for security operations?",
+    "options": [
+      "A. Service principal",
+      "B. NSG",
+      "C. Workbook",
+      "D. Azure Disk Encryption"
+    ],
+    "answer": "C",
+    "explanation": "Workbooks visualize Sentinel and Log Analytics data for monitoring and investigation.",
+    "weight": 1,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: A security engineer must meet a stated Azure security requirement. Which Microsoft Sentinel artifact presents visual reports and queries for security operations?",
+    "options": [
+      "A. Service principal",
+      "B. NSG",
+      "C. Azure Disk Encryption",
+      "D. Workbook"
+    ],
+    "answer": "D",
+    "explanation": "Workbooks visualize Sentinel and Log Analytics data for monitoring and investigation.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: You must minimize standing privilege and require approval for high-impact Azure roles. Which TWO PIM capabilities should you use? Select two answers.",
+    "options": [
+      "A. Eligible role assignments",
+      "B. Activation approval",
+      "C. Public IP address",
+      "D. Storage lifecycle rule"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Eligible assignments and activation approval reduce standing privilege and add governance to elevation.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which TWO controls can help protect Azure Key Vault access? Select two answers.",
+    "options": [
+      "A. RBAC or access policies",
+      "B. Private Endpoint",
+      "C. Azure CDN profile",
+      "D. Availability Zone"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Key Vault supports authorization controls and can be exposed privately through Private Link.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Which TWO are Microsoft Entra workload identities? Select two answers.",
+    "options": [
+      "A. Service principal",
+      "B. Managed identity",
+      "C. Network Security Group",
+      "D. Azure Firewall policy"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Service principals and managed identities authenticate workloads to Microsoft Entra protected resources.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Scenario: A Conditional Access policy should reduce sign-in risk. Which TWO controls can it require? Select two answers.",
+    "options": [
+      "A. Multifactor authentication",
+      "B. Compliant device",
+      "C. Azure Backup vault",
+      "D. SQL TDE"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Conditional Access can apply grant controls such as MFA and device compliance.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which TWO services can protect web applications from HTTP/S attacks? Select two answers.",
+    "options": [
+      "A. Azure WAF",
+      "B. Azure Firewall Premium",
+      "C. Azure Files",
+      "D. Azure Bastion"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "WAF protects HTTP workloads and Azure Firewall Premium adds advanced threat protection features.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Scenario: A PaaS database must be reachable only from a VNet and must not expose a public endpoint. Which TWO components fit? Select two answers.",
+    "options": [
+      "A. Private Endpoint",
+      "B. Private DNS zone",
+      "C. Service tag",
+      "D. Public IP prefix"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Private Endpoints use private IPs and normally require private DNS for correct name resolution.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which TWO statements about NSGs are correct? Select two answers.",
+    "options": [
+      "A. They can apply to subnets",
+      "B. They can apply to NICs",
+      "C. They inspect application code",
+      "D. They store secrets"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "NSGs can be associated with a subnet or network interface and enforce traffic rules.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Which TWO capabilities reduce VM management-port exposure? Select two answers.",
+    "options": [
+      "A. Azure Bastion",
+      "B. Just-in-time VM access",
+      "C. Public IP assignment",
+      "D. Allow-any NSG rule"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Bastion removes the need for public VM IPs and JIT limits management port availability.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which TWO controls protect Azure Storage data from deletion or unintended retention changes? Select two answers.",
+    "options": [
+      "A. Soft delete",
+      "B. Immutable storage",
+      "C. Azure Load Balancer",
+      "D. Application Security Group"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Soft delete supports recovery, while immutable storage prevents modification or deletion during retention.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which TWO Defender for Cloud plans are relevant to containerized workloads? Select two answers.",
+    "options": [
+      "A. Defender for Containers",
+      "B. Defender for Cloud posture management",
+      "C. Azure DNS",
+      "D. Azure Bastion"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Defender for Containers provides workload protection while Defender for Cloud provides posture management.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Scenario: A VM must encrypt disks and restrict inbound administrative access. Which TWO controls fit? Select two answers.",
+    "options": [
+      "A. Azure Disk Encryption",
+      "B. Just-in-time VM access",
+      "C. Azure CDN",
+      "D. Microsoft Sentinel workbook"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Disk Encryption protects disks at rest and JIT limits administrative port exposure.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Which TWO Azure SQL capabilities help protect sensitive data? Select two answers.",
+    "options": [
+      "A. Transparent Data Encryption",
+      "B. SQL Auditing",
+      "C. Azure Route Server",
+      "D. Azure Bastion"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "TDE protects data at rest and Auditing records database activity.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which TWO Microsoft Sentinel components help automate incident response? Select two answers.",
+    "options": [
+      "A. Automation rule",
+      "B. Playbook",
+      "C. NSG",
+      "D. SAS token"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Automation rules orchestrate handling and playbooks perform Logic Apps-based response actions.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which TWO sources can Sentinel ingest through data connectors? Select two answers.",
+    "options": [
+      "A. Azure Activity logs",
+      "B. Microsoft Entra logs",
+      "C. Azure disk encryption keys only",
+      "D. Resource locks"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Sentinel connectors can ingest Azure Activity and Microsoft Entra data, among many other sources.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Scenario: An analyst needs to query sign-in data and visualize trends. Which TWO Sentinel capabilities should be used? Select two answers.",
+    "options": [
+      "A. KQL",
+      "B. Workbooks",
+      "C. Azure Disk Encryption",
+      "D. Azure Bastion"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "KQL queries log data and workbooks visualize it for analysis.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Which TWO Defender for Cloud outcomes support security posture management? Select two answers.",
+    "options": [
+      "A. Recommendations",
+      "B. Secure score",
+      "C. Public IP allocation",
+      "D. DNS resolution"
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "Recommendations identify improvements and Secure score summarizes posture progress.",
+    "weight": 2,
+    "question_type": "multi_select"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Case study: A deployment app needs to read a Key Vault secret without storing any credential in its source code. Which solution should be used?",
+    "options": [
+      "A. Embed a storage account key in the app",
+      "B. Assign a managed identity to the app and grant it Key Vault access",
+      "C. Use an NSG rule",
+      "D. Create a public IP address"
+    ],
+    "answer": "B",
+    "explanation": "A managed identity eliminates embedded credentials and can receive least-privilege Key Vault permissions.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Case study: Administrators need Global Administrator access only when performing emergency changes. Which PIM configuration is most appropriate?",
+    "options": [
+      "A. Assign the role permanently",
+      "B. Make the role eligible and require activation",
+      "C. Create a private endpoint",
+      "D. Use a storage SAS"
+    ],
+    "answer": "B",
+    "explanation": "Eligible assignment with activation reduces standing privilege.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Case study: A finance web app must block common web attacks before traffic reaches the application. Which control should be deployed?",
+    "options": [
+      "A. Azure RBAC",
+      "B. Web Application Firewall",
+      "C. Azure Backup",
+      "D. A service principal"
+    ],
+    "answer": "B",
+    "explanation": "WAF is designed to protect HTTP/S applications from common web exploits.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Case study: A storage account must accept traffic only through a private IP in the company VNet. Which feature should be configured?",
+    "options": [
+      "A. Private Endpoint",
+      "B. Service endpoint only",
+      "C. Public IP prefix",
+      "D. Azure CDN"
+    ],
+    "answer": "A",
+    "explanation": "A Private Endpoint gives the supported service a private IP in the VNet.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Case study: Compliance requires that financial blobs cannot be deleted for seven years. Which Storage feature should be used?",
+    "options": [
+      "A. Soft delete only",
+      "B. Immutable storage with a time-based retention policy",
+      "C. A storage lifecycle rule",
+      "D. An NSG"
+    ],
+    "answer": "B",
+    "explanation": "Immutable storage provides WORM retention that prevents deletion or modification during the retention period.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Case study: A team must find missing security updates on Azure VMs and receive recommendations. Which service should they use?",
+    "options": [
+      "A. Microsoft Defender for Cloud with Defender for Servers",
+      "B. Azure DNS",
+      "C. Azure Front Door",
+      "D. Azure Resource Mover"
+    ],
+    "answer": "A",
+    "explanation": "Defender for Servers provides vulnerability assessment and security recommendations for supported VMs.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Case study: Sentinel must create an incident after repeated high-risk sign-ins and then notify a response channel. What should be configured first?",
+    "options": [
+      "A. An analytics rule",
+      "B. A workbook",
+      "C. A private endpoint",
+      "D. An Azure RBAC assignment"
+    ],
+    "answer": "A",
+    "explanation": "Analytics rules create alerts and incidents; automation can then respond to the incident.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Case study: A SOC needs a dashboard of alerts by severity and a drill-down into query results. Which Sentinel artifact should be created?",
+    "options": [
+      "A. Service principal",
+      "B. Workbook",
+      "C. Network Security Group",
+      "D. Azure Disk Encryption policy"
+    ],
+    "answer": "B",
+    "explanation": "Workbooks provide visual, interactive reporting over Sentinel and Log Analytics data.",
+    "weight": 2,
+    "question_type": "single"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Match each identity security capability to its primary purpose.",
+    "left_items": [
+      "PIM",
+      "Conditional Access",
+      "Managed identity"
+    ],
+    "right_items": [
+      "Time-bound privileged elevation",
+      "Apply sign-in access controls",
+      "Authenticate a workload without stored credentials"
+    ],
+    "answer": {
+      "PIM": "Time-bound privileged elevation",
+      "Conditional Access": "Apply sign-in access controls",
+      "Managed identity": "Authenticate a workload without stored credentials"
+    },
+    "explanation": "PIM manages elevation, Conditional Access evaluates and enforces access, and managed identities authenticate workloads.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Match each network security control to its primary use.",
+    "left_items": [
+      "NSG",
+      "Private Endpoint",
+      "WAF"
+    ],
+    "right_items": [
+      "Filter subnet or NIC traffic",
+      "Private access to a PaaS service",
+      "Protect web applications from HTTP attacks"
+    ],
+    "answer": {
+      "NSG": "Filter subnet or NIC traffic",
+      "Private Endpoint": "Private access to a PaaS service",
+      "WAF": "Protect web applications from HTTP attacks"
+    },
+    "explanation": "NSGs filter network flows, Private Endpoints provide private PaaS connectivity, and WAF protects HTTP/S apps.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Match each workload protection feature to its purpose.",
+    "left_items": [
+      "Azure Disk Encryption",
+      "Immutable storage",
+      "SQL Auditing"
+    ],
+    "right_items": [
+      "Protect VM disks at rest",
+      "Prevent blob deletion or modification",
+      "Record database activity"
+    ],
+    "answer": {
+      "Azure Disk Encryption": "Protect VM disks at rest",
+      "Immutable storage": "Prevent blob deletion or modification",
+      "SQL Auditing": "Record database activity"
+    },
+    "explanation": "These controls protect disks, retention-sensitive storage data, and database activity respectively.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Match each Sentinel component to its purpose.",
+    "left_items": [
+      "Data connector",
+      "Analytics rule",
+      "Playbook"
+    ],
+    "right_items": [
+      "Ingest security data",
+      "Create alerts and incidents",
+      "Automate response actions"
+    ],
+    "answer": {
+      "Data connector": "Ingest security data",
+      "Analytics rule": "Create alerts and incidents",
+      "Playbook": "Automate response actions"
+    },
+    "explanation": "Connectors ingest data, analytics rules detect it, and playbooks automate actions.",
+    "weight": 3,
+    "question_type": "matching"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "Drag the steps into the best order for granting an application least-privilege Key Vault access.",
+    "items": [
+      "Enable a managed identity for the application",
+      "Assign the required Key Vault role at the narrowest scope",
+      "Test access using the application's identity",
+      "Remove any temporary broad permissions"
+    ],
+    "answer": [
+      "Enable a managed identity for the application",
+      "Assign the required Key Vault role at the narrowest scope",
+      "Test access using the application's identity",
+      "Remove any temporary broad permissions"
+    ],
+    "explanation": "Use workload identity, least-privilege authorization, testing, and cleanup when configuring access.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "Drag the steps into the best order for privately connecting a VNet to a PaaS service.",
+    "items": [
+      "Create a Private Endpoint in the target VNet",
+      "Configure private DNS resolution",
+      "Disable or restrict public network access as required",
+      "Test private connectivity"
+    ],
+    "answer": [
+      "Create a Private Endpoint in the target VNet",
+      "Configure private DNS resolution",
+      "Disable or restrict public network access as required",
+      "Test private connectivity"
+    ],
+    "explanation": "Private Endpoint deployment typically includes DNS configuration, public-access restrictions, and validation.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "Drag the steps into the best order for protecting a new VM workload.",
+    "items": [
+      "Deploy the VM without a public management port",
+      "Enable Defender for Servers",
+      "Configure just-in-time access if management access is needed",
+      "Review recommendations and remediate findings"
+    ],
+    "answer": [
+      "Deploy the VM without a public management port",
+      "Enable Defender for Servers",
+      "Configure just-in-time access if management access is needed",
+      "Review recommendations and remediate findings"
+    ],
+    "explanation": "Limit exposure first, enable protection, control management access, and then remediate findings.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "Drag the steps into the best order for creating a Sentinel detection and response workflow.",
+    "items": [
+      "Connect the data source",
+      "Write and test the analytics rule",
+      "Create the playbook or automation rule",
+      "Investigate and tune resulting incidents"
+    ],
+    "answer": [
+      "Connect the data source",
+      "Write and test the analytics rule",
+      "Create the playbook or automation rule",
+      "Investigate and tune resulting incidents"
+    ],
+    "explanation": "Security data must be ingested before detections, automation, and continuous tuning.",
+    "weight": 3,
+    "question_type": "drag_drop"
+  },
+  {
+    "pillar": "Secure identity and access",
+    "question": "True or False: A managed identity can help an Azure workload access supported services without embedding a client secret in code.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Managed identities obtain tokens from Microsoft Entra ID without developer-managed credentials.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Secure networking",
+    "question": "True or False: A Private Endpoint gives a supported Azure PaaS service a private IP address in a virtual network.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Private Endpoints map a private IP in the VNet to the supported service.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Secure compute, storage, and databases",
+    "question": "True or False: Soft delete and immutable storage provide exactly the same protection against data deletion.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B",
+    "explanation": "Soft delete supports recovery, whereas immutable storage prevents modification or deletion during a retention period.",
+    "weight": 1,
+    "question_type": "true_false"
+  },
+  {
+    "pillar": "Secure Azure using Defender for Cloud and Sentinel",
+    "question": "True or False: Microsoft Sentinel analytics rules can generate incidents from security data.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A",
+    "explanation": "Analytics rules evaluate ingested data and can create alerts and incidents.",
+    "weight": 1,
+    "question_type": "true_false"
+  }
+]
