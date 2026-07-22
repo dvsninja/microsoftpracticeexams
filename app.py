@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import random
 import time
+from html import escape
 from pathlib import Path
 
 import streamlit as st
@@ -252,14 +253,15 @@ def render_question(results: bool = False) -> None:
 def selector_page() -> None:
     st.title("Microsoft Certified Practice Exams")
     st.write("Choose an exam to generate a new randomized practice session.")
-    for row_start in range(0, len(EXAMS), 4):
-        columns = st.columns(4)
-        for column, (exam_id, config) in zip(columns, list(EXAMS.items())[row_start:row_start + 4]):
-            with column:
-                st.markdown(f"<div class='exam-card'><u>MICROSOFT CERTIFIED:</u><br><br><b>{config['title']}</b><h1>{exam_id}</h1></div>", unsafe_allow_html=True)
-                if st.button("START", key=f"start_{exam_id}", use_container_width=True, type="primary"):
-                    start_exam(exam_id)
-                    st.rerun()
+    cards = []
+    for exam_id, config in EXAMS.items():
+        cards.append(
+            f"""<article class='exam-card'>
+                <div><u>MICROSOFT CERTIFIED:</u><p>{escape(config['title'])}</p></div>
+                <div><h1>{exam_id}</h1><a class='exam-start' href='?exam={exam_id}' target='_self'>START</a></div>
+            </article>"""
+        )
+    st.markdown(f"<div class='exam-grid'>{''.join(cards)}</div>", unsafe_allow_html=True)
 
 
 def exam_page() -> None:
@@ -327,14 +329,27 @@ def results_review_page() -> None:
 st.markdown(f"""
 <style>
     .stApp {{ background: {APP_BACKGROUND}; color: #f6f6f6; }}
-    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; height: 250px;
+    .exam-grid {{ display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px;
+                  width: 100%; margin-top: 24px; }}
+    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; height: 270px;
                   box-sizing: border-box; padding: 18px; text-align: center; font-size: 1rem;
                   display: flex; flex-direction: column; justify-content: space-between; }}
-    .exam-card h1 {{ color: #0067ce; margin: 18px 0 0; }}
+    .exam-card p {{ font-weight: 700; line-height: 1.3; margin: 20px 0 0; }}
+    .exam-card h1 {{ color: #0067ce; margin: 0 0 16px; }}
+    .exam-start {{ display: block; background: #0067ce; border: 2px solid #111; color: #fff !important;
+                   font-weight: 700; padding: 10px 12px; text-decoration: none !important; }}
+    .exam-start:hover {{ background: #0055aa; color: #fff !important; }}
+    @media (min-width: 700px) {{
+        .exam-grid {{ grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }}
+    }}
 </style>
 """, unsafe_allow_html=True)
 
 init_state()
+requested_exam = st.query_params.get("exam")
+if requested_exam in EXAMS:
+    start_exam(requested_exam)
+    st.query_params.clear()
 if st.session_state.screen == "selector":
     selector_page()
 elif st.session_state.screen == "exam":
