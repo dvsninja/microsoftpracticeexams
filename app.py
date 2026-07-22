@@ -9,6 +9,7 @@ from html import escape
 from pathlib import Path
 
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 
 
 st.set_page_config(page_title="Microsoft Practice Exams", page_icon="🎓", layout="wide")
@@ -33,8 +34,8 @@ EXAMS = {
     "AB-730": {"title": "Microsoft Certified: AI Business Solutions Architect", "bank": "ab730_questions.json", "minutes": 45, "pillars": ["Generative AI fundamentals", "Prompts and conversations", "Business content", "Meetings and collaboration", "Responsible use"]},
     "AB-900": {"title": "Microsoft 365 Certified: Copilot and Agent Administration Fundamentals", "bank": "ab900_questions.json", "minutes": 45, "pillars": ["Copilot administration", "Security and compliance", "Agents", "Governance", "Adoption"]},
     "AI-901": {"title": "Microsoft Certified: Azure AI Fundamentals", "bank": "ai901_questions.json", "minutes": 45, "pillars": ["AI concepts", "Machine learning", "Computer vision", "Natural language processing", "Generative AI and Foundry"]},
-    "PL-300": {"title": "Microsoft Certified: Power BI Data Analyst Associate", "bank": "pl300_questions.json", "minutes": 45, "pillars": ["Prepare data", "Model data", "Visualize and analyze", "Usability and storytelling", "Manage and secure Power BI"]},
-    "PL-200": {"title": "Microsoft Certified: Power Platform Functional Consultant Associate", "bank": "pl200_questions.json", "minutes": 45, "pillars": ["Dataverse", "Power Apps", "Process automation", "Power Pages", "Environments and ALM"]},
+    "PL-300": {"title": "Microsoft Certified: Power BI Data Analyst Associate", "bank": "pl300_questions.json", "minutes": 100, "pillars": ["Prepare data", "Model data", "Visualize and analyze", "Usability and storytelling", "Manage and secure Power BI"]},
+    "PL-200": {"title": "Microsoft Certified: Power Platform Functional Consultant Associate", "bank": "pl200_questions.json", "minutes": 100, "pillars": ["Dataverse", "Power Apps", "Process automation", "Power Pages", "Environments and ALM"]},
     "AB-731": {"title": "Microsoft Certified: AI Transformation Leader", "bank": "ab731_questions.json", "minutes": 45, "pillars": ["AI strategy", "Use-case prioritization", "Responsible AI and governance", "Adoption and change", "Innovation and optimization"]},
 }
 
@@ -265,6 +266,8 @@ def selector_page() -> None:
 
 def exam_page() -> None:
     config = EXAMS[st.session_state.exam_id]
+    # Refresh while an exam is open so time expiration is enforced even with no user interaction.
+    st_autorefresh(interval=1000, key="exam_timer_refresh")
     elapsed = int(time.time() - st.session_state.start_time)
     remaining = max(0, st.session_state.duration - elapsed)
     if remaining == 0:
