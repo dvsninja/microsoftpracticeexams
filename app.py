@@ -342,7 +342,7 @@ st.markdown(f"""
     .exam-start {{ display: block; background: #0067ce; border: 2px solid #111; color: #fff !important;
                    font-weight: 700; padding: 10px 12px; text-decoration: none !important; }}
     .exam-start:hover {{ background: #0055aa; color: #fff !important; }}
-    .progress-grid {{ display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 8px;
+    .progress-grid {{ display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;
                       width: 100%; padding: 12px 0; }}
     .progress-box {{ align-items: center; border: 2px solid #111; box-sizing: border-box; color: #111 !important;
                      display: inline-flex; flex: 0 0 44px; height: 44px; justify-content: center;
