@@ -327,8 +327,9 @@ def results_review_page() -> None:
 st.markdown(f"""
 <style>
     .stApp {{ background: {APP_BACKGROUND}; color: #f6f6f6; }}
-    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; min-height: 160px;
-                  padding: 18px; text-align: center; font-size: 1rem; }}
+    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; height: 250px;
+                  box-sizing: border-box; padding: 18px; text-align: center; font-size: 1rem;
+                  display: flex; flex-direction: column; justify-content: space-between; }}
     .exam-card h1 {{ color: #0067ce; margin: 18px 0 0; }}
 </style>
 """, unsafe_allow_html=True)
