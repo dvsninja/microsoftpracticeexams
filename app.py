@@ -139,17 +139,15 @@ def move_drag_item(index: int, source: int, direction: int) -> None:
 
 
 def render_progress(results: bool = False) -> None:
-    questions = st.session_state.questions
-    columns = st.columns(len(questions), gap="small")
-    for index, column in enumerate(columns):
+    boxes = []
+    for index, _question in enumerate(st.session_state.questions):
         if results:
-            marker = "🟨" if index not in st.session_state.answers else ("🟩" if is_correct(index) else "🟥")
+            status = "unanswered" if index not in st.session_state.answers else ("correct" if is_correct(index) else "incorrect")
         else:
-            marker = "🔵" if index == st.session_state.question_index else ("🟩" if index in st.session_state.answers else "⬜")
-        if column.button(f"{marker}{index + 1}", key=f"jump_{results}_{index}", use_container_width=True):
-            st.session_state.question_index = index
-            st.session_state.screen = "results_review" if results else "exam"
-            st.rerun()
+            status = "current" if index == st.session_state.question_index else ("answered" if index in st.session_state.answers else "pending")
+        mode = "results" if results else "exam"
+        boxes.append(f"<a class='progress-box {status}' href='?jump={index}&amp;mode={mode}' target='_self'>{index + 1}</a>")
+    st.markdown(f"<div class='progress-grid'>{''.join(boxes)}</div>", unsafe_allow_html=True)
 
 
 def render_feedback(question: dict, index: int, results: bool) -> None:
@@ -255,9 +253,10 @@ def selector_page() -> None:
     st.write("Choose an exam to generate a new randomized practice session.")
     cards = []
     for exam_id, config in EXAMS.items():
+        display_title = config["title"].removeprefix("Microsoft Certified: ").removeprefix("Microsoft 365 Certified: ")
         cards.append(
             f"""<article class='exam-card'>
-                <div><u>MICROSOFT CERTIFIED:</u><p>{escape(config['title'])}</p></div>
+                <div><u>MICROSOFT CERTIFIED:</u><p>{escape(display_title)}</p></div>
                 <div><h1>{exam_id}</h1><a class='exam-start' href='?exam={exam_id}' target='_self'>START</a></div>
             </article>"""
         )
@@ -331,16 +330,28 @@ st.markdown(f"""
     .stApp {{ background: {APP_BACKGROUND}; color: #f6f6f6; }}
     .exam-grid {{ display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px;
                   width: 100%; margin-top: 24px; }}
-    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; height: 270px;
-                  box-sizing: border-box; padding: 18px; text-align: center; font-size: 1rem;
+    .exam-card {{ background: #FAF9F6; color: #111; border: 5px solid #111; aspect-ratio: 3 / 2;
+                  box-sizing: border-box; padding: clamp(12px, 1.5vw, 18px); text-align: center; font-size: 1rem;
                   display: flex; flex-direction: column; justify-content: space-between; }}
-    .exam-card p {{ font-weight: 700; line-height: 1.3; margin: 20px 0 0; }}
-    .exam-card h1 {{ color: #0067ce; margin: 0 0 16px; }}
+    .exam-card p {{ align-items: center; display: flex; font-size: clamp(0.72rem, 1.1vw, 1rem); font-weight: 700;
+                   justify-content: center; line-height: 1.3; margin: 14px 0 0; min-height: 3.9em; }}
+    .exam-card h1 {{ color: #0067ce; font-size: clamp(1.45rem, 2.5vw, 2rem); margin: 0 0 12px; }}
     .exam-start {{ display: block; background: #0067ce; border: 2px solid #111; color: #fff !important;
                    font-weight: 700; padding: 10px 12px; text-decoration: none !important; }}
     .exam-start:hover {{ background: #0055aa; color: #fff !important; }}
+    .progress-grid {{ display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 8px;
+                      width: 100%; padding: 12px 0; }}
+    .progress-box {{ align-items: center; border: 2px solid #111; box-sizing: border-box; color: #111 !important;
+                     display: inline-flex; flex: 0 0 44px; height: 44px; justify-content: center;
+                     font-weight: 700; text-decoration: none !important; }}
+    .progress-box:hover {{ border-color: #fff; outline: 2px solid #0067ce; color: #111 !important; }}
+    .progress-box.pending {{ background: #dddddd; }}
+    .progress-box.current {{ background: #0078d4; color: #fff !important; }}
+    .progress-box.answered, .progress-box.correct {{ background: #4CAF50; }}
+    .progress-box.unanswered {{ background: #FFC107; }}
+    .progress-box.incorrect {{ background: #e74c3c; color: #fff !important; }}
     @media (min-width: 700px) {{
-        .exam-grid {{ grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }}
+        .exam-grid {{ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }}
     }}
 </style>
 """, unsafe_allow_html=True)
@@ -349,6 +360,17 @@ init_state()
 requested_exam = st.query_params.get("exam")
 if requested_exam in EXAMS:
     start_exam(requested_exam)
+requested_jump = st.query_params.get("jump")
+requested_mode = st.query_params.get("mode")
+if requested_jump is not None and st.session_state.questions:
+    try:
+        jump_index = int(requested_jump)
+    except (TypeError, ValueError):
+        jump_index = -1
+    if 0 <= jump_index < len(st.session_state.questions):
+        st.session_state.question_index = jump_index
+        st.session_state.screen = "results_review" if requested_mode == "results" else "exam"
+if requested_exam in EXAMS or requested_jump is not None:
     st.query_params.clear()
 if st.session_state.screen == "selector":
     selector_page()
